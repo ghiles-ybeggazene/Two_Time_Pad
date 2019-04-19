@@ -1,0 +1,20723 @@
+A  6
+Al 5
+An 2
+Bo 2
+By 2
+Ch 1
+Co 1
+Cz 2
+Da 2
+Do 2
+Dr 1
+Fa 1
+Gd 1
+Ha 2
+I  16
+Ja 7
+Ka 2
+Ki 1
+Kl 1
+Km 7
+Ko 2
+Kr 6
+Ks 1
+Ku 1
+La 1
+Le 10
+Li 1
+Mi 1
+Mł 3
+Na 7
+Ni 2
+Nu 1
+Oc 1
+Od 1
+Og 1
+Oﬁ 2
+P. 1
+Pa 6
+Po 10
+Pr 8
+Pu 1
+Ra 4
+Ro 3
+Ró 1
+Sa 3
+Si 1
+Sk 1
+So 2
+Sz 3
+TO 2
+Ta 5
+Te 3
+To 4
+Tr 2
+Tu 5
+Tw 1
+Ty 6
+Um 1
+Up 1
+W  8
+Wa 1
+Wi 3
+Wo 1
+Wr 2
+Ws 2
+Wt 1
+Wy 3
+Wó 1
+Z  3
+Za 3
+Zb 1
+Ze 1
+Zr 1
+Zw 1
+ak 4
+al 1
+be 2
+bi 2
+bo 2
+br 1
+bu 2
+by 1
+bę 1
+bł 1
+ca 1
+ce 1
+ch 4
+ci 1
+cu 1
+cz 8
+da 1
+dl 1
+dn 1
+do 4
+es 2
+eź 1
+ga 2
+go 4
+gr 1
+gł 1
+i  15
+in 1
+ka 1
+ko 7
+kr 2
+kt 4
+ku 1
+ką 1
+la 2
+le 1
+li 1
+ma 2
+mi 5
+mn 2
+mo 1
+mu 2
+mó 4
+mę 1
+na 6
+ni 8
+ną 2
+o  2
+ob 1
+oc 2
+od 1
+og 1
+oh 1
+ok 1
+on 1
+op 1
+or 1
+ot 2
+oł 1
+pa 1
+po 5
+pr 10
+re 2
+ro 1
+ru 2
+ry 1
+rz 1
+sc 1
+se 1
+si 7
+sk 1
+so 2
+sp 2
+st 3
+sw 1
+sz 5
+sł 1
+ta 2
+to 3
+tr 2
+tu 1
+ty 2
+tą 1
+tę 1
+uc 1
+ut 1
+uł 1
+uż 1
+w  8
+wa 4
+we 1
+wi 8
+wn 1
+wo 6
+wu 1
+wy 5
+wz 1
+wł 1
+wǳ 1
+z  6
+za 7
+ze 1
+zn 1
+zo 1
+zu 1
+zw 1
+zł 1
+ła 1
+łą 1
+śn 1
+św 1
+Ża 1
+Żo 2
+Ży 1
+że 2
+ży 1
+ǲi 1
+ǳi 1
+—  213
+„A 1
+„B 2
+„I 1
+„K 1
+„N 1
+„P 2
+„S 1
+ 6
+ !  189
+ !” 9
+ !… 35
+ (  1
+ (B 2
+ (D 1
+ (N 1
+ (R 1
+ (T 2
+ (X 3
+ (a 22
+ (b 8
+ (c 7
+ (d 178
+ (g 2
+ (h 3
+ (i 1
+ (k 1
+ (l 13
+ (m 20
+ (n 5
+ (o 9
+ (p 32
+ (r 3
+ (s 6
+ (t 20
+ (u 2
+ (w 6
+ (z 132
+ (ł 117
+ (ż 1
+ (ǳ 28
+ ( 7
+ ( 162
+ ( 2
+ ( 1
+ ( 1
+ ( 1
+ ( 1
+ (ﬂ 1
+ )  27
+ ). 13
+ ,  1067
+ -K 4
+ -c 1
+ -p 1
+ .  367
+ ., 2
+ .” 1
+ :  52
+ ;  42
+ ?  17
+ ?… 1
+ A  960
+ A! 5
+ A, 4
+ A? 1
+ Ab 7
+ Ac 14
+ Ad 16
+ Ag 2
+ Ah 10
+ Ak 41
+ Al 604
+ Am 26
+ An 573
+ Ap 1
+ Ar 59
+ As 6
+ At 19
+ Au 4
+ Az 2
+ Ał 8
+ Aż 16
+ A… 1
+ A 5
+ B. 29
+ BN 1
+ BY 1
+ Ba 390
+ Be 56
+ Bi 378
+ Bl 16
+ Bn 1
+ Bo 1231
+ Br 100
+ Bu 128
+ By 207
+ Bó 469
+ Bü 3
+ Bą 29
+ Bę 51
+ Bĳ 29
+ Bł 15
+ C. 6
+ CC 1
+ Ca 95
+ Ce 9
+ Ch 608
+ Ci 174
+ Ck 1
+ Cn 14
+ Co 418
+ Cr 4
+ Cu 16
+ Cy 10
+ Cz 860
+ Có 50
+ D. 26
+ DR 1
+ Da 274
+ De 35
+ Di 23
+ Dl 112
+ Dn 14
+ Do 449
+ Dr 57
+ Du 103
+ Dw 38
+ Dy 22
+ Dą 1
+ Dę 3
+ Dł 11
+ Dż 1
+ E  61
+ E! 6
+ E, 1
+ Ec 1
+ Ed 1
+ Eg 8
+ Eh 2
+ Ek 8
+ El 21
+ En 1
+ Er 12
+ Es 3
+ Et 2
+ Eu 14
+ Ew 7
+ Eł 5
+ Eﬀ 3
+ Fa 10
+ Fe 5
+ Fi 12
+ Fl 6
+ Fo 34
+ Fr 34
+ Fu 8
+ G. 2
+ Ga 98
+ Gd 152
+ Ge 2
+ Gi 8
+ Gm 1
+ Gn 16
+ Go 155
+ Gr 119
+ Gu 106
+ Gw 5
+ Gy 1
+ Gó 32
+ Gę 7
+ Gł 68
+ Gǳ 87
+ Ha 145
+ He 119
+ Hi 13
+ Hl 8
+ Hm 19
+ Ho 59
+ Hr 4
+ Hu 15
+ Hy 3
+ Hę 5
+ I  366
+ I! 4
+ I, 2
+ II 36
+ IV 8
+ Ic 5
+ Id 37
+ Il 12
+ Im 39
+ In 84
+ Ir 4
+ Is 4
+ It 1
+ Iw 7
+ Iz 16
+ Iś 2
+ Iż 1
+ Iǳ 13
+ I… 2
+ J. 9
+ JM 1
+ Ja 1234
+ Je 675
+ Jo 9
+ Ju 196
+ Jó 59
+ Ją 3
+ Ję 37
+ KR 1
+ Ka 519
+ Kc 1
+ Ke 36
+ Ki 327
+ Kl 12
+ Km 1492
+ Ko 706
+ Kp 1
+ Kr 324
+ Ks 154
+ Kt 209
+ Ku 192
+ Kw 4
+ Ky 6
+ Kz 1
+ Ką 1
+ Kę 1
+ Kĳ 3
+ Kł 21
+ La 63
+ Le 221
+ Lg 3
+ Li 265
+ Lo 26
+ Lu 250
+ Lw 37
+ Lü 10
+ Lż 1
+ M  2
+ M. 31
+ Ma 397
+ Md 1
+ Me 5
+ Mg 2
+ Mi 727
+ Mn 48
+ Mo 378
+ Mr 5
+ Ms 9
+ Mu 90
+ My 102
+ Mó 124
+ Mü 10
+ Mą 11
+ Mę 10
+ Mĳ 2
+ Mł 13
+ Mś 1
+ N. 40
+ Na 705
+ Ne 5
+ Ni 1652
+ No 110
+ Nu 15
+ Nĳ 1
+ O  175
+ O! 5
+ O, 17
+ Ob 117
+ Oc 49
+ Od 151
+ Oe 1
+ Og 27
+ Oh 8
+ Ok 59
+ Ol 283
+ Om 13
+ On 176
+ Op 57
+ Or 50
+ Os 120
+ Ot 184
+ Ow 64
+ Ox 6
+ Oz 4
+ Oś 4
+ Oż 2
+ Oǳ 1
+ Oﬁ 21
+ P  3
+ P. 1
+ PI 1
+ PL 1
+ Pa 746
+ Pc 1
+ Pe 81
+ Ph 1
+ Pi 205
+ Pl 16
+ Pn 1
+ Po 1896
+ Pr 825
+ Ps 4
+ Pt 5
+ Pu 51
+ Py 30
+ Pó 55
+ Pö 1
+ Pę 2
+ Pĳ 2
+ Pł 11
+ R. 1
+ Ra 596
+ Re 77
+ Ri 2
+ Ro 326
+ Ru 67
+ Ry 36
+ Rz 475
+ Rá 1
+ Ró 12
+ Rö 14
+ Rę 12
+ S. 2
+ SI 1
+ Sa 664
+ Sc 13
+ Se 41
+ Sh 3
+ Si 145
+ Sk 319
+ Sm 15
+ So 189
+ Sp 79
+ Sr 15
+ St 390
+ Su 39
+ Sw 33
+ Sy 40
+ Sz 1240
+ Są 34
+ Sę 3
+ Sł 191
+ T. 1
+ TR 1
+ Ta 794
+ Tc 5
+ Te 251
+ Tf 13
+ To 611
+ Tr 145
+ Tu 86
+ Tw 69
+ Ty 300
+ Tę 18
+ Tł 14
+ U  70
+ Ub 9
+ Uc 44
+ Ud 9
+ Uf 13
+ Ug 1
+ Uh 17
+ Uk 55
+ Ul 6
+ Um 12
+ Un 5
+ Up 80
+ Ur 8
+ Us 28
+ Ut 6
+ Uw 21
+ Uz 3
+ Uł 4
+ Uś 3
+ VI 1
+ Vo 1
+ W  312
+ W- 1
+ W. 28
+ WL 1
+ WM 4
+ WP 6
+ WX 2
+ Wa 506
+ Wb 1
+ Wc 18
+ Wd 1
+ We 85
+ Wi 863
+ Wk 8
+ Wl 2
+ Wn 11
+ Wo 997
+ Wp 17
+ Wr 154
+ Ws 232
+ Wt 21
+ Wu 12
+ Wy 156
+ Wz 24
+ Wó 33
+ Wą 40
+ Wę 34
+ Wł 72
+ Wś 5
+ Wǳ 6
+ X. 16
+ XI 22
+ XV 75
+ Z  187
+ Za 1281
+ Zb 110
+ Zd 108
+ Ze 77
+ Zg 37
+ Zi 13
+ Zl 2
+ Zm 10
+ Zn 77
+ Zo 69
+ Zr 44
+ Zs 1
+ Zu 2
+ Zw 31
+ Zy 10
+ Zz 2
+ Zę 1
+ Zł 25
+ Zǳ 1
+ [p 2432
+ [w 1
+ a  3735
+ a! 36
+ a) 1
+ a, 164
+ a. 97
+ a: 7
+ a; 3
+ a? 4
+ ab 585
+ ac 625
+ ad 172
+ af 60
+ ag 21
+ ah 1
+ ak 3784
+ al 2039
+ am 121
+ an 422
+ ap 13
+ ar 386
+ as 211
+ at 59
+ au 34
+ aw 103
+ az 367
+ a² 10
+ a³ 2
+ a¹ 10
+ aą 1
+ ać 10
+ ał 35
+ ań 14
+ aś 93
+ aź 61
+ aż 450
+ aǳ 2
+ a” 1
+ a… 8
+ a⁴ 1
+ a⁵ 1
+ a⁶ 1
+ a⁸ 1
+ a 4
+ ba 738
+ be 687
+ bg 2
+ bi 868
+ bl 377
+ bo 2803
+ br 1162
+ bu 343
+ by 4251
+ bz 2
+ bó 84
+ bą 57
+ bę 956
+ bĳ 61
+ bł 306
+ c  1
+ ca 1168
+ ce 233
+ ch 4175
+ ci 2430
+ cm 4
+ cn 95
+ co 2224
+ cu 168
+ cw 2
+ cy 103
+ cz 4655
+ có 144
+ cą 24
+ cę 45
+ cł 3
+ da 1791
+ db 14
+ de 229
+ di 141
+ dl 837
+ dm 2
+ dn 319
+ do 7279
+ dr 1593
+ du 689
+ dw 740
+ dy 264
+ dó 37
+ dą 109
+ dę 98
+ dł 416
+ dź 79
+ dż 6
+ d’ 2
+ d… 1
+ e  1429
+ e! 68
+ e, 255
+ e. 161
+ e: 10
+ e; 8
+ e? 32
+ ec 684
+ ed 3273
+ eg 1106
+ ek 70
+ el 162
+ em 282
+ en 789
+ er 22
+ es 2013
+ et 5
+ eu 2
+ ew 456
+ ex 1
+ ez 51
+ e² 5
+ e¹ 11
+ eł 1
+ eń 60
+ eś 324
+ eź 157
+ eż 283
+ eǳ 183
+ e” 3
+ e… 30
+ e⁴ 3
+ e⁵ 2
+ e⁶ 2
+ e⁹ 2
+ fa 171
+ fe 79
+ fo 368
+ fu 110
+ ga 326
+ gb 1
+ gd 1187
+ ge 35
+ gi 55
+ gl 28
+ gm 15
+ gn 203
+ go 2679
+ gr 951
+ gu 35
+ gw 186
+ gz 2
+ gó 247
+ gą 25
+ gę 158
+ gł 1591
+ gǳ 343
+ ha 209
+ he 676
+ hi 21
+ ho 103
+ hr 49
+ ht 1
+ hu 234
+ hy 8
+ hę 4
+ i  12211
+ i! 4
+ i, 69
+ i. 54
+ i: 2
+ i; 2
+ i? 5
+ ic 816
+ id 124
+ ig 15
+ il 121
+ im 583
+ in 978
+ ir 4
+ is 133
+ it 8
+ iz 122
+ i² 13
+ i³ 2
+ i¹ 17
+ iś 126
+ iż 382
+ iǳ 99
+ i… 4
+ i⁴ 2
+ i⁵ 1
+ i⁶ 4
+ i⁷ 1
+ i⁸ 3
+ i⁹ 1
+ ka 1642
+ kc 3
+ ki 725
+ kl 441
+ km 27
+ kn 17
+ ko 3592
+ kp 14
+ kr 3129
+ ks 1761
+ kt 3331
+ ku 988
+ kw 181
+ kó 12
+ ką 61
+ kę 8
+ kĳ 35
+ kł 148
+ la 584
+ le 1357
+ lg 2
+ li 753
+ lm 118
+ ln 5
+ lo 130
+ lp 45
+ lu 1401
+ lw 26
+ ló 2
+ lą 1
+ lę 8
+ lś 6
+ lż 22
+ m  9
+ m, 6
+ m. 27
+ m; 1
+ ma 2169
+ mc 2
+ md 12
+ me 99
+ mg 76
+ mi 4797
+ mk 4
+ ml 14
+ mm 4
+ mn 1551
+ mo 3022
+ mr 156
+ ms 35
+ mu 2111
+ my 838
+ mó 1487
+ mą 102
+ mę 210
+ mĳ 10
+ mł 268
+ mś 20
+ mż 1
+ n, 1
+ n. 2
+ na 12604
+ ne 117
+ ni 14345
+ no 1195
+ np 2
+ nu 57
+ ny 967
+ nó 85
+ ną 65
+ nę 101
+ nĳ 8
+ o  2601
+ o! 7
+ o, 15
+ o. 2
+ o: 3
+ o? 1
+ ob 1986
+ oc 1003
+ od 4247
+ of 1
+ og 602
+ oh 3
+ ok 1054
+ ol 106
+ om 122
+ on 1114
+ op 817
+ or 256
+ os 868
+ ot 580
+ ow 1435
+ oz 198
+ o² 2
+ o¹ 3
+ oł 38
+ oś 113
+ oż 40
+ oǳ 76
+ o⁴ 1
+ o⁷ 2
+ oﬁ 380
+ p  182
+ p. 19
+ pa 5600
+ pc 26
+ pe 489
+ pi 1999
+ pl 115
+ pn 13
+ po 14673
+ pp 5
+ pr 10051
+ ps 131
+ pt 101
+ pu 737
+ py 375
+ pó 676
+ pą 1
+ pę 102
+ pĳ 40
+ pł 475
+ r. 77
+ ra 2070
+ re 1022
+ ro 2705
+ ru 647
+ rw 20
+ ry 455
+ rz 3081
+ ró 341
+ rą 107
+ rę 971
+ rż 19
+ rǳ 2
+ sa 1534
+ sc 372
+ se 617
+ sf 10
+ si 10773
+ sk 2014
+ sm 137
+ sn 58
+ so 926
+ sp 2324
+ sr 128
+ st 4183
+ su 238
+ sw 961
+ sy 241
+ sz 4650
+ só 1
+ są 338
+ sę 17
+ sł 1742
+ t  457
+ t! 2
+ t, 1
+ t: 8
+ ta 4014
+ tc 59
+ te 3376
+ tf 3
+ tk 26
+ tl 7
+ tn 13
+ to 4620
+ tp 10
+ tr 1639
+ tt 28
+ tu 1213
+ tw 711
+ ty 2975
+ tz 7
+ t² 2
+ t¹ 5
+ tó 2
+ tą 55
+ tę 288
+ tł 170
+ t⁴ 1
+ t⁸ 2
+ u  612
+ u! 20
+ u, 89
+ u. 38
+ u; 3
+ u? 4
+ ub 128
+ uc 1101
+ ud 320
+ uf 92
+ ug 38
+ uh 1
+ uk 367
+ ul 88
+ um 448
+ un 141
+ uo 2
+ up 305
+ ur 260
+ us 850
+ ut 369
+ uw 220
+ uz 76
+ u² 1
+ uł 35
+ uś 90
+ uż 1408
+ uǳ 88
+ u… 3
+ vo 33
+ w  7736
+ w. 73
+ wa 2517
+ wb 31
+ wc 207
+ wd 24
+ we 786
+ wg 3
+ wi 5505
+ wk 108
+ wl 21
+ wm 7
+ wn 155
+ wo 3016
+ wp 454
+ wr 847
+ ws 2396
+ wt 144
+ wu 42
+ wy 4151
+ wz 742
+ wó 187
+ wą 202
+ wę 64
+ wĳ 4
+ wł 879
+ wś 159
+ wż 2
+ wǳ 81
+ z  5891
+ za 8481
+ zb 802
+ zd 1205
+ ze 1343
+ zg 488
+ zh 7
+ zi 410
+ zl 61
+ zm 517
+ zn 1503
+ zo 445
+ zr 249
+ zs 35
+ zu 172
+ zw 1096
+ zy 27
+ zz 29
+ zó 1
+ zą 2
+ zę 61
+ zł 436
+ zż 4
+ zǳ 74
+ ²² 10
+ ²³ 6
+ ²¹ 9
+ ²⁰ 4
+ ²⁴ 9
+ ²⁵ 4
+ ²⁹ 1
+ ³⁰ 1
+ ³⁴ 1
+ ³⁶ 3
+ ³⁸ 1
+ ³⁹ 1
+ ¹² 10
+ ¹³ 6
+ ¹¹ 4
+ ¹⁰ 4
+ ¹⁴ 2
+ ¹⁵ 5
+ ¹⁶ 5
+ ¹⁷ 4
+ ¹⁸ 6
+ ¹⁹ 5
+ Ów 13
+ óc 2
+ ós 8
+ ów 251
+ ą  936
+ ą! 51
+ ą) 2
+ ą, 256
+ ą. 154
+ ą: 8
+ ą; 12
+ ą? 25
+ ąc 1919
+ ąk 5
+ ąt 40
+ ąw 9
+ ą² 3
+ ą³ 1
+ ą¹ 6
+ ąć 69
+ ął 158
+ ąś 1
+ ą‥ 1
+ ą… 37
+ ą⁈ 2
+ ą⁴ 2
+ ą⁷ 1
+ ą⁸ 1
+ Ćw 1
+ ćm 11
+ ćw 20
+ ę  317
+ ę! 40
+ ę, 155
+ ę. 63
+ ę: 1
+ ę; 4
+ ę? 11
+ ęc 86
+ ęk 33
+ ęl 26
+ ęt 159
+ ęz 60
+ ę² 14
+ ę³ 2
+ ę¹ 29
+ ęć 6
+ ęł 40
+ ę” 3
+ ę… 19
+ ę⁴ 3
+ ę⁶ 2
+ ę⁷ 1
+ ę⁸ 1
+ Ła 29
+ Łb 2
+ Ło 19
+ Łu 25
+ Ły 2
+ Łz 4
+ Łó 1
+ Łą 2
+ Łę 6
+ Łż 4
+ ła 864
+ łb 45
+ łe 51
+ łg 9
+ łk 5
+ ło 162
+ łu 138
+ ły 36
+ łz 74
+ łó 10
+ łą 51
+ łę 9
+ łż 5
+ Śc 3
+ Śl 37
+ Śm 35
+ Śn 6
+ Śp 6
+ Śr 4
+ Św 57
+ ś  12
+ ś, 1
+ śc 426
+ śl 148
+ śm 498
+ śn 89
+ śp 105
+ śr 143
+ św 821
+ ść 184
+ Źl 17
+ Źr 1
+ źd 3
+ źl 58
+ źr 32
+ Ża 28
+ Że 124
+ Żm 80
+ Żo 81
+ Żr 1
+ Żu 1
+ Żw 1
+ Ży 70
+ Żó 4
+ Żą 2
+ ż  1
+ ża 403
+ żb 6
+ że 4421
+ żg 2
+ żm 19
+ żn 13
+ żo 863
+ żr 3
+ żu 28
+ żw 3
+ ży 816
+ żó 35
+ żą 44
+ żł 2
+ ǲb 1
+ ǲi 192
+ ǲw 1
+ ǳb 1
+ ǳi 2060
+ ǳw 55
+ –  3
+ —  7840
+ —— 5
+ ”  3
+ ”, 4
+ ”? 1
+ „  8
+ „A 20
+ „B 18
+ „C 17
+ „D 14
+ „G 6
+ „H 4
+ „I 6
+ „J 28
+ „K 18
+ „L 6
+ „M 7
+ „N 31
+ „O 11
+ „P 27
+ „R 7
+ „S 10
+ „T 10
+ „U 1
+ „W 29
+ „Z 25
+ „a 6
+ „b 8
+ „c 4
+ „d 6
+ „g 9
+ „h 1
+ „i 2
+ „k 16
+ „l 2
+ „m 4
+ „n 3
+ „o 9
+ „p 25
+ „r 3
+ „s 7
+ „t 5
+ „w 7
+ „z 8
+ „Ł 1
+ „Ś 1
+ „Ż 2
+ „ż 1
+ „ǲ 2
+ „ǳ 1
+ „… 1
+ …  50
+ …z 1
+ …” 3
+ ⁴² 1
+ ⁴¹ 3
+ ⁴⁰ 2
+ ⁴⁴ 1
+ ⁴⁵ 4
+ ⁴⁸ 3
+ ⁵² 2
+ ⁵³ 3
+ ⁵¹ 1
+ ⁵⁴ 1
+ ⁵⁵ 2
+ ⁵⁹ 1
+ ⁶² 1
+ ⁶¹ 1
+ ⁶⁰ 1
+ ⁶⁴ 2
+ ⁶⁶ 1
+ ⁶⁹ 2
+ ⁷² 2
+ ⁷³ 2
+ ⁷¹ 1
+ ⁷⁰ 1
+ ⁷⁵ 1
+ ⁷⁷ 2
+ ⁷⁸ 2
+ ⁸⁶ 1
+ ⁸⁸ 1
+ ⁹² 2
+ ⁹⁵ 1
+ ⁹⁸ 1
+ . 20
+ a 71
+ o 10
+ u 4
+ y 10
+ r 1
+  1
+   4
+ % 1
+ , 3
+ - 1
+ . 1
+  39
+  11
+  2
+  19
+  129
+  1
+  27
+  2
+   1
+ . 2
+  19
+  2
+  1
+  1
+  2
+  2
+   16
+ , 1
+ . 7
+  2
+  1
+  1
+  1
+   1
+  21
+  1
+  1
+ , 1
+  2
+  1
+  1
+   1
+ : 1
+  9
+  3
+  2
+   1
+  1
+  1
+  1
+  6
+  3
+  3
+  9
+  707
+  15
+  1
+  12
+  38
+   707
+ ﬁg 18
+ ﬁl 21
+ ﬁo 4
+ ﬁr 8
+ ﬁz 1
+ ﬂa 2
+ ﬂe 14
+ ﬂo 2
+! ( 5
+! A 114
+! B 113
+! C 108
+! D 83
+! E 7
+! F 2
+! G 37
+! H 18
+! I 33
+! J 134
+! K 65
+! L 22
+! M 97
+! N 224
+! O 99
+! P 165
+! R 27
+! S 75
+! T 105
+! U 14
+! W 116
+! Z 79
+! [ 2
+! a 69
+! b 41
+! c 62
+! d 48
+! e 18
+! g 18
+! h 8
+! i 12
+! k 25
+! l 2
+! m 22
+! n 77
+! o 35
+! p 69
+! r 20
+! s 27
+! t 71
+! u 19
+! w 45
+! z 41
+! ó 1
+! Ł 3
+! Ś 2
+! ś 4
+! Ź 6
+! ź 1
+! Ż 26
+! ż 28
+! ǲ 13
+! ǳ 3
+! — 1768
+! „ 1
+!)  3
+!), 2
+!,  3
+!—  2
+!”  156
+!”, 18
+!”. 3
+!‥  1
+!…  543
+!…. 1
+!…K 1
+!…” 9
+!⁹⁰ 1
+% p 1
+( a 1
+(Ba 1
+(Bo 1
+(By 1
+(Dn 1
+(Ni 1
+(Rǳ 1
+(Tu 2
+(XI 3
+(a  3
+(a. 19
+(ar 1
+(bi 1
+(bo 5
+(br 1
+(bu 1
+(ch 3
+(co 1
+(cz 4
+(da 401
+(di 1
+(gr 1
+(gw 1
+(gł 1
+(hi 3
+(ht 1
+(i  1
+(ka 1
+(kt 1
+(li 48
+(lu 2
+(me 1
+(mi 27
+(mo 1
+(my 1
+(mó 7
+(na 1
+(ni 5
+(np 2
+(o  2
+(ok 7
+(on 1
+(pi 4
+(po 29
+(pr 3
+(re 13
+(rz 1
+(se 1
+(si 1
+(st 23
+(t  5
+(ta 2
+(to 1
+(tu 12
+(ty 1
+(uk 4
+(ur 1
+(w  5
+(wy 1
+(wę 1
+(wł 1
+(z  476
+(zm 38
+(ła 312
+(ży 1
+(ǳi 28
+(. 10
+(a 1
+( 1
+( 1
+( 37
+( 182
+( 1
+( 2
+( 1
+( 1
+(– 1
+( 1
+( 1
+(ﬂe 1
+) A 1
+) L 1
+) P 1
+) S 1
+) T 1
+) W 20
+) a 1
+) b 2
+) c 1
+) d 6
+) e 3
+) h 2
+) i 17
+) k 2
+) m 3
+) n 6
+) o 4
+) p 16
+) r 1
+) s 3
+) u 1
+) w 3
+) z 4
+) Ł 1
+) — 1438
+),  132
+).  76
+):  1
+);  5
+)—  2
+, ( 1
+, A 27
+, B 82
+, C 61
+, D 30
+, E 7
+, F 12
+, G 51
+, H 42
+, I 32
+, J 62
+, K 207
+, L 22
+, M 124
+, N 36
+, O 141
+, P 262
+, R 114
+, S 159
+, T 36
+, U 16
+, W 173
+, Z 89
+, a 6494
+, b 2773
+, c 2258
+, d 953
+, e 717
+, f 41
+, g 1186
+, h 119
+, i 1734
+, k 2955
+, l 560
+, m 1011
+, n 2412
+, o 1242
+, p 3212
+, r 617
+, s 1405
+, t 2195
+, u 578
+, w 2641
+, z 2077
+, ó 13
+, ą 4
+, ć 3
+, ę 11
+, Ł 5
+, ł 91
+, Ś 34
+, ś 127
+, ź 8
+, Ż 47
+, ż 3769
+, ǲ 7
+, ǳ 103
+, „ 5
+,  3
+,  2
+, ﬁ 1
+, 1
+, 1
+,  1
+,  1
+- e 1
+- i 1
+- u 1
+-,  1
+-Al 1
+-Ał 1
+-Gr 3
+-Hi 14
+-Ka 1
+-Ke 3
+-Kr 11
+-Ku 1
+-Le 2
+-Ma 2
+-Ol 2
+-Os 1
+-SA 1
+-Sz 1
+-Uk 1
+-Uł 35
+-Wo 1
+-XV 2
+-Za 2
+-ag 1
+-ba 3
+-be 7
+-bi 1
+-bĳ 1
+-ch 1
+-ci 1
+-cz 2
+-dw 1
+-eś 1
+-gw 6
+-gł 1
+-hu 1
+-i- 1
+-ka 1
+-ko 3
+-kr 6
+-li 14
+-ma 1
+-my 1
+-ne 1
+-ni 1
+-pi 1
+-po 3
+-pr 1
+-pó 1
+-re 1
+-ro 33
+-sz 11
+-ta 4
+-tr 1
+-tu 1
+-u- 1
+-uk 2
+-us 2
+-we 1
+-wo 2
+-ws 10
+-za 45
+- 1
+- 3
+- 1
+- 1
+- 1
+- 1
+- 1
+. ( 2
+. A 481
+. B 335
+. C 465
+. D 288
+. E 15
+. F 13
+. G 164
+. H 42
+. I 191
+. J 436
+. K 404
+. L 214
+. M 370
+. N 814
+. O 443
+. P 960
+. R 192
+. S 530
+. T 563
+. U 108
+. W 908
+. X 13
+. Z 486
+. [ 2424
+. a 6
+. b 4
+. c 64
+. d 3
+. e 3
+. f 114
+. g 20
+. k 22
+. l 162
+. m 32
+. n 9
+. o 69
+. p 117
+. r 35
+. s 22
+. t 21
+. u 6
+. w 24
+. z 41
+. ¹ 1
+. Ó 10
+. Ć 1
+. Ł 20
+. Ś 28
+. Ź 3
+. Ż 85
+. ż 16
+. ǲ 59
+. ǳ 2
+. – 1
+. — 760
+. „ 36
+.  59
+.  16
+.  4
+.  23
+.  3
+.  1
+.  2
+.  2
+.)  1140
+.), 4
+.). 4
+.): 1
+.,  79
+.-w 8
+.-z 21
+.:  92
+.;  9
+.Aż 1
+.e. 19
+.in 13
+.m. 2
+.n. 21
+.os 7
+.pl 4
+.pr 8
+.ro 2
+.te 16
+.ż. 2
+.—  2
+.”  21
+.”I 1
+.  1
+//w 2
+/ka 1
+/le 1
+/po 1
+/wo 2
+: A 4
+: B 6
+: C 4
+: F 2
+: G 1
+: H 3
+: J 7
+: K 11
+: L 3
+: M 3
+: N 1
+: O 1
+: P 4
+: R 4
+: S 7
+: T 4
+: U 1
+: W 12
+: Z 1
+: a 40
+: b 35
+: c 45
+: d 33
+: e 30
+: f 1
+: g 21
+: h 7
+: i 22
+: k 66
+: l 8
+: m 30
+: n 63
+: o 72
+: p 98
+: r 14
+: s 40
+: t 32
+: u 20
+: w 101
+: z 90
+: ł 2
+: ś 2
+: Ż 1
+: ż 29
+: — 8
+: „ 241
+:  1
+:  1
+:// 2
+: 3
+; A 3
+; B 4
+; C 2
+; D 3
+; G 2
+; H 1
+; J 2
+; K 6
+; L 1
+; M 5
+; N 1
+; O 1
+; P 2
+; R 3
+; S 5
+; T 3
+; W 2
+; Z 6
+; a 125
+; b 39
+; c 62
+; d 58
+; e 38
+; g 27
+; h 4
+; i 37
+; k 68
+; l 59
+; m 43
+; n 158
+; o 115
+; p 157
+; r 26
+; s 70
+; t 197
+; u 21
+; w 172
+; z 107
+; ó 1
+; ą 2
+; ł 1
+; ś 4
+; ż 29
+; ǳ 8
+;  1
+? A 43
+? B 32
+? C 86
+? D 19
+? E 1
+? F 1
+? G 25
+? H 1
+? I 13
+? J 42
+? K 46
+? L 5
+? M 33
+? N 58
+? O 33
+? P 44
+? R 9
+? S 29
+? T 44
+? U 6
+? W 48
+? Z 54
+? a 10
+? c 17
+? d 3
+? e 1
+? g 4
+? h 5
+? i 5
+? k 11
+? m 7
+? n 4
+? o 1
+? p 7
+? r 1
+? s 5
+? t 6
+? w 2
+? z 5
+? Ł 4
+? ł 1
+? ś 1
+? Ź 2
+? Ż 4
+? ǲ 4
+? — 530
+?”  29
+?”, 1
+?…  217
+?…” 5
+@Fl 1
+A ! 5
+A A 2
+A B 1
+A C 2
+A F 1
+A J 1
+A K 9
+A M 1
+A N 1
+A O 1
+A S 10
+A T 1
+A W 1
+A Z 2
+A a 79
+A b 16
+A c 160
+A d 31
+A e 42
+A g 66
+A h 5
+A i 19
+A k 63
+A l 5
+A m 35
+A n 56
+A o 45
+A p 132
+A r 1
+A s 21
+A t 139
+A u 7
+A v 1
+A w 103
+A z 28
+A ó 3
+A ś 2
+A Ż 1
+A ż 27
+A ǳ 2
+A  1
+A!  7
+A,  4
+A?  1
+Abd 1
+Abr 2
+Aby 4
+Ach 18
+Ada 2
+Ade 1
+Ado 13
+Aga 4
+Aha 11
+Akb 38
+Ake 1
+Akt 5
+Aku 1
+Akw 1
+Alb 45
+Ale 657
+Alk 12
+All 1
+Alp 1
+Alt 3
+Amb 17
+Ame 20
+Amm 1
+Amo 2
+Ams 1
+And 427
+Ang 14
+Ani 34
+Ann 12
+Ano 8
+Ant 4
+Anu 142
+Apo 1
+Arc 1
+Are 2
+Arf 20
+Arg 1
+Ark 1
+Arm 10
+Arq 2
+Art 7
+Arv 17
+Arw 1
+Ary 2
+Asp 1
+Ast 1
+Asz 5
+At! 7
+At, 4
+Ata 1
+Ate 5
+Att 2
+Aud 1
+Aug 2
+Aus 2
+Aut 1
+Aza 2
+Ałł 10
+Aż  26
+Aże 2
+A…  1
+Ai 1
+Ao 1
+Ay 3
+B.  29
+BN  1
+BN. 1
+BY- 1
+Ba! 29
+Ba, 15
+Ba- 2
+Bab 294
+Bac 6
+Bad 2
+Bag 5
+Bak 1
+Bal 10
+Ban 2
+Bar 29
+Bas 2
+Bat 6
+Baw 4
+Baz 1
+Bał 15
+Be  1
+Bec 1
+Bel 1
+Ben 5
+Ber 16
+Bez 36
+Bia 67
+Bib 5
+Bie 39
+Big 2
+Bil 204
+Bio 2
+Bir 67
+Bis 4
+Bit 9
+Bić 7
+Bił 16
+Bla 6
+Ble 1
+Bli 15
+Blu 1
+Bni 1
+Bo  157
+Bo, 2
+Bob 5
+Boc 1
+Bod 50
+Bog 826
+Boh 28
+Bok 4
+Bol 4
+Bom 18
+Bor 44
+Bos 43
+Boś 7
+Boż 161
+Bo… 1
+Bra 87
+Bre 2
+Bro 16
+Brr 1
+Bru 2
+Brw 2
+Bry 5
+Brz 14
+Bró 1
+Bu- 1
+Bud 1
+Bug 12
+Buk 1
+Bun 8
+Bur 25
+Bus 1
+But 89
+Buł 2
+By  3
+Byc 6
+Byk 1
+Byl 57
+Bys 2
+Byw 23
+Być 9
+Był 167
+Byś 3
+Bó  3
+Bóg 478
+Bór 1
+Bós 1
+Büt 4
+Bąd 29
+Bęb 2
+Będ 20
+Bęǳ 39
+Bĳ  3
+Bĳ! 13
+Bĳ, 10
+Bĳa 2
+Bĳc 1
+Bĳą 3
+Bĳż 7
+Bła 14
+Błe 4
+Bły 1
+Błą 5
+Błę 1
+C B 1
+C.  6
+CC  1
+Car 36
+Cas 2
+Cał 70
+Ceg 1
+Cel 2
+Cen 1
+Cep 1
+Ces 3
+Cez 2
+Cha 122
+Chc 92
+Chi 3
+Chl 4
+Chm 71
+Cho 208
+Chr 45
+Chu 10
+Chw 64
+Chy 43
+Chę 6
+Chł 34
+Ci  41
+Ci, 16
+Cia 7
+Cic 29
+Cie 47
+Cin 2
+Cio 5
+Cis 13
+Ciu 2
+Cią 8
+Cię 27
+Ciś 1
+Ciż 3
+Ckl 1
+Cno 23
+Co  367
+Co, 1
+Co? 18
+Cof 1
+Coi 1
+Cok 1
+Com 17
+Cor 16
+Coś 10
+Coż 1
+Coǳ 3
+Cre 1
+Cro 3
+Cuc 1
+Cud 18
+Cuǳ 1
+Cyb 2
+Cyc 3
+Cyg 6
+Cza 452
+Czc 1
+Cze 142
+Czo 30
+Czt 7
+Czu 20
+Czw 3
+Czy 150
+Czę 126
+Czł 18
+Cór 3
+Cóż 48
+D.  24
+D.: 2
+DRU 1
+Da  102
+Da! 1
+Dal 74
+Dam 45
+Dan 14
+Dar 15
+Das 3
+Daw 42
+Dać 1
+Dał 24
+De  3
+Deb 17
+Dec 2
+Dee 1
+Del 2
+Dem 1
+Den 2
+Dep 1
+Des 8
+Dia 28
+Dla 125
+Dn  1
+Dni 21
+Do  143
+Dob 157
+Doc 1
+Dok 12
+Dom 53
+Don 2
+Dop 35
+Dor 3
+Dos 23
+Dot 9
+Dou 14
+Dow 22
+Doł 4
+Doś 29
+Doż 1
+Dra 9
+Dre 4
+Dro 31
+Dru 18
+Drw 1
+Drz 9
+Drż 1
+Dub 9
+Duc 30
+Dud 4
+Dug 56
+Duk 2
+Dum 13
+Dun 2
+Dur 1
+Dus 10
+Duń 2
+Duż 1
+Dwa 21
+Dwi 11
+Dwo 2
+Dwu 3
+Dwó 12
+Dyc 1
+Dyd 3
+Dyg 1
+Dym 17
+Dyć 1
+Dął 1
+Dęb 3
+Dła 1
+Dłu 15
+Dźw 1
+Dża 1
+E ! 10
+E , 48
+E r 3
+E ż 5
+E!  6
+E,  1
+ECI 1
+ENK 1
+ENR 1
+ERW 1
+EWI 1
+Ech 3
+Edm 1
+Ege 1
+Egi 7
+Ehe 1
+Ehr 1
+Ekl 1
+Eks 7
+Elb 5
+Ele 12
+Elg 1
+Elż 4
+Eng 1
+Eri 2
+Ero 1
+Ers 4
+Ery 6
+Est 3
+Et! 2
+Euk 1
+Eur 14
+Ewa 7
+Ełk 5
+Eﬀe 3
+Fal 8
+Fam 3
+Fan 1
+Fat 2
+Feb 1
+Fec 1
+Fel 2
+Fer 1
+Fil 7
+Fin 3
+Fit 2
+Fla 2
+Fli 12
+Flo 1
+For 28
+Fos 8
+Fou 1
+Fra 26
+Fre 4
+Fry 5
+Fun 3
+Fur 5
+G.  2
+Gab 1
+Gad 12
+Gal 1
+Gan 50
+Gar 19
+Gas 24
+Gaw 3
+Gaz 1
+Gaś 2
+Gda 12
+Gdy 183
+Ged 1
+Gen 1
+Gin 4
+Gir 1
+Giu 2
+Giż 1
+Gle 1
+Gma 1
+Gni 24
+Gno 4
+Go  2
+God 6
+Goe 1
+Gol 1
+Gom 3
+Gon 11
+Gor 22
+Gos 56
+Got 17
+Goł 12
+Goń 3
+Goś 23
+Goǳ 17
+Gra 15
+Gre 6
+Gro 35
+Gru 21
+Gry 27
+Grz 43
+Gró 2
+Gub 1
+Gus 110
+Guz 1
+Gwa 6
+Gwi 5
+Gyö 1
+Gór 38
+Gęb 7
+Gęs 2
+Głd 1
+Gło 37
+Głu 31
+Głó 10
+Głę 1
+Gǳi 99
+HEN 1
+Ha  10
+Ha! 21
+Ha, 7
+Ha? 1
+Hab 2
+Hak 1
+Hal 5
+Ham 9
+Han 4
+Har 46
+Has 41
+Hań 26
+He  28
+Hei 2
+Hek 5
+Hel 7
+Hen 3
+Her 29
+Hes 35
+Het 36
+Heł 1
+Hie 2
+Hil 1
+Hip 18
+His 6
+Hle 9
+Hm! 18
+Hm, 1
+Ho  4
+Ho! 2
+Hol 2
+Hom 5
+Hon 31
+Hop 1
+Hor 28
+Hos 2
+Hoł 2
+Hra 4
+Huc 1
+Hud 2
+Huf 1
+Huk 12
+Hul 2
+Hum 2
+Hur 1
+Hus 1
+Huź 1
+Hyd 1
+Hym 2
+Hę? 5
+I ( 1
+I B 4
+I J 1
+I K 16
+I O 1
+I R 5
+I S 10
+I T 1
+I W 1
+I a 35
+I b 14
+I c 37
+I d 23
+I e 15
+I g 15
+I h 1
+I i 27
+I k 19
+I l 10
+I m 24
+I n 64
+I o 23
+I p 95
+I r 17
+I s 37
+I t 72
+I u 16
+I w 145
+I z 68
+I ą 2
+I ł 5
+I ś 7
+I ż 3
+I ǳ 3
+I!  2
+I!… 2
+I,  5
+I-X 2
+I.  1
+ICZ 1
+IEN 1
+IER 1
+IEW 1
+II  98
+II, 3
+II. 1
+III 29
+II– 2
+ISB 1
+IV  9
+IV. 3
+IX  16
+Ich 5
+Ide 1
+Idą 12
+Idę 3
+Idź 29
+Ile 9
+Ili 1
+Ill 1
+Ilu 2
+Im  23
+Ima 3
+Imi 28
+Imp 9
+Imż 1
+Ina 12
+Inf 3
+Ing 1
+Ink 1
+Inn 58
+Ino 1
+Ins 1
+Int 16
+Inﬂ 17
+Irh 1
+Irl 2
+Irw 1
+Isk 2
+Ist 6
+Ita 2
+Iwa 7
+Iza 1
+Izb 2
+Izr 13
+Iść 4
+Iże 2
+Iǳi 14
+I–X 5
+I…  2
+J.  9
+JMP 1
+Ja  159
+Ja! 9
+Ja, 9
+Ja? 3
+Jac 9
+Jad 18
+Jag 1
+Jak 528
+Jam 39
+Jan 505
+Jar 30
+Jas 34
+Jaw 2
+Jaz 17
+Jać 10
+Jaś 20
+Jaż 3
+Ja… 1
+Ja‼ 1
+Je  19
+Jec 22
+Jed 182
+Jeg 23
+Jel 1
+Jem 4
+Jen 69
+Jer 54
+Jes 130
+Jez 69
+Jeń 13
+Jeś 134
+Jeź 8
+Jeż 40
+Jeǳ 15
+Joa 2
+Joh 2
+Jor 1
+Jow 4
+Jud 16
+Jul 3
+Jur 19
+Jus 1
+Jut 23
+Już 152
+Józ 64
+Ją  2
+Jął 1
+Jęd 37
+Jęk 2
+Jęl 1
+K S 1
+KIE 1
+KRS 1
+Kac 4
+Kai 2
+Kal 16
+Kam 5
+Kan 38
+Kap 8
+Kar 158
+Kas 19
+Kat 13
+Kau 2
+Kaw 6
+Kaz 260
+Kał 1
+Kań 1
+Kaś 1
+Każ 47
+Ka 1
+Kcy 1
+Ket 51
+Kie 325
+Kil 22
+Kim 1
+Kir 3
+Kis 14
+Kla 4
+Kle 6
+Kli 2
+Klu 1
+Klę 9
+Kmi 1795
+Kob 28
+Koc 5
+Kog 14
+Kok 55
+Kol 4
+Kom 36
+Kon 108
+Kop 4
+Kor 207
+Kos 30
+Kot 23
+Kow 146
+Koz 92
+Koł 8
+Koń 14
+Koś 12
+Koź 1
+Kpi 1
+Kra 110
+Kre 47
+Kro 9
+Kru 5
+Krw 1
+Kry 9
+Krz 78
+Kró 190
+Krę 1
+Ks. 12
+Kse 1
+Ksi 258
+Kto 186
+Któ 44
+Ku  3
+Kub 4
+Kuc 2
+Kud 1
+Kuk 107
+Kul 60
+Kup 12
+Kur 22
+Kus 1
+Kuź 1
+Kwa 2
+Kwi 3
+Kyr 6
+Kzi 1
+Kąt 1
+Kęs 1
+Kĳo 1
+Kĳó 2
+Kła 19
+Kło 5
+Kłó 8
+L]. 1
+Lab 1
+Lac 1
+Lad 1
+Lae 3
+Laf 1
+Lan 5
+Lap 3
+Las 9
+Lat 4
+Lau 48
+Law 1
+Le  2
+Lea 3
+Lec 409
+Led 37
+Leg 3
+Lek 6
+Lel 2
+Lem 3
+Len 3
+Leo 1
+Lep 39
+Les 6
+Lew 4
+Leź 1
+Leż 5
+Lgo 3
+Lic 8
+Lig 1
+Lin 3
+Lip 16
+Lis 68
+Lit 216
+Li⁹ 1
+Loc 1
+Loe 15
+Lon 10
+Lot 3
+Lub 181
+Luc 5
+Lud 32
+Lup 4
+Lus 1
+Luw 1
+Luź 1
+Luǳ 50
+Lwi 1
+Lwo 28
+Lwó 10
+Lüh 10
+Lże 2
+M D 1
+M P 1
+M T 1
+M l 2
+M.  31
+MP  1
+MPa 1
+Ma  23
+Ma- 2
+Mac 13
+Mag 15
+Mah 2
+Mak 3
+Mal 12
+Mam 50
+Man 1
+Mar 117
+Mas 33
+Mat 75
+Maz 29
+Mał 69
+Mdł 1
+Med 2
+Meg 1
+Mel 2
+Men 1
+Mgł 2
+Mia 55
+Mic 273
+Mie 91
+Mig 1
+Mik 4
+Mil 219
+Mim 10
+Min 7
+Mio 4
+Mir 60
+Mis 2
+Mit 19
+Mię 14
+Mił 114
+Miń 6
+Mni 52
+Mnó 2
+Mo  29
+Moc 1
+Mod 34
+Mog 23
+Moh 1
+Moi 4
+Mok 3
+Mon 2
+Mor 19
+Mos 16
+Mow 1
+Moz 5
+Moł 5
+Moś 140
+Moż 142
+Mro 4
+Mró 3
+Ms. 8
+Mst 1
+Mu  2
+Mu, 1
+Mur 7
+Mus 86
+Muz 5
+My  45
+My, 5
+Myl 1
+Mys 4
+Myś 55
+Mó  22
+Mód 1
+Móg 17
+Mów 96
+Mül 10
+Mąd 12
+Mąt 2
+Mąż 2
+Mć, 1
+Mć⁵ 1
+Męc 1
+Męk 4
+Męs 1
+Męż 8
+Mĳa 3
+Mło 27
+Mśc 3
+Mść 1
+N  1
+N.  40
+NKI 1
+NRY 1
+Na  633
+Nab 6
+Nac 2
+Nad 45
+Nag 82
+Nak 6
+Nal 3
+Nam 10
+Nao 10
+Nap 55
+Nar 28
+Nas 100
+Nat 22
+Nau 5
+Naw 19
+Naz 48
+Nał 1
+Naś 1
+Naǳ 4
+Ne  1
+Nea 1
+Neb 1
+Nep 1
+Nev 1
+Ni  13
+Nib 4
+Nic 111
+Nid 4
+Nie 1622
+Nig 20
+Nik 39
+Nim 20
+Nis 1
+Niż 1
+No! 15
+No, 22
+No? 1
+Noc 28
+Noe 3
+Nog 7
+Nor 2
+Nos 4
+Not 8
+Now 33
+Noy 2
+Noz 3
+Nu, 1
+Nud 2
+Num 1
+Nun 4
+Nuż 12
+Nęǳ 1
+Nĳa 1
+O ! 14
+O , 13
+O B 9
+O J 3
+O K 1
+O L 1
+O M 3
+O O 1
+O P 1
+O T 1
+O W 1
+O Z 1
+O a 3
+O c 100
+O d 6
+O e 2
+O g 3
+O i 2
+O k 4
+O m 2
+O n 4
+O o 3
+O p 11
+O s 5
+O t 14
+O w 10
+O z 4
+O ś 1
+O ż 1
+O!  6
+O,  18
+OM  3
+Ob  2
+Oba 38
+Obc 25
+Obd 1
+Obe 16
+Obi 6
+Obl 8
+Obo 15
+Obr 10
+Obs 3
+Obu 2
+Oby 34
+Obó 4
+Obł 3
+Obﬁ 1
+Oca 1
+Och 9
+Oci 4
+Ocz 52
+Od  80
+Oda 1
+Odb 3
+Odc 7
+Odd 5
+Ode 8
+Odg 4
+Odk 2
+Odm 2
+Odn 1
+Odp 18
+Odr 2
+Ods 4
+Odt 7
+Odw 34
+Ody 7
+Odś 1
+Odǳ 9
+Oet 1
+Oga 5
+Ogi 18
+Ogn 12
+Ogr 1
+Ogł 3
+Oho 8
+Oka 5
+Oki 2
+Okn 2
+Oko 16
+Okr 72
+Oku 1
+Okł 1
+Olb 10
+Ole 333
+Oli 3
+Olk 1
+Ols 1
+Olz 1
+Ome 16
+Omĳ 2
+On  109
+On! 1
+On, 12
+On? 5
+Ona 44
+One 3
+Oni 43
+Onu 1
+Onż 5
+Opa 30
+Opi 7
+Opo 16
+Opr 5
+Opu 6
+Opó 2
+Opł 1
+Ora 3
+Ord 8
+Ore 2
+Org 1
+Orl 8
+Orm 5
+Orp 1
+Ors 31
+Osi 1
+Osk 63
+Osm 7
+Oso 6
+Oss 2
+Ost 55
+Osz 5
+Osł 1
+Ot  9
+Ot! 11
+Ot, 74
+Ota 4
+Oto 85
+Otr 1
+Ott 1
+Otu 3
+Otw 9
+Oty 1
+Otó 8
+Ot… 1
+Owa 2
+Owe 2
+Owi 1
+Owo 4
+Ows 22
+Owó 41
+Owł 2
+Oxe 6
+Ozn 3
+Ozo 1
+Ozw 1
+Ośm 1
+Ośw 7
+Oże 2
+Oǳe 1
+Oﬁa 4
+Oﬁc 43
+P B 1
+P o 6
+P t 5
+P.  3
+PIE 1
+PL. 1
+Pac 39
+Pad 7
+Pak 18
+Pal 6
+Pam 34
+Pan 791
+Par 32
+Pas 5
+Pat 141
+Paw 6
+Pał 1
+Pań 22
+Paź 3
+Pch 1
+Pel 2
+Pen 1
+Per 7
+Pet 3
+Pew 79
+Peł 1
+Phi 1
+Pia 1
+Pie 106
+Pil 38
+Pio 48
+Pis 13
+Pit 1
+Pią 6
+Pić 1
+Pię 15
+Pił 8
+Pla 9
+Ple 4
+Plo 2
+Plu 2
+Plw 1
+Pni 1
+Po  357
+Poa 1
+Pob 27
+Poc 65
+Pod 253
+Pog 20
+Poh 3
+Pok 48
+Pol 225
+Pom 33
+Pon 69
+Pop 23
+Por 31
+Pos 95
+Pot 797
+Pou 1
+Pow 146
+Poz 116
+Poł 21
+Poś 15
+Poż 11
+Poǳ 8
+Pra 112
+Pre 10
+Pri 3
+Pro 88
+Pru 158
+Pry 1
+Prz 635
+Pró 49
+Prę 14
+Psi 1
+Psk 1
+Psy 3
+Pta 8
+Pub 2
+Puc 2
+Pus 16
+Puł 33
+Puś 15
+Pyc 18
+Pyp 2
+Pys 1
+Pyt 14
+Pyz 1
+Pyś 1
+Pó  41
+Pók 10
+Pół 3
+Póź 8
+Pöt 1
+Pęd 1
+Pęk 1
+Pĳ  1
+Pĳa 5
+Pła 8
+Pło 4
+Pły 5
+R., 1
+RS  1
+RUG 1
+RWS 1
+RYK 1
+RZE 1
+Ra  13
+Rac 7
+Rad 42
+Raf 1
+Rai 2
+Rak 13
+Ran 43
+Rap 2
+Ras 1
+Rat 22
+Raw 2
+Raz 23
+Raǳ 507
+Re  3
+Red 1
+Ref 1
+Reg 1
+Rek 29
+Rel 41
+Ren 2
+Rep 2
+Res 11
+Ret 1
+Rew 9
+Rez 1
+Reń 1
+Ric 1
+Rie 1
+Ro  2
+Rob 19
+Roc 148
+Rog 12
+Roh 3
+Rok 10
+Rom 1
+Ros 53
+Rot 4
+Roz 125
+Roś 1
+Roǳ 12
+Rub 1
+Ruc 3
+Rud 9
+Rug 1
+Rum 11
+Rus 48
+Ruz 1
+Ruś 4
+Ryb 1
+Ryc 44
+Ryg 2
+Ryk 3
+Ryn 1
+Rys 2
+Ryﬀ 1
+Rza 1
+Rze 426
+Rzp 1
+Rzu 10
+Rzy 12
+Rzą 1
+Rzę 67
+Rák 1
+Rób 1
+Ród 2
+Rów 5
+Róż 10
+Rös 14
+Ręb 1
+Ręc 5
+Ręk 7
+Rǳ  1
+S  1
+S.  2
+SA  1
+SBN 1
+SIE 1
+SZY 1
+Sad 62
+Sak 173
+Sal 10
+Sam 168
+San 41
+Sap 307
+Sas 1
+Sat 1
+Sał 1
+Sch 8
+Sci 1
+Scy 3
+Scz 1
+Se  5
+Seb 3
+Sek 1
+Sel 1
+Sen 8
+Sep 13
+Ser 17
+Ses 1
+Set 3
+Shi 3
+Sia 19
+Sic 8
+Sie 68
+Sik 5
+Sil 1
+Sin 1
+Sią 1
+Się 2
+Sił 64
+Ska 7
+Sko 62
+Skr 244
+Sku 3
+Skó 3
+Ską 33
+Skł 4
+Sma 3
+Smo 16
+Sob 40
+Soc 4
+Sod 4
+Sok 10
+Sol 1
+Sor 154
+Sos 1
+Soł 6
+Spa 7
+Spe 3
+Spi 7
+Spo 63
+Spr 18
+Spu 4
+Spy 6
+Spó 1
+Sre 4
+Sro 13
+Sta 318
+Ste 10
+Sti 1
+Sto 21
+Str 80
+Stu 8
+Sty 5
+Stó 30
+Stą 7
+Stę 3
+Sub 8
+Suc 19
+Sud 1
+Sul 1
+Sum 21
+Sup 2
+Sur 1
+Suw 1
+Swa 4
+Swe 19
+Swo 6
+Swó 3
+Swą 1
+Swę 2
+Syl 1
+Sym 2
+Syn 29
+Syp 4
+Syr 6
+Sza 70
+Szc 93
+Sze 43
+Szk 64
+Szl 109
+Szm 2
+Szn 2
+Szo 1
+Szr 2
+Szt 29
+Szu 20
+Szw 948
+Szy 6
+Szó 2
+Szł 4
+Są  16
+Są, 2
+Sąc 4
+Sąd 12
+Sąǳ 6
+Sęǳ 3
+Sła 24
+Sło 27
+Słu 106
+Sły 81
+T.  1
+TOM 3
+TRZ 1
+Ta  30
+Ta, 2
+Tab 1
+Tac 8
+Tak 375
+Tam 84
+Tan 1
+Tar 15
+Tas 1
+Tat 252
+Tau 139
+Ta³ 1
+Tań 2
+Taż 2
+Tch 6
+Te  23
+Te, 4
+Tea 1
+Teb 1
+Ted 28
+Teg 54
+Tek 1
+Tel 4
+Tem 10
+Ten 72
+Teo 1
+Ter 101
+Tes 3
+Tet 1
+Też 3
+Tfe 1
+Tfu 12
+Tnĳ 1
+To  565
+To! 3
+To, 17
+To? 1
+Tob 10
+Tok 3
+Tom 24
+Top 3
+Tor 4
+Tot 25
+Tow 8
+Toć 14
+Toł 1
+Toś 21
+Toż 60
+Tra 8
+Tro 15
+Tru 40
+Trw 2
+Trz 99
+Trą 8
+Trę 4
+Tu  290
+Tu! 1
+Tu, 4
+Tu. 1
+Tum 9
+Tur 23
+Tut 5
+Tu… 1
+Twa 32
+Twe 11
+Twi 2
+Two 30
+Twy 3
+Twó 5
+Ty  25
+Ty, 7
+Ty? 1
+Tyc 14
+Tyk 45
+Tyl 54
+Tym 254
+Tys 9
+Tyz 69
+Tyś 8
+Tyż 4
+Tyǳ 2
+Tę  8
+Tęd 5
+Tęg 1
+Tęs 10
+Tęt 4
+Tłu 21
+U B 1
+U M 1
+U S 1
+U T 1
+U Z 1
+U a 4
+U b 1
+U e 2
+U k 2
+U l 1
+U m 9
+U n 8
+U p 1
+U r 12
+U t 2
+U w 5
+U ę 1
+U ś 33
+U ǳ 1
+UGI 1
+Ube 1
+Ubi 1
+Ubo 3
+Ubr 5
+Uch 6
+Uci 12
+Ucz 54
+Uda 8
+Ude 6
+Uf! 9
+Ufa 3
+Uf… 1
+Ugn 1
+Uha 1
+Uhl 20
+Uka 5
+Ukr 53
+Ukł 2
+Ule 1
+Uli 5
+Uma 1
+Umi 14
+Umk 1
+Umy 10
+Uni 7
+Upa 12
+Upe 2
+Upi 63
+Upo 2
+Upr 5
+Ups 2
+Upó 1
+Upł 12
+Ura 6
+Uro 10
+Uró 1
+Urą 1
+Usi 2
+Usp 9
+Ust 7
+Usu 1
+Usz 8
+Usł 16
+Utr 4
+Utw 2
+Uty 1
+Uwa 21
+Uwo 1
+Uzb 1
+Uzn 2
+Uła 40
+Uło 1
+Uśc 2
+Uśm 6
+Uśp 1
+V d 1
+V i 6
+V w 3
+V.  3
+VI  11
+VI- 2
+VII 66
+VI– 3
+Von 1
+W A 2
+W B 8
+W E 1
+W G 2
+W I 1
+W J 2
+W K 4
+W L 1
+W M 3
+W N 1
+W O 2
+W P 3
+W R 2
+W S 3
+W T 9
+W U 3
+W W 16
+W Z 3
+W a 3
+W b 5
+W c 33
+W d 26
+W e 10
+W g 21
+W h 1
+W i 19
+W k 39
+W l 5
+W m 13
+W n 26
+W o 21
+W p 46
+W r 6
+W s 28
+W t 93
+W u 2
+W w 6
+W z 9
+W ł 1
+W ś 4
+W ż 3
+W ǳ 7
+W-n 1
+W.  29
+WIC 1
+WL] 1
+WMP 1
+WMś 3
+WPa 6
+WSZ 1
+WXM 2
+Wab 1
+Wac 8
+Wad 3
+Wah 1
+Wal 80
+Wam 1
+Wan 2
+War 151
+Was 190
+Wat 2
+Waz 5
+Wać 84
+Wał 2
+Wań 6
+Waś 27
+Waż 3
+Wbĳ 2
+Wca 5
+Wch 2
+Wci 1
+Wcz 10
+Wdo 2
+We  21
+Wed 35
+Weg 2
+Wei 1
+Wen 1
+Wer 5
+Wes 12
+Wey 16
+Wez 4
+Weź 8
+Wia 24
+Wic 3
+Wid 49
+Wie 390
+Wig 1
+Wik 9
+Wil 44
+Win 22
+Wio 5
+Wir 8
+Wis 37
+Wit 146
+Wiu 1
+Wiw 1
+Wió 6
+Wią 1
+Wię 156
+Wił 6
+Wiś 53
+Wiǳ 91
+Wkr 15
+Wle 2
+Wne 16
+Wni 3
+Wno 1
+Wnę 1
+Wo  200
+Wob 6
+Wod 82
+Wol 74
+Won 1
+Wor 1
+Wos 1
+Woz 4
+Woł 762
+Woń 1
+Woǳ 4
+Wpa 4
+Wpi 1
+Wpr 12
+Wpu 1
+Wpó 2
+Wpł 1
+Wra 18
+Wre 55
+Wro 3
+Wrz 94
+Wró 23
+Wsa 3
+Wsc 1
+Wsi 2
+Wsk 3
+Wsp 7
+Wst 30
+Wsz 252
+Wte 142
+Wu  12
+Wy  15
+Wy! 1
+Wy, 3
+Wyb 25
+Wyc 21
+Wyd 16
+Wyg 6
+Wyk 4
+Wyl 3
+Wym 4
+Wyn 3
+Wyo 3
+Wyp 20
+Wyr 12
+Wys 37
+Wyt 5
+Wyw 1
+Wyz 5
+Wył 5
+Wyś 5
+Wyż 5
+Wyǳ 1
+Wzb 3
+Wzg 2
+Wzi 15
+Wzm 1
+Wzr 12
+Wól 1
+Wów 64
+Wóz 1
+Wóǳ 1
+Wąs 42
+Wąt 1
+Wąw 1
+Wąż 3
+Węg 34
+Wła 64
+Wło 20
+Włó 1
+Wśc 2
+Wśr 9
+Wǳi 10
+X w 16
+X.  16
+XII 5
+XIV 4
+XIX 16
+XMć 2
+XV  1
+XVI 81
+Y-S 1
+YK  1
+Z B 8
+Z C 1
+Z D 1
+Z E 1
+Z K 3
+Z L 3
+Z M 1
+Z P 4
+Z R 2
+Z S 3
+Z T 4
+Z W 1
+Z a 3
+Z b 1
+Z c 10
+Z d 18
+Z e 14
+Z g 9
+Z i 1
+Z k 19
+Z l 6
+Z m 7
+Z n 13
+Z o 6
+Z p 30
+Z r 10
+Z s 7
+Z t 22
+Z u 4
+Z w 19
+Z z 9
+Z ł 1
+ZEC 1
+Za  179
+Zab 51
+Zac 40
+Zad 10
+Zag 679
+Zai 5
+Zak 11
+Zal 136
+Zam 148
+Zan 15
+Zao 2
+Zap 37
+Zar 47
+Zas 20
+Zat 15
+Zau 9
+Zaw 46
+Zaz 8
+Zał 4
+Zaś 23
+Zaǳ 5
+Zba 58
+Zbi 6
+Zbl 10
+Zbo 1
+Zbr 52
+Zbu 3
+Zby 7
+Zbó 1
+Zd  2
+Zda 29
+Zde 3
+Zdo 1
+Zdr 113
+Zdu 10
+Zdy 1
+Ze  19
+Zec 3
+Zeg 2
+Zem 28
+Zen 32
+Zep 1
+Zer 6
+Zes 5
+Zet 2
+Zeu 1
+Zew 4
+Zez 3
+Zga 9
+Zgi 14
+Zgo 8
+Zgr 9
+Zgu 5
+Zgł 1
+Zie 14
+Zim 9
+Zię 1
+Zla 1
+Zle 1
+Zlę 1
+Zma 2
+Zmi 9
+Zmo 1
+Zmy 3
+Zmę 1
+Zna 70
+Zni 9
+Zno 3
+Znu 1
+Znó 6
+Zob 7
+Zon 7
+Zos 22
+Zow 1
+Zoł 36
+Zra 1
+Zre 44
+Zro 8
+Zsi 1
+Zsu 1
+Zuc 2
+Zwa 10
+Zwi 12
+Zwl 1
+Zwr 1
+Zwy 12
+Zwą 16
+Zwę 2
+Zwĳ 1
+Zwł 2
+Zyg 10
+Zza 1
+Zzi 1
+Zęb 1
+Zła 6
+Złe 2
+Zło 20
+Zły 1
+Zǳi 2
+[pr 2507
+[w  1
+[wy 2
+] a 1
+],  1
+].  1
+a ! 87
+a ( 45
+a ) 2
+a , 149
+a . 41
+a : 3
+a ; 3
+a ? 2
+a A 176
+a B 458
+a C 121
+a D 34
+a E 7
+a F 13
+a G 81
+a H 27
+a I 36
+a J 110
+a K 354
+a L 104
+a M 94
+a N 71
+a O 73
+a P 167
+a R 154
+a S 266
+a T 49
+a U 22
+a W 168
+a X 4
+a Z 94
+a a 646
+a b 1125
+a c 1800
+a d 1465
+a e 1186
+a f 70
+a g 837
+a h 111
+a i 1376
+a k 1770
+a l 388
+a m 2250
+a n 2855
+a o 1455
+a p 3414
+a r 939
+a s 2890
+a t 2133
+a u 754
+a v 1
+a w 3072
+a z 1982
+a ² 1
+a ¹ 1
+a ó 59
+a ą 2031
+a ć 5
+a ę 222
+a Ł 3
+a ł 165
+a Ś 24
+a ś 368
+a ź 7
+a Ż 34
+a ż 353
+a ǳ 226
+a – 2
+a — 369
+a ” 1
+a „ 7
+a … 10
+a  11
+a  8
+a  8
+a  12
+a  1
+a ﬁ 3
+a ﬂ 3
+a!  579
+a!, 2
+a!— 1
+a!” 46
+a!‥ 1
+a!… 90
+a)  37
+a), 3
+a). 3
+a,  5013
+a-A 1
+a-H 2
+a-K 5
+a-S 1
+a-U 2
+a-W 1
+a-b 1
+a-g 2
+a-h 1
+a-i 1
+a-k 1
+a-l 3
+a-u 3
+a-w 1
+a.  1520
+a.) 1
+a.— 2
+a.” 9
+a/p 1
+a:  59
+a:. 1
+a;  208
+a?  99
+a?” 3
+a?… 32
+a]  1
+a], 1
+aa  2
+aaa 1
+aak 1
+aal 1
+aam 1
+aat 2
+ab  7
+ab, 4
+ab. 3
+ab; 1
+ab? 1
+aba 74
+abc 1
+abd 8
+abe 161
+abi 587
+abk 8
+abl 336
+abn 19
+abo 142
+abr 132
+abs 35
+abu 63
+aby 691
+abó 13
+abą 7
+abę 6
+abĳ 53
+abł 108
+ac  322
+ac, 1
+ac. 689
+aca 262
+acc 2
+ace 63
+ach 4177
+aci 1252
+ack 108
+acn 157
+aco 77
+acp 1
+act 66
+acu 69
+acy 177
+acz 1521
+acó 6
+acą 24
+acę 21
+acł 4
+ad  742
+ad! 7
+ad, 34
+ad. 18
+ad: 1
+ad; 1
+ad? 1
+ada 1432
+adb 23
+adc 222
+ade 316
+adi 2
+adk 151
+adl 118
+adm 12
+adn 446
+ado 535
+adp 2
+adr 78
+ads 44
+adt 23
+adu 125
+adw 24
+ady 300
+adz 1
+adó 43
+adą 116
+adę 125
+adł 628
+adź 82
+ad… 2
+ael 16
+aem 1
+aer 3
+aes 1
+ae¹ 1
+af  10
+af, 1
+afa 10
+afe 72
+afk 1
+afn 4
+afo 2
+afu 2
+afó 2
+afę 4
+ag  4
+ag, 1
+ag. 1
+aga 299
+agd 2
+age 3
+agh 8
+agi 147
+agl 309
+agn 196
+ago 193
+agr 170
+agu 4
+agw 7
+agó 8
+agą 50
+agę 46
+agł 710
+ah  3
+ah, 1
+ah- 29
+aha 61
+ahe 3
+ahi 1
+ahl 1
+aho 6
+ahu 6
+ahy 7
+ahą 3
+ahę 8
+ai  1
+ai. 2
+aic 5
+aig 2
+aik 1
+ail 1
+aim 3
+ain 100
+ais 9
+ait 38
+ai¹ 1
+aić 3
+aił 9
+aiń 14
+ai⁴ 1
+ak  3614
+ak! 39
+ak) 1
+ak, 228
+ak- 3
+ak. 27
+ak: 18
+ak; 4
+ak? 14
+aka 472
+akb 329
+akc 617
+ake 41
+aki 1465
+akk 26
+akl 44
+akn 26
+ako 1914
+akr 341
+aks 29
+akt 137
+aku 117
+akw 11
+ak¹ 6
+akó 127
+aką 187
+akę 7
+akł 101
+akż 501
+ak… 4
+ak⁈ 2
+ak⁴ 1
+ak⁸ 1
+al  133
+al! 3
+al, 24
+al- 1
+al. 8
+ala 365
+alb 375
+alc 183
+ald 27
+ale 3223
+ali 2233
+alk 125
+all 8
+alm 9
+aln 189
+alo 170
+alr 1
+als 258
+alt 18
+alu 28
+alv 1
+alw 40
+al³ 1
+aló 3
+alą 56
+alę 16
+alĳ 1
+alż 2
+alǳ 1
+al… 1
+am  2210
+am! 95
+am) 10
+am, 283
+am- 1
+am. 90
+am: 16
+am; 9
+am? 33
+ama 281
+amb 66
+amc 32
+ame 412
+ami 3225
+amk 174
+aml 1
+amm 1
+amn 6
+amo 359
+amp 126
+amr 4
+ams 28
+amt 170
+amu 41
+amy 539
+am² 2
+am¹ 3
+amó 19
+amą 90
+amę 39
+amż 14
+am” 1
+am… 25
+am⁈ 1
+an  3036
+an! 30
+an, 171
+an. 118
+an: 3
+an? 11
+ana 1806
+anc 341
+and 240
+ane 792
+ang 22
+ani 3655
+ank 281
+anl 1
+ann 725
+ano 1354
+ans 53
+ant 242
+anu 489
+any 954
+an² 5
+an³ 3
+an¹ 8
+anó 143
+aną 286
+anę 117
+anĳ 6
+anż 1
+anǳ 20
+an” 1
+an… 8
+an⁴ 3
+an⁵ 2
+an⁷ 1
+aoc 11
+aod 1
+aok 69
+aom 1
+aon 3
+aop 16
+aor 2
+aos 13
+aot 1
+aoﬁ 3
+ap  6
+ap! 2
+ap. 1
+apa 423
+apc 35
+ape 169
+aph 1
+api 686
+apk 82
+apl 58
+apn 11
+apo 201
+apr 441
+aps 5
+apt 25
+apu 35
+apy 44
+apó 9
+apę 19
+apĳ 9
+apł 101
+ar  142
+ar! 6
+ar) 1
+ar, 31
+ar. 13
+ar; 2
+ara 1166
+arb 113
+arc 324
+ard 265
+are 246
+arf 1
+arg 142
+ari 182
+ark 213
+arl 51
+arm 284
+arn 785
+aro 947
+arp 69
+arr 5
+ars 715
+art 468
+aru 145
+arw 56
+ary 487
+arz 1568
+ar¹ 1
+aró 210
+arą 30
+arę 157
+arł 522
+arń 1
+arś 31
+arż 33
+arǳ 412
+ar” 1
+as  941
+as! 34
+as, 120
+as. 31
+as: 4
+as? 5
+asa 210
+asc 18
+ase 522
+asi 400
+ask 425
+asm 8
+asn 641
+aso 79
+asp 8
+asr 3
+ass 47
+ast 1405
+asu 286
+asw 2
+asy 214
+asz 3317
+as² 2
+as¹ 8
+asó 83
+asą 13
+asę 12
+asł 208
+as… 11
+as⁸ 1
+as⁹ 1
+at  224
+at! 9
+at, 49
+at. 27
+at; 2
+at? 5
+ata 830
+atc 30
+ate 714
+ati 4
+atk 248
+atl 1
+atn 298
+ato 436
+atr 865
+ats 26
+atu 316
+atw 183
+aty 538
+at² 3
+at¹ 2
+ató 74
+atą 28
+atę 42
+atł 104
+at… 1
+at⁴ 1
+at⁵ 1
+at⁶ 1
+at⁸ 1
+at⁹ 1
+aub 3
+auc 36
+aud 178
+auf 40
+aug 1
+auk 22
+aul 1
+aum 1
+aun 36
+aup 15
+aur 171
+aus 13
+aut 22
+auw 40
+aux 2
+auz 85
+auǳ 8
+au 1
+avu 4
+aw  320
+aw! 13
+aw, 67
+aw. 504
+aw: 3
+aw? 3
+awa 1415
+awc 97
+awd 338
+awe 532
+awi 1773
+awk 15
+awl 14
+awm 1
+awn 449
+awo 593
+awr 107
+aws 444
+awt 9
+awu 33
+awy 297
+awz 65
+aw² 1
+aw¹ 1
+awó 14
+awą 98
+awę 172
+awĳ 1
+awł 3
+awż 1
+awǳ 201
+aw‥ 1
+aw⁵ 3
+az  1748
+az! 22
+az, 122
+az- 1
+az. 31
+az: 10
+az; 3
+az? 3
+aza 729
+azb 2
+azd 476
+aze 247
+azg 16
+azi 417
+azk 3
+azl 1
+azm 2
+azn 90
+azo 43
+azu 276
+azw 114
+azy 242
+azz 2
+azó 24
+azą 2
+azę 8
+azł 107
+az… 11
+a²  1
+a²² 8
+a²³ 18
+a²¹ 16
+a²⁰ 20
+a²⁴ 13
+a²⁵ 1
+a²⁶ 3
+a²⁷ 1
+a²⁸ 1
+a²⁹ 2
+a³² 1
+a³³ 1
+a³¹ 2
+a³⁰ 2
+a³⁴ 2
+a³⁵ 2
+a³⁶ 1
+a³⁷ 1
+a³⁹ 3
+a¹² 14
+a¹³ 14
+a¹¹ 16
+a¹⁰ 12
+a¹⁴ 22
+a¹⁵ 9
+a¹⁶ 18
+a¹⁷ 20
+a¹⁸ 17
+a¹⁹ 17
+aów 3
+aą  4
+aąc 20
+ać  2382
+ać! 173
+ać) 6
+ać, 1023
+ać. 748
+ać: 60
+ać; 50
+ać? 115
+aćc 2
+aćm 3
+aćp 558
+ać² 9
+ać³ 2
+ać¹ 18
+ać” 6
+ać… 92
+ać⁈ 5
+ać⁴ 6
+ać⁵ 2
+ać⁶ 2
+ać⁷ 1
+ać⁹ 1
+ał  6156
+ał! 118
+ał) 4
+ał, 1417
+ał- 1
+ał. 732
+ał: 152
+ał; 58
+ał? 89
+ała 2155
+ałb 189
+ałc 13
+ałd 3
+ałe 1381
+ałg 2
+ałk 207
+ałl 1
+ałm 6
+ałn 4
+ało 1639
+ałp 14
+ałs 16
+ałt 142
+ału 150
+ałw 3
+ały 1993
+ałz 3
+ał² 9
+ał¹ 20
+ałó 79
+ałą 280
+ałę 38
+ałł 7
+ałż 41
+ał” 1
+ał… 86
+ał⁈ 1
+ał⁴ 4
+ał⁵ 2
+ał⁷ 4
+ał⁸ 1
+ał⁹ 3
+ań  123
+ań! 2
+ań, 26
+ań. 5
+ań: 1
+ań; 2
+ań? 2
+ańb 87
+ańc 260
+ańk 7
+ańm 3
+ańn 1
+ańs 700
+ań² 1
+ań¹ 2
+ańż 1
+ań… 1
+ań⁸ 1
+aś  667
+aś! 2
+aś, 61
+aś: 3
+aś? 3
+aśb 1
+aśc 266
+aśk 1
+aśl 30
+aśm 3
+aśn 403
+aśp 6
+aśw 22
+aść 244
+aśń 3
+aś… 2
+aź  5
+aź, 2
+aźl 35
+aźn 100
+aźw 3
+aźń 39
+aźǳ 2
+aż  611
+aż! 3
+aż, 46
+aż. 5
+aża 204
+ażb 11
+ażc 18
+ażd 374
+aże 315
+ażk 1
+ażl 2
+ażm 4
+ażn 153
+ażo 47
+ażu 9
+aży 157
+aż² 1
+aż¹ 1
+ażó 1
+ażą 59
+ażę 53
+ażż 1
+aż… 2
+aż⁷ 1
+aǳa 176
+aǳc 6
+aǳe 54
+aǳi 1416
+aǳk 47
+aǳo 70
+aǳt 8
+aǳw 51
+aǳy 32
+aǳó 5
+aǳą 69
+aǳę 45
+a”  8
+a”, 4
+a”. 2
+a”? 1
+a…  190
+a…. 1
+a…” 7
+a…… 1
+a‼  1
+a‼! 3
+a⁈  2
+a⁈” 1
+a⁈… 5
+a⁴² 1
+a⁴¹ 1
+a⁴⁴ 1
+a⁴⁵ 1
+a⁴⁶ 1
+a⁵  1
+a⁵² 1
+a⁵¹ 2
+a⁵⁰ 1
+a⁵⁶ 3
+a⁵⁸ 2
+a⁵⁹ 1
+a⁶² 1
+a⁶¹ 3
+a⁶⁰ 4
+a⁶⁴ 5
+a⁶⁵ 2
+a⁶⁶ 1
+a⁶⁷ 1
+a⁶⁸ 1
+a⁷² 1
+a⁷³ 1
+a⁷¹ 1
+a⁷⁰ 1
+a⁷⁴ 3
+a⁷⁵ 2
+a⁷⁶ 1
+a⁷⁷ 3
+a⁷⁸ 2
+a⁷⁹ 2
+a⁸² 2
+a⁸³ 1
+a⁸¹ 2
+a⁸⁰ 1
+a⁸⁴ 1
+a⁸⁵ 1
+a⁸⁶ 1
+a⁸⁷ 4
+a⁸⁸ 3
+a⁹² 3
+a⁹³ 1
+a⁹¹ 1
+a⁹⁰ 2
+a⁹⁴ 3
+a⁹⁵ 1
+a⁹⁶ 2
+a⁹⁸ 3
+a⁹⁹ 2
+aa 3
+ao 5
+ay 1
+aa 11
+ao 3
+au 1
+a  1
+a¹ 3
+a, 1
+aﬁ  15
+aﬁ! 2
+aﬁ, 10
+aﬁ. 11
+aﬁ? 1
+aﬁa 16
+aﬁc 1
+aﬁl 4
+aﬁm 2
+aﬁo 1
+aﬁr 4
+aﬁs 2
+aﬁw 2
+aﬁą 5
+aﬁć 18
+aﬁę 7
+aﬁł 52
+aﬁń 1
+aﬂa 1
+b G 1
+b K 6
+b L 1
+b N 1
+b R 3
+b S 1
+b T 1
+b a 16
+b b 14
+b c 10
+b d 35
+b e 17
+b f 2
+b g 12
+b h 2
+b i 17
+b k 27
+b l 8
+b m 21
+b n 27
+b o 16
+b p 45
+b r 17
+b s 34
+b t 25
+b u 15
+b w 36
+b z 27
+b ó 1
+b ą 22
+b ę 34
+b ł 2
+b ś 3
+b ż 9
+b ǳ 6
+b  1
+b ﬁ 1
+b!  5
+b!… 2
+b,  48
+b.  6
+b.) 1
+b.” 1
+b:  2
+b;  2
+ba  860
+ba! 52
+ba, 160
+ba- 1
+ba. 263
+ba: 8
+ba; 5
+ba? 8
+bab 55
+bac 317
+bad 40
+bag 37
+bah 38
+bak 50
+bal 55
+bam 78
+ban 76
+bar 522
+bas 48
+bat 28
+baw 236
+baz 3
+ba² 2
+ba¹ 1
+bać 27
+bał 79
+baś 7
+baż 1
+ba… 14
+ba‼ 1
+bca 13
+bce 31
+bch 13
+bci 27
+bco 2
+bcu 3
+bcy 59
+bcz 7
+bcą 2
+bda 18
+bdy 8
+be  85
+be, 2
+bec 163
+bed 7
+beg 5
+bek 15
+bel 146
+bem 63
+ben 7
+ber 240
+bes 17
+bet 4
+bez 761
+beł 67
+beś 1
+bgr 1
+bgw 2
+bi  42
+bi! 4
+bi, 15
+bi- 1
+bi. 9
+bi; 2
+bi? 3
+bia 255
+bib 7
+bic 191
+bid 2
+bie 2410
+big 9
+bik 4
+bil 81
+bim 12
+bin 322
+bio 131
+bip 21
+bir 20
+bis 88
+bit 412
+biu 6
+biw 7
+biz 4
+bió 7
+bią 35
+bić 185
+bię 18
+bił 279
+biń 6
+biś 8
+biż 1
+bka 10
+bki 43
+bko 73
+bku 6
+bkó 4
+bką 2
+bkę 5
+bl. 1
+bla 305
+ble 134
+bli 664
+blo 7
+blu 33
+blą 61
+blę 180
+blĳ 5
+bma 2
+bmy 29
+bmó 1
+bna 88
+bne 89
+bni 93
+bno 68
+bny 110
+bnó 6
+bną 26
+bo  2346
+bo! 2
+bo, 12
+bo. 3
+boa 1
+bob 39
+boc 46
+bod 49
+boe 1
+bog 122
+boh 97
+boi 23
+bok 322
+bol 92
+bom 156
+bon 42
+boo 1
+bor 162
+bos 131
+bot 86
+bou 1
+bow 416
+boz 187
+bo² 12
+bo¹ 12
+boć 15
+boł 4
+boś 68
+boź 5
+boż 204
+boǳ 7
+bo… 4
+bo⁸ 1
+bo⁹ 3
+br  20
+br, 2
+br. 1
+br; 1
+bra 1222
+bre 139
+bri 1
+brn 22
+bro 985
+brr 1
+bru 35
+brw 56
+bry 185
+brz 730
+bró 35
+brą 30
+brę 9
+bsa 10
+bsb 2
+bse 4
+bsi 8
+bsk 75
+bso 16
+bst 39
+bsu 6
+bsy 10
+bsz 61
+bsł 5
+bta 2
+bte 4
+bu  193
+bu, 14
+bu. 10
+bu: 2
+bu; 2
+buc 92
+bud 94
+buk 2
+bul 12
+bum 2
+bun 137
+bur 175
+bus 15
+but 38
+buz 21
+buł 79
+buń 16
+buś 2
+buǳ 102
+buﬁ 4
+bwa 3
+bwi 22
+bwo 2
+bwó 3
+bwĳ 1
+by  3429
+by! 9
+by, 99
+by. 52
+by: 6
+by; 4
+by? 4
+byc 134
+byd 33
+byk 8
+byl 286
+bym 510
+byn 5
+bys 50
+byt 209
+byw 265
+by² 5
+by¹ 5
+być 504
+był 2583
+byś 355
+byż 1
+by” 1
+by… 7
+by⁴ 1
+by⁶ 2
+bzd 1
+bzi 1
+bzn 2
+bzu 1
+bó  110
+bód 8
+bóe 1
+bóg 40
+ból 38
+bór 29
+bós 14
+bót 6
+bów 32
+bóz 43
+bóś 5
+bóż 3
+bą  244
+bą! 5
+bą, 54
+bą. 32
+bą: 1
+bą; 4
+bą? 3
+bąd 53
+bąk 9
+bąs 4
+bą… 3
+bę  119
+bę! 6
+bę, 37
+bę. 19
+bę; 2
+bę? 3
+bęb 23
+będ 299
+bę¹ 1
+bęǳ 726
+bę… 1
+bę⁷ 1
+bĳ  1
+bĳ! 12
+bĳ, 3
+bĳ. 1
+bĳ; 1
+bĳa 116
+bĳc 1
+bĳe 41
+bĳą 42
+bĳę 2
+bł  4
+bł, 1
+bł. 1
+bła 100
+błe 8
+błk 4
+bło 109
+błu 28
+bły 133
+błó 20
+błą 49
+błę 68
+bże 1
+bǳi 5
+b⁹³ 1
+bﬁc 14
+bﬁt 25
+c A 2
+c B 5
+c C 7
+c D 2
+c H 3
+c J 1
+c K 24
+c L 2
+c M 4
+c N 2
+c O 2
+c P 3
+c R 16
+c S 13
+c T 1
+c W 7
+c Z 4
+c a 282
+c b 89
+c c 128
+c d 158
+c e 168
+c f 3
+c g 83
+c h 6
+c i 480
+c k 116
+c l 54
+c m 156
+c n 398
+c o 240
+c p 473
+c r 126
+c s 459
+c t 213
+c u 103
+c w 346
+c z 366
+c ó 6
+c ą 53
+c ę 219
+c Ł 1
+c ł 8
+c ś 18
+c Ż 1
+c ż 13
+c ǳ 7
+c — 117
+c „ 2
+c  1
+c ﬁ 1
+c!  58
+c!” 1
+c!… 8
+c)  7
+c,  781
+c-H 12
+c-Z 2
+c.  273
+c.) 585
+c., 9
+c.: 20
+c.” 5
+c:  18
+c;  18
+c?  7
+c?… 2
+ca  1062
+ca! 42
+ca) 2
+ca, 293
+ca- 2
+ca. 158
+ca: 21
+ca; 18
+ca? 14
+cac 163
+cal 145
+cam 158
+can 28
+cap 9
+car 41
+cas 8
+ca² 3
+ca¹ 2
+caą 1
+cać 113
+cał 1218
+cań 1
+caż 1
+ca” 1
+ca… 10
+ca⁵ 1
+ccy 21
+ccz 6
+ce  1821
+ce! 20
+ce) 2
+ce, 270
+ce. 140
+ce: 9
+ce; 9
+ce? 8
+cea 1
+ceb 1
+cec 45
+ced 13
+ceg 155
+cek 20
+cel 94
+cem 241
+cen 167
+cep 22
+cer 754
+ces 170
+cew 26
+ce² 7
+ce¹ 4
+ceń 12
+ceś 2
+ceż 1
+ce” 2
+ce… 15
+ce⁵ 1
+ce⁸ 1
+ce⁹ 1
+ch  7109
+ch! 100
+ch) 5
+ch, 1353
+ch. 679
+ch: 29
+ch; 63
+ch? 49
+cha 2191
+chb 20
+chc 1312
+che 408
+chi 36
+chk 2
+chl 102
+chm 241
+chn 363
+cho 3162
+chp 1
+chr 240
+chs 7
+cht 481
+chu 384
+chw 1276
+chy 578
+ch² 17
+ch³ 3
+ch¹ 34
+chó 179
+chą 26
+chę 248
+chł 343
+chś 5
+chż 131
+ch” 2
+ch… 21
+ch‼ 1
+ch⁈ 1
+ch⁴ 5
+ch⁵ 6
+ch⁶ 5
+ch⁷ 3
+ch⁸ 5
+ch⁹ 4
+ci  1967
+ci! 73
+ci) 1
+ci, 518
+ci. 230
+ci: 4
+ci; 20
+ci? 21
+cia 1740
+cib 5
+cic 2150
+cie 4862
+cig 107
+cik 12
+cil 153
+cim 26
+cin 208
+cio 301
+cip 33
+cis 377
+ciu 352
+ciw 871
+ciz 11
+ci² 5
+ci³ 1
+ci¹ 5
+ció 201
+cią 1130
+cić 348
+cię 870
+cił 1010
+ciń 72
+ciś 32
+ciż 5
+ci” 3
+ci… 36
+ci⁵ 1
+ci⁶ 2
+cka 46
+cki 1120
+ckn 2
+cko 22
+ckr 1
+cku 31
+cką 29
+cla 1
+cle 68
+cm, 1
+cmo 4
+cn  1
+cna 17
+cne 61
+cni 136
+cno 156
+cny 131
+cnó 9
+cną 10
+cnĳ 1
+co  1479
+co! 31
+co, 46
+co. 7
+co; 2
+co? 74
+cob 6
+cod 3
+cof 97
+cok 9
+com 68
+con 129
+cor 340
+cow 310
+co¹ 1
+coć 4
+coł 4
+coś 201
+coż 1
+coǳ 9
+co… 2
+co⁈ 4
+cpe 1
+cpo 39
+cru 1
+cta 1
+cte 1
+ctw 132
+cu  262
+cu, 67
+cu. 32
+cu: 2
+cu; 4
+cu? 8
+cuc 21
+cud 70
+cug 20
+cuk 3
+cun 45
+cus 46
+cut 1
+cuz 12
+cuǳ 73
+cu” 1
+cu… 2
+cwa 3
+cy  2087
+cy! 41
+cy, 357
+cy. 143
+cy: 10
+cy; 27
+cy? 15
+cyb 12
+cyc 324
+cyd 6
+cyf 1
+cyg 3
+cyk 3
+cyl 1
+cym 167
+cyn 21
+cyp 35
+cyr 6
+cys 1
+cyt 12
+cyw 28
+cyz 11
+cy² 3
+cy³ 1
+cy¹ 8
+cył 1
+cyś 10
+cyż 7
+cy” 2
+cy… 12
+cy‼ 1
+cy⁈ 1
+cy⁴ 1
+cy⁵ 1
+cy⁷ 1
+cy 1
+cyﬁ 12
+cz  1453
+cz! 79
+cz) 2
+cz, 196
+cz. 135
+cz; 4
+cz? 15
+cza 3203
+czb 34
+czc 166
+cze 3947
+czi 1
+czk 390
+czl 61
+czm 48
+czn 1656
+czo 937
+czp 105
+czt 218
+czu 543
+czw 41
+czy 5649
+cz¹ 8
+czó 203
+czą 1072
+czę 1503
+czł 386
+czż 6
+cz… 8
+cz⁷ 1
+cz⁹ 2
+c²² 3
+c²³ 2
+c²⁰ 1
+c³⁵ 1
+c¹³ 1
+c¹¹ 1
+c¹⁴ 2
+c¹⁵ 1
+c¹⁶ 2
+cór 36
+ców 359
+cóż 57
+cą  306
+cą! 8
+cą, 56
+cą. 40
+cą; 4
+cą? 5
+cąc 102
+cą² 1
+cą³ 1
+cąż 1
+cą… 8
+cę  164
+cę! 14
+cę, 65
+cę. 32
+cę: 2
+cę; 6
+cę? 4
+cęt 7
+cę¹ 1
+cę” 1
+cę… 9
+cę⁹ 1
+cĳ  1
+cĳa 15
+cła 12
+cże 2
+c…  18
+c…” 1
+c⁈… 2
+c⁵⁴ 1
+d ( 17
+d A 8
+d B 58
+d C 50
+d D 7
+d E 2
+d F 5
+d G 18
+d H 4
+d I 6
+d J 13
+d K 87
+d L 10
+d M 33
+d N 10
+d O 13
+d P 38
+d R 31
+d S 81
+d T 34
+d U 19
+d W 71
+d X 4
+d Z 35
+d a 151
+d b 168
+d c 218
+d d 150
+d e 230
+d f 18
+d g 109
+d h 31
+d i 89
+d k 330
+d l 46
+d m 148
+d n 486
+d o 217
+d p 348
+d r 187
+d s 428
+d t 224
+d u 51
+d w 370
+d z 157
+d ó 2
+d ą 59
+d ę 21
+d Ł 6
+d ł 13
+d ś 53
+d Ż 3
+d ż 26
+d ǲ 1
+d ǳ 20
+d — 10
+d „ 2
+d  3
+d  40
+d  1
+d ﬁ 1
+d!  19
+d!” 2
+d!… 1
+d)  18
+d,  231
+d-b 2
+d.  74
+d.) 9
+d.- 3
+d.: 3
+d:  2
+d;  5
+d?  8
+da  1327
+da! 96
+da) 22
+da, 351
+da. 76
+da: 7
+da; 10
+da? 19
+dab 1
+dac 195
+dag 5
+dak 616
+dal 813
+dam 271
+dan 550
+dar 317
+das 61
+dat 49
+daw 1155
+daz 2
+da¹ 1
+daą 3
+dać 550
+dał 911
+dań 198
+daś 1
+daż 6
+daǳ 30
+da” 2
+da… 15
+da⁈ 1
+da⁸ 1
+da⁹ 1
+daﬁ 1
+dba 39
+dbe 2
+dbi 102
+dbl 2
+dbo 4
+dbr 2
+dbu 17
+dby 39
+dbó 1
+dbę 1
+dbĳ 22
+dca 63
+dce 18
+dch 89
+dci 69
+dcy 11
+dcz 205
+dcó 32
+dcą 2
+dcę 4
+dda 344
+dde 32
+ddi 1
+ddy 22
+de  355
+de, 4
+de; 1
+dea 1
+deb 40
+dec 201
+deg 71
+dek 116
+del 29
+dem 303
+den 549
+deo 1
+dep 70
+der 436
+des 198
+det 40
+dew 3
+dez 20
+de¹ 1
+deł 20
+deń 22
+deś 6
+deż 1
+deﬁ 15
+dga 34
+dgo 7
+dgr 3
+dgó 2
+dgł 36
+dha 1
+di! 1
+dia 170
+die 23
+dii 28
+dim 1
+din 4
+dio 7
+diu 6
+di² 2
+dió 1
+dią 1
+dię 6
+dka 81
+dki 107
+dko 185
+dkr 37
+dku 111
+dkó 24
+dką 14
+dkę 11
+dkł 4
+dla 1029
+dlc 2
+dle 217
+dli 324
+dlm 3
+dlo 5
+dlu 21
+dlą 3
+dlę 3
+dm  2
+dma 81
+dme 2
+dmi 103
+dmn 3
+dmo 13
+dmr 1
+dms 1
+dmu 10
+dmy 1
+dmó 28
+dmą 1
+dmǳ 6
+dna 488
+dne 463
+dni 1479
+dno 522
+dny 285
+dnó 6
+dną 134
+dnę 17
+dnĳ 4
+do  4249
+do! 6
+do, 2
+do. 1
+do: 1
+dob 1237
+doc 238
+dod 146
+dog 34
+dok 356
+dol 115
+dom 599
+don 90
+dop 299
+dor 51
+dos 590
+dot 218
+dou 2
+dow 778
+doz 33
+do² 1
+do¹ 3
+doł 124
+doń 21
+doś 353
+doż 9
+do… 2
+do⁹ 1
+doﬁ 1
+dpa 215
+dpi 58
+dpo 541
+dpr 66
+dpu 37
+dpy 1
+dpó 3
+dpę 1
+dpĳ 1
+dpł 12
+dra 766
+drc 2
+dre 56
+drg 38
+dri 4
+drk 1
+dro 814
+drs 2
+dru 562
+drw 18
+dry 36
+drz 1259
+dró 87
+drą 28
+drę 34
+drż 55
+dsa 13
+dse 2
+dsi 55
+dsk 40
+dsp 2
+dst 208
+dsu 17
+dsw 2
+dsy 17
+dsz 97
+dsę 1
+dsł 7
+dta 1
+dte 36
+dto 23
+dtr 23
+dty 1
+dtą 19
+du  345
+du! 5
+du, 100
+du. 39
+du: 1
+du; 8
+du? 1
+duc 150
+dud 4
+duf 12
+duk 35
+dum 195
+dun 6
+dur 25
+dus 365
+du¹ 3
+duń 5
+duś 13
+duż 101
+du” 1
+du… 2
+dwa 305
+dwc 3
+dwe 5
+dwi 392
+dwl 1
+dwo 283
+dwr 77
+dwu 37
+dwy 3
+dwó 252
+dwą 7
+dwĳ 2
+dwł 6
+dy  2753
+dy! 35
+dy, 231
+dy- 1
+dy. 112
+dy: 5
+dy; 6
+dy? 14
+dyb 401
+dyc 134
+dyd 2
+dyf 2
+dyg 73
+dyk 64
+dyl 5
+dym 282
+dyn 215
+dyo 16
+dyp 8
+dyr 9
+dys 103
+dyt 1904
+dyw 63
+dyz 1
+dy² 3
+dy¹ 5
+dyń 22
+dyś 60
+dyż 161
+dy” 3
+dy… 18
+dy⁈ 1
+dy⁷ 1
+dy⁹ 2
+dyﬁ 3
+dzw 1
+d¹³ 1
+d¹¹ 2
+dób 23
+dós 1
+dów 454
+dół 31
+dą  314
+dą! 24
+dą, 78
+dą. 29
+dą; 3
+dą? 5
+dąb 7
+dąc 176
+dąk 2
+dąs 2
+dąć 1
+dął 6
+dąż 56
+dą… 7
+dę  456
+dę! 34
+dę) 3
+dę, 95
+dę- 1
+dę. 46
+dę: 1
+dę; 6
+dę? 8
+dęb 12
+dęm 1
+dęt 9
+dę² 2
+dę¹ 3
+dęł 1
+dęǳ 1
+dę… 10
+dę⁴ 1
+dę⁶ 1
+dł  626
+dł! 19
+dł, 121
+dł. 74
+dł: 2
+dł; 6
+dł? 6
+dła 237
+dłb 11
+dłe 80
+dłk 1
+dło 272
+dłs 57
+dłu 410
+dły 88
+dłą 11
+dłę 1
+dł” 1
+dł… 9
+dś. 1
+dśc 1
+dśl 2
+dśm 2
+dśp 6
+dśw 2
+dź  200
+dź! 27
+dź, 60
+dź. 14
+dź: 1
+dź? 3
+dźb 3
+dźc 145
+dźm 106
+dźw 108
+dź² 3
+dź³ 1
+dź¹ 2
+dźż 19
+dź” 1
+dź… 2
+dż, 1
+dża 173
+dżd 8
+dże 23
+dżg 7
+dżo 5
+dżu 2
+dży 16
+dżą 4
+dǳi 184
+d’A 2
+d”  1
+d…  1
+d…” 1
+d⁈… 1
+d⁸⁷ 1
+e ! 119
+e ( 46
+e ) 16
+e , 817
+e - 6
+e . 471
+e : 71
+e ; 40
+e ? 28
+e A 33
+e B 160
+e C 39
+e D 10
+e E 6
+e F 22
+e G 38
+e H 21
+e I 4
+e J 63
+e K 195
+e L 47
+e M 96
+e N 22
+e O 34
+e P 96
+e R 169
+e S 241
+e T 26
+e W 76
+e X 4
+e Z 44
+e [ 1
+e a 879
+e b 1984
+e c 1872
+e d 1958
+e e 1036
+e f 72
+e g 903
+e h 98
+e i 1893
+e k 1488
+e l 469
+e m 3635
+e n 3043
+e o 2129
+e p 4605
+e r 1130
+e s 4871
+e t 2248
+e u 1148
+e v 1
+e w 4320
+e z 3232
+e ² 4
+e ¹ 6
+e ó 39
+e ą 159
+e ć 4
+e ę 80
+e Ł 2
+e ł 125
+e Ś 7
+e ś 465
+e ź 15
+e Ż 28
+e ż 382
+e ǲ 1
+e ǳ 264
+e — 366
+e ” 1
+e „ 25
+e … 54
+e ⁴ 1
+e ⁶ 1
+e ⁹ 1
+e  19
+e  6
+e  1
+e  1
+e ﬁ 8
+e!  640
+e!) 2
+e!— 1
+e!” 30
+e!… 125
+e)  12
+e), 4
+e,  4848
+e-  1
+e-g 1
+e-l 2
+e.  1312
+e.) 15
+e., 1
+e.” 13
+e:  93
+e;  211
+e?  146
+e?” 6
+e?… 28
+ea  2
+ea, 1
+ea: 1
+eac 1
+eag 2
+eal 2
+ean 4
+eap 1
+ear 1
+eas 1
+eat 18
+eb  41
+eb! 7
+eb, 6
+eb. 1
+eb? 1
+eba 452
+ebc 4
+ebe 185
+ebi 582
+ebk 2
+ebl 6
+ebn 68
+ebo 160
+ebr 264
+ebs 85
+ebu 72
+eby 550
+ebz 1
+ebó 5
+ebą 4
+ebę 14
+ebĳ 8
+ebł 4
+ec  532
+ec! 15
+ec) 1
+ec, 115
+ec- 12
+ec. 46
+ec: 3
+ec; 3
+ec? 8
+eca 96
+ecc 18
+ece 71
+ech 2343
+eci 1541
+eck 830
+ecn 106
+eco 140
+ecp 38
+ect 12
+ecu 14
+ecy 76
+ecz 2960
+ec² 2
+ec³ 1
+ecó 29
+ecą 34
+ecę 18
+ec… 2
+ed  675
+ed, 3
+ed. 4
+ed? 2
+eda 907
+edb 23
+edd 1
+ede 519
+edi 13
+edk 1
+edl 258
+edm 57
+edn 1396
+edo 182
+edp 1
+edr 19
+eds 71
+edt 36
+edu 2
+edw 223
+edy 2628
+edó 291
+edę 1
+edł 619
+edś 4
+edź 146
+edż 1
+edǳ 2
+eed 4
+ees 2
+eeż 1
+ef  1
+ef! 5
+efa 9
+efe 5
+efn 2
+efo 13
+eg  88
+eg, 8
+eg. 29
+eg; 1
+ega 276
+egc 2
+egd 23
+ege 3
+egi 214
+egl 93
+egm 5
+egn 92
+ego 7296
+egr 33
+egu 162
+egz 21
+egó 118
+egą 13
+egę 1
+egł 410
+egǳ 21
+eha 144
+eho 3
+ehu 1
+ehy 52
+ehó 5
+ehą 16
+ehę 27
+ei  37
+ei! 1
+ei, 17
+ei. 7
+ein 22
+eis 3
+ei… 1
+ek  824
+ek! 29
+ek, 278
+ek. 116
+ek: 3
+ek; 12
+ek? 7
+eka 685
+ekc 73
+eke 1
+ekh 14
+eki 206
+ekk 67
+ekl 89
+ekn 24
+eko 248
+ekr 47
+eks 159
+ekt 387
+eku 136
+ekw 20
+ek² 4
+ek³ 1
+ek¹ 7
+ekó 18
+eką 78
+ekę 47
+ekł 2416
+ek” 1
+ek… 9
+ek⁵ 1
+ek⁶ 1
+ek⁹ 2
+el  171
+el! 7
+el) 11
+el, 64
+el- 1
+el. 26
+el: 1
+el; 3
+el? 4
+ela 761
+elb 48
+elc 115
+eld 60
+ele 712
+elg 5
+eli 1175
+elk 787
+ell 29
+elm 116
+eln 247
+elo 140
+els 191
+elt 4
+elu 219
+elw 2
+el³ 1
+el¹ 1
+eló 20
+elą 20
+elę 13
+elż 2
+el… 1
+el⁈ 1
+el⁴ 1
+el⁵ 1
+el⁶ 1
+elﬁ 2
+em  5187
+em! 141
+em) 3
+em, 1349
+em. 585
+em: 109
+em; 59
+em? 53
+ema 214
+emb 18
+emc 53
+emd 11
+eme 32
+emi 568
+emk 35
+eml 105
+emn 311
+emo 75
+emp 12
+emr 7
+ems 144
+emu 970
+emy 252
+em² 12
+em³ 5
+em¹ 44
+emó 43
+emą 1
+emę 1
+emĳ 2
+emł 1
+emś 9
+em– 1
+em” 4
+em… 79
+em⁈ 5
+em⁴ 2
+em⁵ 6
+em⁶ 3
+em⁷ 6
+em⁸ 6
+em⁹ 2
+en  1067
+en! 42
+en, 166
+en. 25
+en: 2
+en; 2
+en? 14
+ena 146
+enb 129
+enc 190
+end 272
+ene 233
+enh 89
+eni 3068
+enk 113
+enn 271
+eno 580
+enr 4
+ens 31
+ent 468
+enu 5
+eny 11
+enz 27
+en² 5
+en¹ 18
+enó 4
+eną 8
+enę 14
+enż 13
+enǳ 4
+en” 2
+en… 6
+en⁈ 1
+en⁸ 2
+eob 24
+eoc 1
+eod 8
+eog 1
+eok 5
+eol 1
+eom 1
+eon 6
+eop 9
+eor 40
+eos 13
+eot 4
+eow 8
+eoż 1
+eoﬁ 2
+ep  17
+ep! 3
+ep, 6
+ep. 2
+epa 99
+epc 32
+epe 63
+epi 341
+epk 11
+epl 7
+epn 40
+epo 248
+epr 639
+eps 211
+ept 81
+epu 53
+epy 30
+epó 6
+epą 1
+epę 5
+epĳ 4
+epł 60
+ep⁸ 1
+er  352
+er! 8
+er, 87
+er. 73
+er; 1
+er? 4
+era 1755
+erb 58
+erc 590
+erd 26
+ere 411
+erf 10
+erg 175
+erh 3
+eri 89
+erk 112
+erl 11
+erm 68
+ern 421
+ero 532
+erp 166
+err 3
+ers 623
+ert 58
+eru 102
+erw 930
+ery 220
+erz 2605
+er² 2
+er¹ 9
+eró 124
+erą 27
+erć 166
+erę 13
+erł 17
+erń 2
+erś 54
+erż 54
+erǳ 227
+er… 2
+er⁹ 2
+es  48
+es! 6
+es, 11
+es- 1
+es. 2
+es; 1
+es? 1
+esa 114
+esc 9
+ese 73
+esf 14
+esi 474
+esk 160
+esm 1
+esn 43
+eso 116
+esp 214
+ess 2
+est 1602
+esu 24
+esw 2
+esy 18
+esz 3728
+es¹ 2
+esó 22
+esą 1
+esę 3
+esł 163
+es… 2
+es⁴ 1
+et  501
+et! 2
+et, 52
+et. 4
+et; 3
+eta 104
+etc 46
+ete 58
+eti 2
+etk 28
+etl 70
+etm 597
+etn 172
+eto 68
+etr 139
+ett 1
+etu 265
+ety 138
+etz 1
+et² 1
+et¹ 2
+etó 54
+etą 2
+etę 11
+et⁴ 1
+et⁷ 1
+et⁹ 1
+eu  2
+eu, 1
+eub 12
+euc 2
+eud 2
+euf 14
+eug 6
+euk 3
+eul 4
+eun 2
+eup 3
+eur 3
+eus 30
+euw 1
+eux 1
+euz 2
+euż 8
+eve 1
+ew  301
+ew! 10
+ew, 73
+ew. 15
+ew; 2
+ew? 6
+ewa 552
+ewc 152
+ewe 77
+ewi 831
+ewk 94
+ewl 6
+ewn 644
+ewo 556
+ewr 23
+ews 595
+ewu 47
+ewy 84
+ewz 2
+ew¹ 1
+ewó 62
+ewą 8
+ewę 2
+ewĳ 1
+ewł 1
+ewǳ 20
+ew⁴ 1
+exu 1
+eyh 16
+ez  1195
+ez, 1
+ez? 2
+eza 39
+ezb 78
+ezc 19
+ezd 52
+eze 59
+ezg 29
+ezi 92
+ezk 10
+ezl 2
+ezm 117
+ezn 138
+ezo 43
+ezp 237
+ezr 25
+ezs 25
+ezu 83
+ezw 126
+ezy 70
+ezz 1
+ezą 5
+ezę 3
+ezł 41
+ez… 1
+e²² 9
+e²³ 6
+e²¹ 5
+e²⁰ 7
+e²⁴ 10
+e²⁶ 1
+e²⁸ 3
+e²⁹ 1
+e³² 1
+e³¹ 1
+e³⁰ 2
+e³⁴ 1
+e³⁵ 1
+e³⁹ 1
+e¹² 7
+e¹³ 14
+e¹¹ 7
+e¹⁰ 18
+e¹⁴ 9
+e¹⁵ 5
+e¹⁶ 9
+e¹⁷ 6
+e¹⁸ 9
+e¹⁹ 12
+eów 1
+eąc 1
+eć  444
+eć! 34
+eć, 223
+eć. 103
+eć: 36
+eć; 7
+eć? 17
+ećc 1
+ećm 15
+eć² 1
+ećż 2
+eć… 24
+eć⁴ 1
+eć⁹ 1
+eę  1
+eł  87
+eł! 7
+eł, 28
+eł. 6
+eł? 2
+eła 40
+ełb 5
+ełc 2
+ełe 15
+ełg 3
+ełk 34
+ełm 40
+ełn 353
+eło 14
+ełp 25
+ełs 5
+ełt 1
+ełu 1
+ełz 22
+ełę 1
+ełł 1
+eł… 2
+eń  404
+eń! 7
+eń, 71
+eń- 1
+eń. 38
+eń: 2
+eń; 5
+eń? 6
+eńc 155
+eńk 346
+eńs 488
+eń² 1
+eń… 2
+eń⁴ 1
+eń⁵ 1
+eś  476
+eś! 16
+eś, 45
+eś. 11
+eś: 1
+eś; 1
+eś? 27
+eśc 388
+eśk 1
+eśl 524
+eśm 92
+eśn 184
+eśw 18
+eść 320
+eśń 17
+eśż 1
+eś… 6
+eź  15
+eź! 1
+eź, 7
+eź. 4
+eźb 6
+eźc 4
+eźd 92
+eźl 44
+eźm 38
+eźn 17
+eźr 1
+eźw 9
+eźć 71
+eźż 3
+eźǳ 86
+eż  630
+eż, 58
+eż. 3
+eż: 2
+eż; 1
+eża 161
+eżc 1
+eżd 170
+eże 276
+eżk 7
+eżn 62
+eżo 39
+eżs 1
+eżu 10
+eży 236
+eżą 83
+eżę 5
+eż⁹ 1
+eǳ  45
+eǳ! 3
+eǳ, 17
+eǳ. 1
+eǳa 10
+eǳc 39
+eǳe 29
+eǳi 1723
+eǳk 648
+eǳo 6
+eǳy 3
+eǳą 130
+eǳę 12
+eǳż 12
+e”  11
+e”, 3
+e”. 4
+e…  175
+e…. 1
+e…” 9
+e‼  1
+e‼! 1
+e⁈  3
+e⁈… 1
+e⁴¹ 1
+e⁴⁰ 1
+e⁴⁴ 2
+e⁴⁶ 1
+e⁴⁷ 1
+e⁴⁹ 2
+e⁵² 2
+e⁵¹ 2
+e⁵⁴ 1
+e⁵⁶ 1
+e⁵⁸ 2
+e⁵⁹ 1
+e⁶³ 1
+e⁶¹ 1
+e⁶⁰ 1
+e⁶⁵ 1
+e⁶⁷ 1
+e⁶⁹ 1
+e⁷² 1
+e⁷⁶ 1
+e⁷⁷ 1
+e⁷⁸ 1
+e⁷⁹ 1
+e⁸² 2
+e⁸⁰ 1
+e⁸⁴ 2
+e⁸⁵ 2
+e⁸⁷ 1
+e⁸⁸ 1
+e⁸⁹ 1
+e⁹³ 2
+e⁹¹ 1
+e⁹⁵ 1
+e⁹⁶ 1
+e⁹⁸ 1
+e⁹⁹ 3
+eﬁc 1
+eﬁl 1
+eﬁn 14
+eﬂe 2
+f D 1
+f M 3
+f O 4
+f P 1
+f T 1
+f W 4
+f a 1
+f b 2
+f d 1
+f i 2
+f k 3
+f m 2
+f n 3
+f o 1
+f p 4
+f r 1
+f s 5
+f u 2
+f w 1
+f z 3
+f ś 1
+f Ż 2
+f — 3
+f!  10
+f!… 2
+f,  15
+f.  5
+fa  56
+fa, 12
+fa. 7
+fa? 1
+fab 1
+fak 7
+fal 58
+fam 35
+fan 106
+far 12
+fas 13
+fat 9
+faw 10
+fa² 1
+fa³ 1
+fać 38
+fał 49
+fa⁹ 1
+fce 1
+fe! 1
+fea 1
+feb 29
+fec 8
+fed 91
+fek 80
+fel 40
+fem 21
+fen 2
+fer 6
+fes 10
+fka 1
+fku 1
+fna 5
+fne 1
+fni 6
+fno 46
+fny 8
+fną 25
+fnę 14
+fok 1
+fol 30
+fon 4
+for 406
+fos 13
+fot 3
+fow 20
+fsk 1
+fu  11
+fu! 14
+fu, 2
+fu. 1
+fui 20
+fuk 3
+fum 1
+fun 64
+fur 28
+fus 1
+fut 37
+fuz 19
+f²⁴ 1
+f²⁵ 1
+fów 3
+fą  3
+fą. 1
+fę  5
+fę, 1
+fę. 1
+fę² 2
+fę⁸ 1
+fę⁹ 1
+f…  1
+f⁸⁵ 1
+g ( 17
+g B 4
+g C 1
+g K 2
+g N 1
+g O 1
+g R 2
+g S 2
+g W 1
+g a 3
+g b 30
+g c 22
+g d 44
+g e 16
+g g 10
+g h 2
+g i 35
+g k 12
+g l 4
+g m 81
+g n 55
+g o 26
+g p 87
+g r 19
+g s 44
+g t 20
+g u 6
+g v 17
+g w 112
+g z 70
+g ł 7
+g ś 8
+g ż 3
+g ǳ 1
+g — 14
+g!  22
+g!” 1
+g!… 1
+g)  2
+g), 1
+g,  141
+g-K 3
+g.  25
+g.) 18
+g., 1
+g/l 1
+g;  2
+g?  1
+ga  438
+ga! 95
+ga, 172
+ga. 58
+ga: 3
+ga; 4
+ga? 3
+gac 207
+gad 174
+gai 2
+gal 60
+gam 153
+gan 193
+gap 3
+gar 399
+gas 59
+gat 78
+gaw 20
+gaz 3
+ga² 3
+ga¹ 2
+gaą 1
+gać 139
+gał 233
+gań 12
+gaś 6
+gaż 4
+gaǳ 16
+ga… 8
+ga⁷ 1
+ga⁹ 2
+gbu 1
+gci 2
+gda 42
+gde 1
+gdy 1396
+gdó 1
+ge  1
+gel 34
+gem 6
+gen 44
+ger 4
+ges 2
+gha 8
+gi  518
+gi! 22
+gi, 144
+gi. 80
+gi: 7
+gi; 8
+gi? 1
+gia 49
+gic 40
+gid 3
+gie 691
+gii 14
+gil 9
+gim 195
+gin 224
+gio 2
+gip 7
+gir 8
+gis 1
+giu 5
+giw 17
+gió 1
+gią 23
+gię 27
+gił 5
+giń 4
+gi… 9
+gla 89
+gle 453
+gli 272
+glo 4
+gló 2
+glą 269
+glę 64
+gma 12
+gmi 5
+gmu 10
+gmy 1
+gmą 2
+gna 242
+gne 2
+gni 671
+gno 11
+gnu 11
+gną 330
+gnę 160
+gnĳ 9
+go  6941
+go! 107
+go) 5
+go, 932
+go. 296
+go: 26
+go; 37
+go? 61
+gob 3
+goc 23
+god 343
+gog 1
+goi 6
+gok 9
+gol 16
+gom 106
+gon 219
+gor 342
+gos 127
+got 428
+gow 118
+go² 8
+go¹ 19
+goć 2
+goł 88
+goń 43
+goś 234
+goż 24
+goǳ 311
+go” 1
+go… 31
+go⁈ 1
+go⁶ 5
+go⁷ 6
+go⁸ 5
+go⁹ 3
+gr. 39
+gra 400
+gre 12
+gri 1
+gro 602
+gru 115
+gry 76
+grz 349
+gró 29
+grą 59
+grę 2
+gsb 1
+gsc 1
+gsk 13
+gu  178
+gu! 21
+gu, 59
+gu. 33
+gu; 5
+gub 95
+gul 34
+gum 8
+gun 3
+gur 16
+gus 499
+gut 8
+guz 6
+guą 1
+guł 4
+guś 2
+gu… 2
+gw. 1
+gwa 150
+gwi 374
+gwo 12
+gwó 3
+gy  1
+gza 4
+gze 13
+gzo 3
+gzy 4
+g²² 1
+g²³ 1
+g²⁰ 2
+g¹⁰ 1
+g¹⁶ 1
+g¹⁷ 1
+g¹⁹ 1
+gód 10
+gól 108
+gór 302
+gów 114
+gół 14
+góż 14
+gą  217
+gą! 4
+gą, 67
+gą. 28
+gą: 2
+gą; 2
+gą? 2
+gąc 48
+gąl 1
+gąs 26
+gą… 4
+gą⁴ 1
+gę  242
+gę! 18
+gę) 1
+gę, 72
+gę. 48
+gę: 2
+gę; 5
+gę? 3
+gęb 82
+gęs 85
+gęś 6
+gęż 4
+gę… 15
+gł  447
+gł! 1
+gł, 62
+gł. 24
+gł; 2
+gł? 4
+gła 259
+głb 69
+głe 82
+gło 2208
+głs 28
+głu 99
+gły 196
+głó 144
+głą 31
+głę 135
+gł… 2
+gǳi 406
+g”  1
+g…  2
+g⁴⁸ 1
+g⁸² 1
+g⁸⁸ 1
+g⁹⁸ 1
+h ( 2
+h A 1
+h B 27
+h C 6
+h D 8
+h G 1
+h H 1
+h I 1
+h J 3
+h K 63
+h L 5
+h M 6
+h N 4
+h O 5
+h P 7
+h R 22
+h S 48
+h T 23
+h U 1
+h W 8
+h Z 4
+h a 98
+h b 213
+h c 272
+h d 274
+h e 158
+h f 21
+h g 135
+h h 23
+h i 476
+h k 307
+h l 235
+h m 300
+h n 512
+h o 365
+h p 730
+h r 238
+h s 652
+h t 247
+h u 151
+h w 626
+h z 485
+h ó 2
+h ą 4
+h ć 1
+h ę 2
+h ł 26
+h Ś 1
+h ś 42
+h ź 2
+h Ż 2
+h ż 132
+h ǳ 42
+h — 34
+h „ 5
+h  3
+h  40
+h  1
+h  9
+h!  60
+h!” 3
+h!… 13
+h!⁹ 1
+h). 5
+h,  1250
+h-U 29
+h.  433
+h.” 1
+h:  15
+h;  54
+h?  25
+h?… 6
+ha  419
+ha! 37
+ha, 88
+ha- 3
+ha. 44
+ha: 8
+ha; 4
+ha? 3
+hab 13
+hac 73
+hag 1
+hak 7
+hal 237
+ham 121
+han 199
+hao 6
+har 210
+has 30
+hat 142
+hau 99
+haw 19
+haz 21
+haą 1
+hać 338
+hał 799
+hań 68
+haǳ 5
+ha” 1
+ha… 4
+ha 4
+hby 20
+hce 362
+hci 785
+hcz 24
+hcą 135
+hcę 98
+hda 12
+he  37
+he! 1
+he, 4
+he. 1
+heb 2
+hec 78
+hed 1
+heg 7
+hei 2
+hel 5
+hem 183
+hen 36
+her 116
+hes 1
+het 585
+hew 4
+heł 67
+heś 2
+hi! 4
+hib 3
+hic 9
+hid 3
+hii 1
+hil 5
+him 5
+hin 6
+hip 3
+his 21
+hit 3
+hiw 15
+hię 1
+hko 2
+hla 6
+hle 67
+hli 35
+hlu 18
+hlę 1
+hma 13
+hmi 205
+hmo 24
+hmu 69
+hmy 1
+hn  1
+hna 11
+hne 28
+hni 120
+hno 11
+hny 11
+hnó 1
+hną 138
+hnę 50
+hnĳ 3
+ho  83
+ho! 13
+ho, 24
+ho. 8
+ho: 1
+ho; 2
+hoc 205
+hod 217
+hof 50
+hoi 2
+hol 97
+hom 31
+hon 53
+hop 1
+hor 640
+hos 13
+hot 345
+how 409
+hoć 462
+hoł 123
+hoś 3
+hoż 2
+hoǳ 742
+ho” 1
+ho… 1
+hoﬀ 5
+hpo 1
+hr. 2
+hra 84
+hre 13
+hro 113
+hru 16
+hry 51
+hrz 57
+hró 1
+hsd 3
+hsz 4
+ht  1
+hta 218
+hte 3
+hto 9
+htt 2
+htu 1
+hty 155
+htó 6
+htą 35
+htę 53
+hu  155
+hu! 15
+hu, 57
+hu- 5
+hu. 26
+hu: 5
+hu; 1
+hu? 3
+hub 19
+huc 28
+hud 41
+huf 4
+huk 98
+hul 37
+hum 36
+hun 28
+hur 45
+hus 48
+huz 1
+huź 1
+huǳ 12
+hu… 1
+huﬁ 2
+hwa 206
+hwi 863
+hwy 268
+hwą 3
+hy  167
+hy! 8
+hy, 70
+hy. 35
+hy: 2
+hy; 4
+hy? 4
+hyb 187
+hyc 7
+hyd 7
+hyl 140
+hym 17
+hyn 3
+hyt 20
+hył 14
+hyż 3
+hyǳ 1
+hy… 1
+h²² 2
+h²³ 4
+h²¹ 3
+h²⁰ 2
+h²⁴ 4
+h²⁵ 1
+h²⁷ 1
+h³² 1
+h³³ 1
+h³⁷ 1
+h¹² 4
+h¹³ 2
+h¹¹ 3
+h¹⁰ 3
+h¹⁴ 6
+h¹⁵ 5
+h¹⁶ 5
+h¹⁷ 4
+h¹⁸ 2
+hód 57
+hór 40
+hów 89
+hą  32
+hą, 8
+hą. 3
+hą¹ 1
+hę  100
+hę! 1
+hę, 22
+hę. 7
+hę; 2
+hę? 5
+hęc 48
+hęd 3
+hęt 72
+hę¹ 1
+hęć 25
+hęś 1
+hę… 2
+hł  4
+hł, 2
+hł. 1
+hł; 2
+hła 14
+hłe 3
+hło 330
+hły 17
+hłó 4
+hś  3
+hże 131
+h”, 1
+h”. 1
+h…  12
+h‼… 1
+h⁈  1
+h⁴⁴ 1
+h⁴⁵ 1
+h⁴⁶ 1
+h⁴⁷ 1
+h⁴⁹ 1
+h⁵² 1
+h⁵¹ 2
+h⁵⁷ 1
+h⁵⁸ 1
+h⁵⁹ 1
+h⁶⁵ 1
+h⁶⁷ 1
+h⁶⁸ 1
+h⁶⁹ 2
+h⁷⁰ 1
+h⁷⁵ 2
+h⁸³ 1
+h⁸⁰ 1
+h⁸⁴ 1
+h⁸⁷ 1
+h⁸⁸ 1
+h⁹² 1
+h⁹⁰ 1
+h⁹⁶ 1
+h⁹⁸ 1
+i ( 24
+i A 12
+i B 161
+i C 50
+i D 49
+i E 6
+i F 5
+i G 24
+i H 11
+i I 5
+i J 60
+i K 180
+i L 73
+i M 55
+i N 24
+i O 40
+i P 49
+i R 77
+i S 191
+i T 53
+i U 21
+i W 91
+i X 20
+i Z 36
+i [ 1
+i a 476
+i b 863
+i c 1024
+i d 1342
+i e 548
+i f 69
+i g 558
+i h 145
+i i 1315
+i k 1249
+i l 430
+i m 1134
+i n 2367
+i o 1598
+i p 3607
+i r 1072
+i s 2896
+i t 1620
+i u 646
+i w 2975
+i z 2365
+i ó 20
+i ą 40
+i ć 2
+i ę 25
+i Ł 1
+i ł 113
+i Ś 1
+i ś 191
+i ź 8
+i Ż 16
+i ż 387
+i ǳ 160
+i — 367
+i „ 22
+i  8
+i  5
+i ﬁ 2
+i ﬂ 1
+i!  280
+i!” 17
+i!… 59
+i)  8
+i), 3
+i). 3
+i,  4170
+i-O 1
+i-b 3
+i-c 1
+i-g 1
+i-k 1
+i-n 1
+i.  1235
+i.i 2
+i.” 12
+i:  52
+i;  191
+i?  92
+i?” 2
+i?… 21
+ia  1917
+ia! 66
+ia) 2
+ia, 589
+ia. 335
+ia: 15
+ia; 24
+ia? 24
+iab 163
+iac 378
+iad 1095
+iah 2
+iak 45
+ial 130
+iam 216
+ian 772
+iar 377
+ias 722
+iat 349
+iaw 47
+iaz 60
+ia² 6
+ia³ 1
+ia¹ 13
+iaą 1
+iać 198
+iał 3940
+iań 26
+iaś 5
+iaź 4
+iaż 203
+iaǳ 6
+ia” 1
+ia… 15
+ia‼ 1
+ia⁷ 1
+ia⁸ 2
+iba 3
+ibe 8
+ibi 2
+ibl 11
+ibo 4
+ibr 8
+iby 146
+ibó 35
+ibą 1
+ibę 2
+ic  1263
+ic! 64
+ic, 264
+ic. 339
+ic: 4
+ic; 5
+ic? 7
+ica 521
+icc 2
+ice 139
+ich 3302
+ici 2004
+ick 186
+ico 162
+icp 1
+icr 1
+ict 26
+icu 35
+icy 334
+icz 2106
+ic¹ 1
+icó 12
+icą 54
+icę 78
+icż 2
+ic… 12
+ic‼ 1
+ic⁈ 2
+id  21
+id) 17
+id, 5
+id. 1
+id; 1
+ida 156
+ide 13
+idi 8
+idk 3
+idl 2
+idm 4
+idn 34
+ido 297
+idr 5
+idu 9
+idy 45
+idą 104
+idę 13
+idł 20
+idź 14
+id⁸ 1
+ie  23662
+ie! 600
+ie) 13
+ie, 2977
+ie- 4
+ie. 1242
+ie: 111
+ie; 121
+ie? 187
+ieb 785
+iec 4054
+ied 699
+iee 1
+ief 5
+ieg 2567
+ieh 246
+iei 36
+iek 1104
+iel 2677
+iem 3737
+ien 1938
+ieo 69
+iep 895
+ier 4689
+ies 2000
+iet 375
+ieu 82
+iew 1537
+iez 365
+ie² 20
+ie³ 6
+ie¹ 43
+ieą 1
+ieć 531
+ieę 1
+ieł 83
+ień 697
+ieś 722
+ieź 43
+ież 446
+ieǳ 1501
+ie” 9
+ie… 156
+ie‼ 2
+ie⁈ 4
+ie⁴ 3
+ie⁵ 4
+ie⁶ 3
+ie⁷ 3
+ie⁸ 6
+ie⁹ 2
+ife 7
+ig  21
+ig, 3
+ig. 1
+iga 86
+igd 141
+ige 9
+igi 63
+igl 1
+ign 15
+igo 66
+igr 15
+igu 12
+igó 2
+igę 2
+igł 8
+igǳ 20
+iho 3
+ii  167
+ii! 5
+ii, 83
+ii. 48
+ii: 2
+ii; 4
+ii? 1
+ii² 2
+ii¹ 4
+ii” 2
+ii… 3
+ii⁈ 1
+ii⁴ 1
+ii⁵ 1
+ii⁷ 3
+ii⁹ 1
+ik  376
+ik! 14
+ik) 1
+ik, 105
+ik. 93
+ik: 2
+ik; 1
+ik? 3
+ika 419
+ikc 6
+iki 191
+ikl 28
+ikn 35
+iko 207
+iks 9
+ikt 276
+iku 94
+ikw 1
+ik² 2
+ik³ 2
+ik¹ 7
+ikó 206
+iką 17
+ikę 3
+ikł 27
+ik— 1
+ik” 1
+ik… 4
+ik⁈ 1
+ik⁷ 2
+ik⁹ 1
+il  9
+il! 1
+il, 2
+il. 1
+ila 183
+ilc 244
+ild 1
+ile 251
+ilg 11
+ilh 1
+ili 1288
+ilk 494
+ill 440
+iln 270
+ilo 26
+ils 29
+ilt 8
+ilu 15
+ilw 18
+ilą 32
+ilę 161
+ilĳ 4
+ilł 1
+ilż 6
+im  1880
+im! 28
+im, 227
+im. 126
+im: 12
+im; 6
+im? 19
+ima 54
+imb 7
+imc 1
+ime 112
+imi 894
+imk 5
+imn 45
+imo 196
+imp 48
+imu 6
+imy 81
+im² 3
+im³ 1
+im¹ 3
+imą 1
+imę 2
+imś 17
+imż 5
+im… 9
+im⁶ 2
+im⁷ 2
+im⁸ 2
+im⁹ 1
+im 1
+in  88
+in, 44
+in. 28
+in; 3
+in? 1
+ina 635
+inb 15
+inc 22
+ind 10
+ine 44
+inf 22
+ing 93
+ini 697
+ink 56
+inl 1
+inn 794
+ino 165
+inq 2
+inr 3
+ins 50
+int 94
+inu 27
+inv 1
+inw 12
+iny 245
+in² 1
+in¹ 2
+inó 23
+iną 202
+inę 184
+inż 7
+inǳ 22
+in⁵ 1
+in⁷ 2
+inﬂ 1
+io  70
+io! 9
+io, 13
+io- 5
+io. 6
+io; 1
+iob 20
+ioc 12
+iod 100
+iof 1
+iog 13
+iol 2
+iom 162
+ion 783
+ior 157
+ios 260
+iot 205
+iow 219
+ioz 47
+ioł 141
+ioś 8
+ioǳ 1
+io… 1
+ip  6
+ip, 2
+ipa 4
+ipc 12
+ipe 12
+ipi 29
+ipk 2
+ipn 16
+ipo 12
+ipp 14
+ipr 1
+ipt 6
+ipu 11
+ipy 3
+ip² 1
+ip¹ 5
+ipą 1
+ipę 3
+ip⁵ 1
+ir  10
+ir- 1
+ir. 1
+ira 8
+irc 7
+ird 5
+ire 2
+iri 3
+irl 5
+irn 1
+iro 7
+irr 2
+irs 124
+irt 18
+iru 12
+iry 10
+irż 81
+is  2483
+is, 10
+is. 4
+is; 1
+isa 189
+ise 8
+isi 107
+isk 640
+ism 60
+isn 111
+iso 25
+iss 6
+ist 864
+isu 22
+isy 21
+isz 713
+is² 1
+isó 2
+isą 1
+isę 2
+isł 156
+is… 1
+it  11
+it! 3
+it, 12
+it. 86
+it? 4
+ita 288
+itc 3
+ite 642
+itk 29
+itn 89
+ito 108
+itp 8
+itr 29
+its 22
+itt 111
+itu 33
+itw 496
+ity 302
+itz 11
+it² 1
+it¹ 1
+itó 7
+itą 60
+itę 17
+itł 9
+it… 1
+it⁶ 1
+iu  753
+iu! 14
+iu, 198
+iu. 108
+iu: 6
+iu; 11
+iu? 12
+iuc 15
+iuk 3
+iul 2
+ium 66
+iun 4
+iup 4
+iur 34
+ius 79
+iut 3
+iu¹ 1
+iuś 2
+iu… 4
+ive 3
+iw  319
+iw! 7
+iw, 21
+iw. 3
+iwa 257
+iwc 2
+iwe 219
+iwi 923
+iwk 40
+iwl 5
+iwn 227
+iwo 236
+iws 230
+iwu 14
+iwy 420
+iwó 2
+iwą 48
+iw… 1
+iz  15
+iza 26
+izb 120
+izd 4
+ize 22
+izg 3
+izi 5
+izm 4
+izn 49
+izo 15
+izr 3
+izu 4
+izy 24
+izę 1
+i²² 17
+i²³ 16
+i²¹ 17
+i²⁰ 11
+i²⁴ 16
+i²⁶ 1
+i²⁷ 1
+i²⁸ 2
+i²⁹ 2
+i³² 3
+i³³ 4
+i³⁰ 1
+i³⁴ 3
+i³⁵ 1
+i³⁶ 1
+i³⁷ 1
+i³⁸ 1
+i¹  1
+i¹² 7
+i¹³ 10
+i¹¹ 12
+i¹⁰ 14
+i¹⁴ 13
+i¹⁵ 11
+i¹⁶ 8
+i¹⁷ 10
+i¹⁸ 15
+i¹⁹ 15
+iób 1
+iód 66
+iór 51
+iós 188
+iót 9
+iów 89
+ióz 42
+iół 159
+iöl 2
+ią  741
+ią! 14
+ią, 239
+ią. 117
+ią: 14
+ią; 11
+ią? 14
+iąb 1
+iąc 369
+iąd 6
+iąg 660
+iąk 2
+iąt 102
+iąw 18
+iąz 155
+ią² 1
+ią³ 2
+ią¹ 1
+iąć 87
+iął 168
+iąś 28
+iąż 1222
+iąǳ 243
+ią” 1
+ią… 11
+ią⁵ 1
+ić  1027
+ić! 101
+ić) 3
+ić, 510
+ić. 428
+ić: 17
+ić; 25
+ić? 112
+ićm 3
+ić³ 2
+ić¹ 3
+ić” 1
+ić… 47
+ić⁈ 2
+ić⁷ 1
+ić⁹ 1
+ię  9258
+ię! 94
+ię) 5
+ię, 733
+ię. 161
+ię: 29
+ię; 14
+ię? 14
+ięb 10
+ięc 1966
+ięd 10
+ięg 167
+ięk 610
+ięl 34
+ięs 170
+ięt 794
+ięw 27
+ięz 74
+ię² 2
+ię³ 1
+ię¹ 6
+ięć 107
+ięł 40
+ięś 34
+ięź 17
+ięż 509
+ięǳ 518
+ię” 1
+ię… 34
+ię⁈ 3
+ię⁴ 1
+ię⁷ 1
+ię⁸ 1
+ię⁹ 1
+ił  2176
+ił! 73
+ił) 1
+ił, 533
+ił. 284
+ił: 52
+ił; 16
+ił? 95
+iła 805
+iłb 12
+iłe 179
+iłk 55
+iłl 3
+iło 946
+iłu 71
+iły 596
+ił² 6
+ił¹ 5
+iłą 63
+iłę 34
+iłł 547
+iłż 2
+ił… 47
+ił⁈ 1
+ił⁸ 1
+iń  4
+iń! 1
+iń, 2
+ińc 36
+ińs 215
+iń⁶ 1
+iś  475
+iś! 7
+iś, 21
+iś. 1
+iś: 32
+iś? 2
+iśc 187
+iśl 11
+iśm 192
+iśn 85
+iśw 1
+iś¹ 2
+iść 159
+iś… 1
+iźl 8
+iźn 6
+iż  609
+iż) 1
+iż, 2
+iż. 1
+iż; 1
+iża 104
+iżb 20
+iżd 1
+iże 131
+iżo 6
+iżs 44
+iżu 34
+iży 91
+iżą 3
+iǳe 11
+iǳi 512
+iǳk 3
+iǳo 1
+iǳó 3
+iǳą 90
+iǳę 120
+i”  7
+i”, 5
+i”. 1
+i…  166
+i…. 1
+i…” 5
+i⁈… 2
+i⁴² 2
+i⁴¹ 1
+i⁴⁷ 2
+i⁴⁸ 2
+i⁴⁹ 1
+i⁵² 2
+i⁵³ 4
+i⁵¹ 1
+i⁵⁰ 1
+i⁵⁴ 2
+i⁵⁵ 1
+i⁵⁶ 1
+i⁵⁸ 1
+i⁶² 2
+i⁶³ 3
+i⁶¹ 1
+i⁶⁰ 1
+i⁶⁴ 1
+i⁶⁵ 3
+i⁶⁶ 3
+i⁶⁷ 3
+i⁶⁸ 3
+i⁶⁹ 1
+i⁷² 2
+i⁷¹ 2
+i⁷⁰ 1
+i⁷⁴ 1
+i⁷⁵ 1
+i⁷⁶ 3
+i⁷⁷ 1
+i⁷⁹ 1
+i⁸² 2
+i⁸³ 5
+i⁸¹ 3
+i⁸⁴ 2
+i⁸⁵ 3
+i⁸⁶ 3
+i⁸⁷ 2
+i⁸⁹ 2
+i⁹⁰ 2
+i⁹⁴ 2
+i⁹⁵ 1
+i⁹⁶ 1
+i⁹⁷ 4
+i⁹⁹ 1
+iﬃe 1
+k ( 8
+k A 6
+k B 37
+k C 6
+k D 2
+k F 2
+k H 4
+k I 1
+k J 9
+k K 24
+k L 3
+k M 10
+k N 3
+k O 3
+k P 7
+k R 16
+k S 31
+k T 10
+k W 14
+k Z 4
+k [ 1
+k a 90
+k b 219
+k c 166
+k d 246
+k e 198
+k f 9
+k g 154
+k h 10
+k i 268
+k k 188
+k l 54
+k m 358
+k n 462
+k o 234
+k p 514
+k r 163
+k s 491
+k t 307
+k u 107
+k w 597
+k z 369
+k ó 11
+k ą 7
+k ć 1
+k ę 1
+k Ł 1
+k ł 26
+k ś 38
+k ź 1
+k Ż 1
+k ż 63
+k ǳ 34
+k — 47
+k „ 4
+k  3
+k  1
+k ﬁ 1
+k!  67
+k!” 2
+k!… 11
+k)  1
+k), 1
+k,  722
+k-t 1
+k.  252
+k.” 1
+k:  27
+k;  20
+k?  18
+k?… 3
+ka  2078
+ka! 94
+ka) 2
+ka, 669
+ka- 4
+ka. 266
+ka: 18
+ka; 28
+ka? 28
+kab 3
+kac 343
+kad 13
+kaf 1
+kag 7
+kah 1
+kak 37
+kal 161
+kam 480
+kan 367
+kap 179
+kar 499
+kas 137
+kat 124
+kau 7
+kaw 468
+kaz 938
+ka² 15
+ka³ 1
+ka¹ 21
+kaą 2
+kać 324
+kał 409
+kań 42
+kaś 36
+każ 498
+kaǳ 49
+ka” 2
+ka… 31
+ka⁈ 1
+ka⁴ 1
+ka⁵ 1
+ka⁶ 4
+ka⁷ 3
+ka⁸ 2
+ka⁹ 1
+ka 11
+kba 38
+kby 329
+kc  97
+kce 29
+kci 32
+kcy 602
+kcz 17
+kcę 1
+ke  1
+kem 20
+ken 3
+ker 1
+keń 1
+keś 20
+kha 14
+kho 3
+ki  2939
+ki! 110
+ki) 7
+ki, 991
+ki- 3
+ki. 678
+ki: 42
+ki; 41
+ki? 39
+ki] 1906
+kia 1
+kib 4
+kic 1240
+kie 5504
+kik 5
+kil 342
+kim 1199
+kin 34
+kip 7
+kir 2
+kis 20
+kit 43
+kiw 114
+kiz 1
+ki² 15
+ki³ 4
+ki¹ 39
+kiö 2
+kił 1
+kiń 4
+kiś 150
+kiż 12
+ki” 3
+ki… 34
+ki‼ 1
+ki⁵ 3
+ki⁶ 1
+ki⁷ 3
+ki⁸ 9
+ki⁹ 1
+kka 17
+kki 41
+kko 41
+kką 5
+kla 239
+kle 173
+kli 318
+kln 4
+klo 6
+klu 21
+kly 1
+kló 1
+klą 11
+klę 155
+km  47
+kma 6
+kmi 2
+kna 70
+kne 23
+kni 193
+kno 48
+kny 28
+kną 657
+knę 113
+knĳ 11
+ko  2833
+ko! 38
+ko, 333
+ko- 52
+ko. 100
+ko: 21
+ko; 11
+ko? 9
+kob 264
+koc 467
+kod 93
+kog 175
+koh 14
+koi 73
+kok 38
+kol 537
+kom 817
+kon 1630
+kop 229
+kor 461
+kos 219
+kot 96
+kou 1
+kow 1441
+koz 85
+ko² 1
+ko¹ 2
+koó 1
+koł 323
+koń 551
+koś 360
+koź 3
+koż 134
+koǳ 40
+ko” 1
+ko… 23
+ko⁴ 1
+ko⁸ 1
+kpa 6
+kpe 1
+kpi 5
+kpy 2
+kpó 1
+kr, 1
+kr. 21
+kra 551
+kre 344
+kro 399
+krt 1
+kru 320
+krw 241
+kry 319
+krz 1424
+kró 1529
+krą 35
+krę 186
+ks  5
+ks, 3
+ks- 5
+ksa 116
+ksc 22
+ksd 1
+kse 2
+ksi 1804
+ksk 5
+kso 2
+ksp 36
+ksr 1
+kst 3
+ksu 2
+ksy 22
+ksz 418
+kt  228
+kt! 5
+kt, 11
+kt. 7
+kt? 1
+kta 70
+kte 25
+kto 688
+ktr 1
+ktu 54
+kty 78
+kt² 2
+kt¹ 1
+któ 3241
+ktż 2
+kt” 1
+kt⁴ 1
+ku  1392
+ku! 53
+ku) 1
+ku, 311
+ku. 148
+ku: 10
+ku; 16
+ku? 24
+kua 1
+kub 26
+kuc 35
+kud 7
+kuf 2
+kui 7
+kuk 2
+kul 221
+kum 21
+kun 88
+kup 315
+kur 120
+kus 46
+kut 115
+kuw 5
+kuz 17
+ku² 8
+ku¹ 9
+kuą 1
+kuć 24
+kuł 12
+kuń 2
+kuś 1
+kuź 9
+kuǳ 19
+ku” 4
+ku… 9
+ku⁈ 1
+ku⁵ 2
+ku⁷ 1
+ku 1
+kuﬂ 1
+kwa 153
+kwe 8
+kwi 144
+kwo 7
+kwu 1
+kwy 3
+kwą 1
+kwę 1
+k²² 1
+k²³ 4
+k²⁰ 2
+k²⁴ 1
+k²⁵ 1
+k²⁹ 1
+k³² 1
+k³⁰ 1
+k³⁵ 1
+k¹² 2
+k¹³ 1
+k¹¹ 1
+k¹⁰ 2
+k¹⁴ 4
+k¹⁵ 2
+k¹⁶ 1
+k¹⁷ 1
+k¹⁸ 5
+k¹⁹ 4
+kó  103
+kóc 1
+kód 8
+kór 147
+ków 766
+kół 82
+ką  748
+ką! 8
+ką) 2
+ką, 170
+ką. 86
+ką: 3
+ką; 15
+ką? 5
+kąc 14
+kąd 139
+kąk 1
+kąp 18
+kąs 21
+kąt 29
+ką² 5
+ką¹ 5
+kąś 28
+kąż 6
+kąǳ 8
+ką” 1
+ką… 6
+ką⁷ 1
+kę  435
+kę! 15
+kę) 1
+kę, 138
+kę- 1
+kę. 57
+kę; 6
+kęd 1
+kęp 3
+kęs 1
+kę¹ 4
+kę” 1
+kę… 5
+kę⁴ 1
+kę⁵ 2
+kę⁶ 3
+kę⁹ 1
+kĳ  2
+kĳ. 1
+kĳa 2
+kĳe 3
+kĳo 23
+kĳu 5
+kł  1543
+kł! 2
+kł, 98
+kł. 81
+kł: 276
+kł; 3
+kł? 7
+kła 644
+kłb 41
+kłe 49
+kło 263
+kłs 133
+kłu 19
+kły 75
+kłó 28
+kłą 20
+kłę 21
+kł… 6
+kże 501
+k—  1
+k”  2
+k”. 1
+k…  15
+k⁈  1
+k⁈… 2
+k⁴⁶ 1
+k⁵⁷ 1
+k⁶⁷ 1
+k⁷² 1
+k⁷⁶ 1
+k⁸⁷ 1
+k⁹⁰ 1
+k⁹⁸ 1
+k⁹⁹ 1
+l ( 1
+l A 1
+l B 1
+l C 1
+l D 4
+l G 49
+l H 1
+l J 15
+l K 7
+l L 1
+l O 1
+l P 3
+l S 20
+l W 2
+l a 6
+l b 26
+l c 16
+l d 37
+l e 39
+l f 1
+l g 11
+l h 2
+l i 45
+l k 14
+l l 5
+l m 43
+l n 73
+l o 37
+l p 82
+l r 20
+l s 74
+l t 21
+l u 19
+l w 83
+l z 81
+l ó 1
+l Ł 1
+l ł 1
+l ś 6
+l ż 6
+l ǳ 2
+l — 49
+l  2
+l!  24
+l!” 1
+l!… 2
+l). 12
+l,  221
+l.  65
+l.) 1
+l.” 1
+l/k 1
+l:  5
+l;  6
+l?  4
+l?… 2
+la  1400
+la! 15
+la, 143
+la. 69
+la: 6
+la; 12
+la? 4
+lab 9
+lac 1019
+lad 295
+lae 1
+laf 4
+lag 5
+lak 147
+lal 31
+lam 174
+lan 365
+lap 1
+lar 111
+las 729
+lat 472
+lau 137
+law 18
+laz 197
+la² 4
+la³ 1
+la¹ 5
+lać 96
+lał 497
+lań 14
+laǳ 35
+la… 6
+la⁴ 1
+la⁹ 1
+la 2
+lb  1
+lb, 3
+lba 70
+lbi 30
+lbl 5
+lbo 412
+lbr 89
+lby 13
+lbą 1
+lbę 2
+lbł 3
+lc, 1
+lca 29
+lce 130
+lch 12
+lci 22
+lco 5
+lcu 3
+lcy 21
+lcz 330
+lcó 19
+ld  1
+ld, 1
+lda 10
+lde 23
+ldm 40
+ldo 1
+ldw 1
+ldy 12
+ldę 3
+le  4017
+le! 54
+le, 322
+le. 161
+le: 8
+le; 24
+le? 11
+lea 3
+leb 111
+lec 684
+led 187
+leg 376
+leh 1
+lei 32
+lek 576
+lel 52
+lem 202
+len 270
+leo 2
+lep 506
+ler 577
+les 121
+let 120
+leu 1
+lew 711
+lez 30
+le² 4
+le¹ 7
+leć 83
+leń 466
+leś 114
+leź 90
+leż 357
+leǳ 9
+le… 10
+lf  4
+lf, 2
+lf. 1
+lfa 8
+lfe 2
+lfo 1
+lf² 1
+lf⁸ 1
+lg  1
+lga 5
+lgi 5
+lgn 3
+lgo 20
+lgr 2
+lgu 5
+lgę 7
+lhe 1
+li  4734
+li! 79
+li) 3
+li, 794
+li. 403
+li: 26
+li; 39
+li? 76
+lia 40
+lib 142
+lic 813
+lid 7
+lie 6
+lig 84
+lii 29
+lik 130
+lil 53
+lim 63
+lin 335
+lio 13
+lip 31
+lir 14
+lis 571
+lit 938
+liu 26
+liv 2
+liw 785
+liz 51
+li² 15
+li³ 1
+li¹ 26
+lió 2
+lią 3
+lić 170
+lię 24
+lił 419
+liń 39
+liś 282
+liź 6
+liż 313
+li” 2
+li‥ 1
+li… 62
+li⁈ 2
+li⁴ 1
+li⁵ 3
+li⁶ 4
+li⁷ 3
+li⁸ 4
+li⁹ 5
+lk  18
+lk, 6
+lk. 1
+lk: 1
+lka 340
+lke 1
+lki 570
+lkl 32
+lkn 2
+lko 1034
+lku 168
+lkó 12
+lką 83
+lkę 18
+lkł 43
+ll  8
+ll, 5
+ll. 3
+lla 11
+lle 454
+lli 6
+llo 4
+llu 1
+lló 1
+lm  24
+lm, 1
+lm: 70
+lma 12
+lme 5
+lmi 16
+lmo 65
+lms 1
+lmu 1
+lmy 28
+lmó 3
+lmą 8
+lmę 8
+lna 144
+lne 211
+lni 507
+lno 264
+lnu 32
+lny 243
+lną 74
+lnĳ 2
+lo  1
+lob 1
+loc 22
+lod 16
+lof 1
+log 12
+lok 29
+lom 36
+lon 268
+lop 5
+lor 26
+los 73
+lot 42
+low 357
+loz 6
+loń 6
+loś 9
+lp  29
+lp) 1
+lp: 12
+lpy 1
+lra 1
+ls  1
+lsa 11
+lsc 62
+lsi 16
+lsk 703
+lso 3
+lst 63
+lsu 2
+lsy 8
+lsz 153
+lt  10
+lt, 2
+lt. 1
+lta 42
+lte 14
+ltn 4
+lto 9
+ltu 7
+lty 3
+lu  237
+lu! 17
+lu, 67
+lu. 29
+lu? 3
+lub 525
+luc 24
+lud 191
+luf 10
+lug 2
+luk 3
+lul 1
+lum 9
+lun 32
+lup 3
+lus 109
+lut 81
+luw 2
+luz 11
+luć 1
+luń 3
+luś 3
+luź 41
+luż 1
+luǳ 838
+lu… 2
+lu 2
+luﬁ 9
+lva 1
+lw  1
+lwa 20
+lwe 3
+lwi 180
+lwo 11
+lwu 2
+lwy 7
+lwó 2
+lwę 2
+lym 1
+lzą 1
+l²⁰ 1
+l³² 1
+l³⁸ 1
+l¹² 1
+l¹⁰ 1
+l¹⁵ 2
+l¹⁶ 1
+l¹⁷ 2
+l¹⁸ 1
+lób 1
+lód 2
+lók 5
+lów 49
+lą  115
+lą! 5
+lą, 60
+lą. 31
+lą: 1
+lą; 1
+lą? 2
+ląc 66
+ląd 272
+ląg 8
+ląk 20
+ląs 28
+ląt 4
+lą¹ 1
+ląć 1
+lął 6
+ląż 1
+ląǳ 2
+lą… 5
+lę  235
+lę! 5
+lę) 1
+lę, 130
+lę. 33
+lę: 4
+lę; 8
+lę? 2
+lęc 32
+lęd 63
+lęg 6
+lęk 63
+lęs 98
+lęt 13
+lę¹ 2
+lęć 4
+lęł 1
+lęż 125
+lęǳ 3
+lę” 1
+lę… 2
+lĳ  5
+lĳ, 1
+lĳc 4
+lĳn 7
+lĳs 2
+lĳż 1
+lło 1
+lśn 10
+lż  2
+lż, 1
+lż. 1
+lża 5
+lżb 4
+lże 29
+lżo 1
+lży 20
+lżę 1
+lǳk 1
+l…  2
+l…. 1
+l⁴² 1
+l⁴⁸ 1
+l⁵¹ 1
+l⁵⁹ 1
+l⁶³ 1
+l⁶⁰ 1
+lﬁn 2
+m ( 13
+m A 22
+m B 64
+m C 42
+m D 7
+m F 3
+m G 11
+m H 5
+m I 1
+m J 23
+m K 116
+m L 9
+m M 24
+m N 9
+m O 17
+m P 18
+m R 37
+m S 66
+m T 12
+m U 3
+m W 58
+m Z 24
+m a 310
+m b 476
+m c 542
+m d 596
+m e 271
+m f 20
+m g 362
+m h 55
+m i 684
+m k 589
+m l 152
+m m 537
+m n 1074
+m o 640
+m p 1502
+m r 449
+m s 1258
+m t 631
+m u 314
+m w 1262
+m z 1019
+m ó 4
+m ą 24
+m ć 1
+m ę 7
+m ł 49
+m Ś 2
+m ś 89
+m ź 5
+m Ż 2
+m ż 103
+m ǳ 61
+m — 119
+m „ 2
+m  4
+m  1
+m!  217
+m!) 1
+m!” 6
+m!… 34
+m)  12
+m), 1
+m,  2312
+m-l 1
+m.  583
+m.) 38
+m., 3
+m.i 11
+m.” 6
+m:  121
+m;  94
+m?  71
+m?” 1
+m?… 15
+ma  1316
+ma! 20
+ma) 2
+ma, 114
+ma- 1
+ma. 65
+ma: 7
+ma; 3
+ma? 6
+mac 217
+mad 40
+mae 1
+mag 155
+mah 2
+mai 49
+mak 55
+mal 183
+mam 318
+man 706
+mar 499
+mas 387
+mat 279
+maw 153
+maz 37
+ma¹ 2
+maą 3
+mać 147
+mał 576
+mań 79
+maś 7
+maź 4
+maż 3
+maǳ 48
+ma… 13
+ma⁈ 1
+ma⁸ 1
+mba 6
+mbe 8
+mbi 45
+mbl 5
+mbo 20
+mbu 38
+mby 7
+mca 17
+mch 2
+mci 32
+mco 4
+mcu 1
+mcy 14
+mcz 371
+mcó 12
+mcą 1
+mcę 1
+mdl 24
+mdł 4
+me  115
+me, 3
+me. 2
+me; 1
+meb 6
+mec 10
+med 32
+meg 185
+mek 38
+mel 8
+mem 139
+men 507
+mer 43
+mes 2
+met 14
+meś 5
+mf  5
+mf, 2
+mf. 1
+mfa 3
+mfe 1
+mfo 5
+mfu 12
+mfó 1
+mgl 5
+mgn 38
+mgr 3
+mgł 33
+mi  3559
+mi! 52
+mi, 608
+mi- 1
+mi. 326
+mi: 18
+mi; 41
+mi? 15
+mia 2084
+mic 1811
+mid 6
+mie 3780
+mig 62
+mii 53
+mik 24
+mil 399
+mim 132
+min 266
+mio 264
+mir 86
+mis 179
+mit 93
+miu 20
+miw 1
+miz 12
+mi² 13
+mi³ 5
+mi¹ 18
+mió 14
+mią 100
+mić 14
+mię 891
+mił 677
+miń 5
+miś 5
+miż 2
+mi” 3
+mi… 15
+mi⁴ 2
+mi⁵ 1
+mi⁶ 6
+mi⁷ 1
+mi⁸ 5
+mi⁹ 1
+mka 19
+mki 41
+mkn 161
+mko 42
+mku 50
+mkó 17
+mką 3
+mkę 5
+mla 8
+mle 10
+mli 106
+mm, 1
+mm. 3
+mme 2
+mmi 1
+mmo 1
+mn  2
+mna 167
+mne 79
+mni 1830
+mno 149
+mnu 3
+mny 92
+mnó 19
+mną 168
+mnę 10
+mnĳ 10
+mo  585
+mo! 2
+mo, 52
+mo. 9
+mo; 1
+mo? 2
+mob 2
+moc 418
+mod 118
+mog 694
+moi 129
+mok 34
+mol 48
+mom 18
+mon 115
+mop 12
+mor 190
+mos 75
+mot 63
+mou 1
+mow 508
+moy 49
+moz 1
+mo¹ 2
+moł 33
+moś 1170
+moź 1
+moż 972
+moǳ 3
+mp  49
+mp! 2
+mp, 9
+mp. 25
+mp: 1
+mpa 113
+mpe 45
+mpk 4
+mpl 3
+mpo 16
+mpr 16
+mpt 6
+mpu 26
+mra 7
+mro 67
+mru 126
+mrz 17
+mró 10
+mrę 2
+msc 3
+mse 3
+msk 109
+mso 5
+mst 157
+msy 1
+msz 41
+msó 2
+mta 6
+mte 81
+mto 5
+mty 36
+mtą 38
+mtę 4
+mu  2183
+mu! 21
+mu) 1
+mu, 192
+mu. 62
+mu: 12
+mu; 5
+mu? 23
+muc 23
+mud 14
+mue 1
+mug 10
+muk 7
+mul 41
+mum 1
+mun 63
+mur 323
+mus 619
+mut 24
+muz 19
+mu² 1
+mu¹ 4
+muą 1
+muł 2
+muś 21
+muż 15
+muǳ 89
+mu” 1
+mu… 10
+mu⁶ 1
+mwe 9
+mwi 1
+my  1090
+my! 81
+my) 2
+my, 218
+my. 99
+my: 5
+my; 10
+my? 22
+myc 72
+myd 4
+myk 94
+myl 37
+mym 97
+mys 95
+myt 1
+myw 65
+myz 1
+my³ 3
+my¹ 1
+myć 4
+mył 5
+myś 1053
+myż 3
+my” 3
+my… 22
+my‼ 1
+my⁵ 1
+m²² 5
+m²³ 3
+m²¹ 2
+m²⁰ 6
+m²⁴ 5
+m²⁵ 4
+m²⁹ 1
+m³² 1
+m³⁴ 1
+m³⁶ 1
+m³⁸ 2
+m³⁹ 1
+m¹² 7
+m¹³ 4
+m¹¹ 7
+m¹⁰ 2
+m¹⁴ 8
+m¹⁵ 10
+m¹⁶ 8
+m¹⁷ 10
+m¹⁸ 4
+m¹⁹ 10
+mó  115
+móc 14
+mód 4
+móg 420
+mór 9
+mów 1247
+móz 5
+mó¹ 1
+mół 2
+móż 15
+mą  111
+mą! 4
+mą, 16
+mą. 10
+mą: 2
+mąc 12
+mąd 26
+mąk 12
+mą¹ 2
+mąż 51
+mć  1
+mę  41
+mę! 2
+mę, 17
+mę. 4
+mę; 2
+mę? 1
+męc 61
+męd 6
+męk 41
+męs 55
+męt 9
+mę² 1
+mę¹ 1
+męż 99
+mę… 2
+mĳ  3
+mĳa 21
+mĳc 2
+mĳe 1
+mło 275
+mły 8
+młó 5
+mś  24
+mś, 2
+mś. 1
+mśc 58
+mża 2
+mże 40
+mży 2
+mżę 1
+mǳi 10
+m–U 1
+m”  1
+m”, 4
+m”; 1
+m…  92
+m…. 2
+m…” 2
+m⁈  5
+m⁈… 1
+m⁴  1
+m⁴⁵ 1
+m⁵³ 1
+m⁵⁴ 3
+m⁵⁶ 1
+m⁵⁷ 1
+m⁶² 1
+m⁶³ 2
+m⁶⁵ 1
+m⁶⁷ 2
+m⁶⁸ 3
+m⁷² 1
+m⁷¹ 3
+m⁷⁰ 1
+m⁷⁵ 1
+m⁷⁶ 1
+m⁷⁷ 1
+m⁷⁹ 1
+m⁸. 1
+m⁸² 1
+m⁸¹ 1
+m⁸⁰ 1
+m⁸⁵ 1
+m⁸⁶ 2
+m⁸⁹ 1
+m⁹² 2
+m⁹¹ 1
+m⁹⁰ 1
+m⁹⁶ 1
+m⁹⁷ 1
+m  2
+m, 1
+n ( 35
+n A 279
+n B 92
+n C 151
+n D 24
+n E 1
+n F 2
+n G 42
+n H 7
+n I 1
+n J 41
+n K 322
+n L 18
+n M 123
+n N 3
+n O 13
+n P 47
+n R 49
+n S 252
+n T 30
+n U 5
+n W 295
+n Z 230
+n a 29
+n b 92
+n c 135
+n d 106
+n e 86
+n f 4
+n g 40
+n h 54
+n i 97
+n k 156
+n l 31
+n m 257
+n n 237
+n o 94
+n p 276
+n r 66
+n s 328
+n t 177
+n u 60
+n v 2
+n w 271
+n z 373
+n ó 3
+n ą 6
+n ę 1
+n Ł 7
+n ł 6
+n Ś 4
+n ś 15
+n Ż 3
+n ż 22
+n ǲ 1
+n ǳ 21
+n — 35
+n  1
+n!  57
+n!” 7
+n!… 4
+n)  3
+n,  494
+n-b 5
+n-l 1
+n.  133
+n.- 20
+n.: 3
+n.e 19
+n.m 1
+n:  3
+n;  8
+n?  24
+n?… 3
+na  10753
+na! 76
+na) 3
+na, 757
+na- 1
+na. 334
+na: 13
+na; 31
+na? 43
+nab 78
+nac 863
+nad 937
+nag 368
+nai 2
+nak 487
+nal 448
+nam 836
+nan 266
+nao 69
+nap 564
+nar 337
+nas 1296
+nat 512
+nau 45
+naw 578
+naz 198
+na² 5
+na³ 1
+na¹ 9
+naó 3
+naą 3
+nać 281
+nał 389
+nań 112
+naś 82
+naż 10
+naǳ 184
+na” 1
+na… 35
+na⁈ 4
+na⁵ 1
+na⁶ 3
+na⁷ 1
+na⁸ 1
+nba 1
+nbe 110
+nbo 16
+nbu 17
+nc  248
+nc. 1
+nce 74
+nch 75
+nci 69
+nck 20
+ncl 54
+nco 1
+ncu 55
+ncy 5
+ncz 67
+ncó 1
+nd  14
+nd! 2
+nd, 8
+nd. 3
+nd; 1
+nda 138
+ndc 3
+nde 81
+ndi 15
+ndl 8
+ndn 5
+ndo 68
+ndr 517
+ndu 24
+ndy 80
+ndą 22
+ndę 46
+ndż 3
+nd… 1
+ne  2415
+ne! 17
+ne, 324
+ne. 157
+ne: 6
+ne; 23
+ne? 8
+nea 1
+neb 35
+nec 20
+ned 5
+neg 879
+nek 242
+nel 38
+nem 466
+nen 13
+neo 1
+ner 198
+nes 11
+net 134
+new 1
+nez 1
+ne² 2
+ne¹ 6
+neś 11
+neż 1
+ne” 1
+ne… 11
+neﬁ 1
+nfa 8
+nfe 93
+nfo 16
+nfu 37
+ng  35
+ng! 1
+ng) 1
+ng, 13
+ng- 3
+ng. 8
+ng: 3
+ng? 4
+nga 16
+nge 19
+ngi 27
+ngl 12
+ngo 5
+ngr 4
+ngu 3
+ngę 1
+nha 86
+nho 3
+ni  1667
+ni! 47
+ni) 1
+ni, 378
+ni. 199
+ni: 9
+ni; 14
+ni? 22
+nia 2586
+nib 47
+nic 1947
+nid 2
+nie 23908
+nif 7
+nig 139
+nih 3
+nii 83
+nik 1659
+nil 110
+nim 1076
+nin 116
+nio 610
+nis 353
+nit 150
+niu 750
+niw 72
+niz 24
+ni² 2
+ni³ 1
+ni¹ 1
+nió 206
+nią 486
+nić 449
+nię 406
+nił 741
+niń 1
+niś 19
+niź 8
+niż 335
+ni… 22
+ni⁴ 1
+ni⁵ 2
+nk  4
+nk, 1
+nka 167
+nkc 31
+nki 297
+nkl 8
+nko 81
+nkr 1
+nkt 17
+nku 184
+nkw 12
+nkó 50
+nką 12
+nkę 22
+nla 2
+nna 360
+nne 380
+nni 520
+nnn 1
+nno 103
+nny 717
+nną 80
+nnę 75
+no  1850
+no! 97
+no, 347
+no- 3
+no. 157
+no: 19
+no; 13
+no? 21
+nob 11
+noc 466
+nod 2
+nof 1
+nog 261
+noh 3
+noi 4
+nok 21
+nol 1
+nom 73
+non 13
+nop 27
+nor 90
+nos 415
+not 154
+now 1442
+noz 31
+no² 3
+no¹ 5
+noć 7
+noś 1169
+noż 30
+noǳ 3
+no” 2
+no… 21
+np. 4
+nq- 2
+nri 4
+nry 3
+ns  17
+ns! 1
+ns, 5
+ns. 1
+ns? 1
+nsa 6
+nse 8
+nsh 1
+nsi 10
+nsk 3
+nso 10
+nsp 4
+nst 59
+nsu 9
+nsy 11
+nsz 26
+ns² 1
+ns¹ 2
+nsó 2
+nsę 1
+ns⁴ 1
+ns⁶ 1
+ns⁹ 1
+nt  142
+nt! 8
+nt) 2
+nt, 43
+nt. 18
+nt: 1
+nt; 1
+nt? 2
+nta 261
+ntc 1
+nte 182
+ntk 3
+ntn 4
+nto 192
+ntr 36
+ntu 117
+ntw 2
+nty 54
+nt² 4
+nt¹ 5
+ntó 63
+nt… 1
+nt⁴ 1
+nt⁶ 1
+nt⁹ 1
+nu  415
+nu! 5
+nu, 53
+nu. 17
+nu; 2
+nu? 1
+nuc 13
+nud 6
+nue 1
+nuk 8
+num 1
+nun 16
+nur 107
+nus 265
+nut 11
+nuł 1
+nuż 48
+nuǳ 5
+nu… 2
+nu 1
+nvi 1
+nwa 1
+nwe 13
+nwi 9
+nwo 5
+nwu 9
+nwó 6
+ny  2348
+ny! 79
+ny) 4
+ny, 826
+ny. 391
+ny: 18
+ny; 49
+ny? 29
+ny] 601
+nyc 1362
+nyk 1
+nym 1255
+nys 9
+nyw 12
+ny² 6
+ny³ 2
+ny¹ 14
+nyś 2
+nyż 1
+ny” 3
+ny… 36
+ny⁈ 1
+ny⁴ 2
+ny⁵ 3
+ny⁶ 2
+ny⁸ 1
+ny⁹ 3
+nza 6
+nzo 1
+nzu 25
+nzy 1
+n²² 2
+n²³ 2
+n²¹ 4
+n²⁰ 2
+n²⁴ 3
+n²⁶ 1
+n³¹ 1
+n³⁷ 2
+n¹² 1
+n¹³ 1
+n¹¹ 2
+n¹⁰ 3
+n¹⁴ 4
+n¹⁵ 2
+n¹⁶ 5
+n¹⁷ 5
+n¹⁸ 6
+n¹⁹ 3
+nóg 65
+nós 21
+nót 9
+nów 576
+nóż 27
+ną  1025
+ną! 39
+ną, 195
+ną. 131
+ną: 3
+ną; 14
+ną? 10
+nąc 104
+nąd 3
+nąt 27
+nąw 85
+ną² 2
+nąć 381
+nął 1379
+nąż 1
+ną… 12
+nę  501
+nę! 26
+nę, 141
+nę. 57
+nę: 1
+nę; 2
+nę? 5
+nęb 30
+nęc 2
+nęk 3
+nęl 168
+nęt 33
+nę² 3
+nę¹ 3
+nęł 464
+nęǳ 23
+nę… 16
+nę⁷ 1
+nę⁹ 2
+nĳ  28
+nĳ! 8
+nĳ, 7
+nĳ. 2
+nĳa 11
+nĳc 8
+nĳk 4
+nĳm 4
+nĳą 1
+nĳż 6
+nże 21
+nży 7
+nǳe 3
+nǳi 23
+nǳk 20
+n”  1
+n”, 4
+n”… 1
+n…  11
+n…” 1
+n⁈  1
+n⁈… 1
+n⁴³ 1
+n⁴⁶ 1
+n⁴⁹ 1
+n⁵⁰ 1
+n⁵⁴ 1
+n⁵⁸ 1
+n⁷¹ 1
+n⁷⁰ 1
+n⁷⁷ 1
+n⁸³ 2
+n⁸¹ 1
+n⁸⁵ 1
+n⁹⁶ 1
+nﬁd 27
+nﬁs 7
+nﬂa 18
+nﬂi 20
+o ! 5
+o ( 187
+o ) 3
+o , 5
+o : 12
+o A 25
+o B 210
+o C 66
+o D 34
+o E 7
+o F 1
+o G 26
+o H 18
+o I 3
+o J 63
+o K 286
+o L 76
+o M 55
+o N 21
+o O 47
+o P 137
+o R 95
+o S 218
+o T 89
+o U 22
+o W 136
+o X 3
+o Z 63
+o a 835
+o b 1118
+o c 2294
+o d 1411
+o e 2102
+o f 61
+o g 728
+o h 108
+o i 1180
+o k 1463
+o l 364
+o m 1653
+o n 3872
+o o 1846
+o p 3308
+o r 1169
+o s 3877
+o t 2288
+o u 965
+o w 2798
+o z 1837
+o ² 13
+o ¹ 14
+o ó 31
+o ą 383
+o ć 9
+o ę 76
+o Ł 4
+o ł 92
+o Ś 2
+o ś 254
+o ź 19
+o Ż 8
+o ż 345
+o ǲ 1
+o ǳ 222
+o — 273
+o „ 14
+o ⁴ 1
+o ⁵ 5
+o ⁶ 1
+o ⁷ 3
+o  9
+o  21
+o  1
+o  1
+o  2
+o ﬁ 4
+o!  363
+o!” 11
+o!‥ 1
+o!… 57
+o)  4
+o), 1
+o). 3
+o,  2896
+o-  1
+o-, 1
+o-l 3
+o-p 5
+o-r 33
+o-s 11
+o-t 2
+o-u 2
+o-w 4
+o-z 22
+o.  595
+o.” 3
+o:  63
+o;  85
+o?  190
+o?” 6
+o?… 33
+oad 1
+oal 3
+oan 2
+oar 1
+oas 10
+oaw 1
+oaz 1
+ob  78
+oba 959
+obc 102
+obd 16
+obe 259
+obg 1
+obi 1297
+obk 9
+obl 345
+obm 32
+obn 338
+obo 636
+obr 1181
+obs 78
+obt 2
+obu 128
+obw 31
+oby 717
+obz 2
+obó 81
+obą 302
+obę 73
+obĳ 19
+obł 55
+obǳ 5
+obﬁ 38
+oc  200
+oc! 12
+oc) 6
+oc, 52
+oc. 29
+oc; 4
+oca 91
+occ 3
+oce 92
+och 1217
+oci 557
+ock 62
+ocl 15
+ocn 157
+oco 16
+oct 25
+ocu 7
+ocy 194
+ocz 3089
+ocó 2
+ocą 94
+ocę 3
+ocł 3
+oc… 5
+od  2575
+od- 2
+od; 1
+oda 829
+odb 162
+odc 146
+odd 393
+ode 516
+odg 78
+odh 1
+odk 259
+odl 274
+odm 125
+odn 772
+odo 494
+odp 914
+odr 591
+ods 340
+odt 37
+odu 232
+odw 274
+ody 1127
+odó 71
+odą 88
+odę 105
+odł 106
+odś 7
+odź 57
+odż 17
+odǳ 173
+oec 3
+oeg 3
+oem 1
+oen 3
+oet 3
+oew 28
+oeǳ 1
+of  25
+of! 1
+of, 7
+of. 11
+ofa 79
+ofe 9
+ofk 1
+ofn 39
+ofo 12
+ofu 1
+ofę 3
+og  3
+og. 1
+og/ 1
+oga 810
+ogd 32
+ogi 496
+ogl 334
+ogn 240
+ogo 387
+ogr 210
+ogs 3
+ogu 610
+ogw 1
+ogó 145
+ogą 216
+ogę 279
+ogł 400
+oha 143
+ohd 12
+ohe 3
+ohi 8
+ohn 1
+oho 13
+ohu 21
+ohy 13
+ohó 1
+oi  95
+oi! 7
+oi, 36
+oi. 15
+oi? 4
+oic 160
+oil 9
+oim 133
+oin 1
+ois 15
+oit 4
+oiw 1
+oić 42
+oił 80
+oiń 5
+oi… 4
+oiﬃ 1
+ok  291
+ok! 9
+ok, 32
+ok. 90
+ok: 1
+ok; 2
+oka 631
+okc 21
+okh 3
+oki 437
+okl 12
+okn 74
+oko 1045
+okp 1
+okr 647
+oks 23
+okt 77
+oku 224
+okw 6
+okó 250
+oką 73
+okę 14
+okł 64
+ok… 1
+ol  89
+ol! 2
+ol, 12
+ol. 8
+ol? 1
+ola 506
+olb 83
+olc 10
+old 1
+ole 699
+olf 20
+olg 15
+oli 1314
+olk 7
+oll 1
+olm 7
+oln 483
+olo 106
+ols 521
+olu 217
+olw 93
+ol² 1
+ol¹ 7
+oló 5
+olą 48
+olę 91
+olś 4
+olż 2
+ol… 1
+ol⁴ 1
+ol⁵ 1
+ol⁶ 1
+om  739
+om! 16
+om) 1
+om, 175
+om. 79
+om: 5
+om; 8
+om? 8
+oma 386
+omb 6
+omc 7
+omd 5
+ome 269
+omi 635
+omk 48
+omm 2
+omn 434
+omo 564
+omp 118
+omr 15
+oms 63
+omu 226
+omw 9
+omy 288
+om² 2
+om¹ 6
+omó 78
+omą 5
+omę 9
+omĳ 11
+omł 3
+omś 27
+omż 4
+om” 1
+om… 3
+om⁶ 1
+on  743
+on! 11
+on) 3
+on, 102
+on- 1
+on. 21
+on: 1
+on; 3
+on? 7
+ona 884
+onc 42
+ond 39
+one 751
+onf 129
+ong 14
+oni 2287
+onk 57
+onn 323
+ono 612
+ons 32
+ont 192
+onu 83
+onw 30
+ony 1273
+onz 6
+on² 2
+on¹ 1
+onó 76
+oną 225
+onę 180
+onĳ 2
+onż 2
+on” 3
+on… 2
+on⁈ 1
+on⁸ 1
+on⁹ 1
+onﬁ 34
+onﬂ 20
+oo  1
+oob 6
+ood 3
+ook 1
+oop 1
+oor 1
+oos 1
+oow 2
+op  41
+op! 4
+op, 28
+op. 28
+opa 363
+opc 25
+ope 33
+opi 471
+opk 4
+opl 34
+opn 127
+opo 467
+opr 508
+ops 89
+opu 249
+opy 102
+opó 103
+opą 7
+opę 43
+opĳ 10
+opł 55
+opż 1
+or  151
+or! 4
+or, 62
+or. 31
+or: 1
+or; 1
+or? 3
+ora 794
+orb 7
+orc 34
+ord 260
+ore 170
+orf 21
+org 68
+ori 91
+ork 36
+orl 43
+orm 159
+orn 194
+oro 740
+orp 7
+ors 2187
+ort 273
+oru 352
+orw 170
+ory 260
+orz 767
+or² 1
+or¹ 5
+oró 79
+orą 676
+orę 63
+orł 7
+orż 2
+orǳ 1
+or… 2
+or⁵ 1
+or⁷ 1
+or⁸ 1
+orﬁ 1
+os  213
+os! 3
+os) 2
+os, 17
+os. 34
+os: 8
+os; 2
+os? 1
+osa 150
+osc 5
+ose 263
+osi 870
+osk 301
+osm 29
+osn 108
+oso 287
+osp 606
+osr 1
+oss 9
+ost 2492
+osu 93
+osw 7
+osy 315
+osz 1034
+osó 155
+osą 79
+osę 61
+osł 551
+os⁴ 1
+ot  122
+ot! 11
+ot, 44
+ot. 8
+ot: 3
+ota 452
+otc 6
+ote 511
+otk 198
+otl 62
+otm 41
+otn 230
+oto 1320
+otr 494
+ots 1
+ott 8
+otu 130
+otw 283
+oty 370
+ot¹ 3
+otó 116
+otą 157
+otę 394
+otł 33
+ou  1
+ou, 1
+oub 1
+ouc 11
+ouf 17
+oug 14
+oui 1
+ouk 1
+oum 2
+oup 5
+our 6
+ous 15
+out 1
+ow  4
+ow, 1
+owa 4057
+owb 12
+owc 123
+owd 1
+owe 829
+owg 5
+owi 5359
+owl 37
+own 603
+owo 604
+owp 1
+owr 187
+ows 1650
+owt 329
+owu 134
+owy 1012
+owz 12
+owó 94
+ową 343
+owę 331
+owł 10
+owś 4
+owǳ 32
+ow⁷ 1
+oye 2
+oys 49
+oz  27
+oza 242
+ozb 197
+ozc 81
+ozd 110
+oze 121
+ozg 68
+ozh 6
+ozi 256
+ozk 297
+ozl 197
+ozm 273
+ozn 342
+ozo 228
+ozp 413
+ozr 49
+ozs 156
+ozt 80
+ozu 375
+ozw 420
+ozy 134
+ozz 2
+ozó 57
+ozą 22
+ozę 10
+ozł 54
+ozś 26
+ozż 4
+ozǳ 22
+o²² 7
+o²³ 8
+o²¹ 5
+o²⁰ 4
+o²⁴ 3
+o²⁵ 1
+o²⁶ 1
+o²⁷ 1
+o²⁸ 1
+o³⁶ 1
+o¹² 4
+o¹³ 8
+o¹¹ 4
+o¹⁰ 11
+o¹⁴ 4
+o¹⁵ 11
+o¹⁶ 4
+o¹⁷ 3
+o¹⁸ 4
+o¹⁹ 4
+oów 1
+oą  1
+oć  348
+oć, 5
+oć. 1
+oć: 1
+oćb 207
+oćs 2
+oćw 2
+oćż 3
+oł  21
+oł, 6
+oł. 1
+oła 732
+ołc 8
+ołd 59
+ołe 149
+ołg 6
+ołk 77
+ołm 51
+ołn 957
+oło 1255
+ołp 23
+ołt 61
+ołu 139
+ołw 1
+oły 158
+ołó 17
+ołą 105
+ołę 50
+ołł 6
+ołǳ 2
+oł… 1
+oń  194
+oń! 5
+oń, 32
+oń. 17
+oń: 2
+oń; 3
+oń? 2
+ońc 500
+ońm 40
+ońs 102
+ońż 1
+oń… 2
+oś  392
+oś! 1
+oś, 25
+ośb 34
+ośc 2623
+ośl 79
+ośm 73
+ośn 147
+ośp 22
+ośr 25
+ośw 191
+ość 1971
+oź, 1
+oźb 18
+oźc 1
+oźl 3
+oźm 1
+oźn 118
+oźż 1
+oźǳ 10
+oż  262
+oż, 3
+oż; 1
+oża 112
+ożb 2
+ożd 3
+oże 1135
+ożk 39
+ożl 17
+ożn 435
+ożo 156
+ożr 2
+ożs 21
+ożu 36
+oży 317
+ożó 5
+ożą 64
+ożę 20
+ożł 1
+oǳa 83
+oǳc 1
+oǳe 266
+oǳi 1718
+oǳk 6
+oǳn 5
+oǳo 81
+oǳu 4
+oǳw 2
+oǳy 58
+oǳó 22
+oǳą 181
+oǳę 20
+o”  4
+o”, 2
+o”. 1
+o…  111
+o…. 2
+o…” 4
+o⁈  7
+o⁈… 2
+o⁴¹ 2
+o⁵² 1
+o⁵⁵ 1
+o⁵⁸ 1
+o⁶² 2
+o⁶¹ 1
+o⁶⁸ 1
+o⁶⁹ 1
+o⁷³ 1
+o⁷¹ 1
+o⁷⁰ 2
+o⁷⁵ 1
+o⁷⁶ 1
+o⁷⁷ 1
+o⁷⁸ 1
+o⁸² 2
+o⁸³ 1
+o⁸¹ 2
+o⁸⁰ 1
+o⁸⁶ 1
+o⁸⁹ 1
+o⁹² 2
+o⁹³ 1
+o⁹⁴ 2
+o⁹⁶ 1
+o⁹⁹ 1
+oﬀ  1
+oﬀ, 1
+oﬀ. 1
+oﬀó 1
+oﬀ⁈ 1
+oﬁa 66
+oﬁc 331
+oﬁe 9
+oﬁi 2
+oﬁl 8
+oﬁń 2
+p ( 29
+p ) 1
+p . 1
+p : 6
+p F 1
+p G 1
+p J 2
+p K 1
+p L 1
+p P 7
+p a 3
+p b 8
+p c 26
+p d 15
+p e 4
+p g 7
+p h 1
+p i 11
+p k 15
+p l 6
+p m 6
+p n 13
+p o 116
+p p 26
+p r 8
+p s 17
+p t 123
+p u 2
+p w 20
+p z 27
+p ² 4
+p ¹ 8
+p ą 1
+p ś 2
+p — 49
+p ⁴ 1
+p ⁶ 1
+p ⁷ 1
+p!  11
+p)  1
+p,  74
+p.  35
+p.) 23
+p.n 18
+p:  12
+p:/ 2
+pa  77
+pa! 2
+pa, 28
+pa. 3
+pa: 3
+pa; 4
+pa? 3
+paa 1
+pac 276
+pad 927
+pag 7
+pak 74
+pal 458
+pam 191
+pan 4963
+pap 41
+par 623
+pas 215
+pat 514
+pau 1
+paw 7
+paz 22
+pa¹ 1
+pać 96
+pał 235
+pań 111
+paś 78
+paź 2
+paǳ 3
+pc  2
+pca 13
+pce 17
+pch 53
+pci 16
+pco 2
+pcu 1
+pcy 15
+pcz 24
+pcó 2
+pcą 5
+pe  10
+pec 12
+ped 24
+pek 42
+pel 68
+pem 58
+pen 16
+per 210
+pes 3
+pet 67
+pew 426
+peł 365
+phe 1
+pi  57
+pi! 14
+pi, 33
+pi. 20
+pi? 6
+pia 135
+pic 58
+pid 3
+pie 3109
+pii 4
+pik 7
+pil 179
+pim 11
+pin 26
+pio 130
+pir 2
+pis 2951
+pit 85
+piu 4
+piw 54
+pió 50
+pią 97
+pić 163
+pię 254
+pił 226
+piś 18
+piż 12
+pi… 2
+pka 33
+pki 49
+pko 6
+pku 5
+pkó 5
+pką 10
+pkę 31
+pl) 1
+pl. 2
+pl/ 1
+pla 58
+ple 90
+pli 174
+plo 18
+plu 27
+plą 9
+plę 6
+pna 11
+pne 41
+pni 218
+pno 15
+pny 58
+pną 61
+pnę 24
+po  2219
+po, 4
+po. 1
+poa 1
+pob 243
+poc 1910
+pod 2792
+poe 6
+pof 6
+pog 418
+poh 41
+poi 9
+pok 947
+pol 1448
+pom 995
+pon 210
+poo 12
+pop 585
+por 712
+pos 1911
+pot 1251
+pou 35
+pow 2649
+poz 634
+po² 1
+po¹ 1
+poł 349
+poń 15
+poś 140
+poż 138
+poǳ 284
+po” 1
+po… 1
+po⁵ 1
+ppo 17
+pr. 160
+pra 1642
+pre 98
+pro 1334
+pru 74
+pry 147
+prz 12089
+pró 270
+prą 6
+prę 236
+psa 27
+pse 1
+psi 37
+psk 35
+pso 16
+pst 71
+psu 47
+psy 22
+psz 205
+psó 8
+pt  56
+pt, 6
+pt. 1
+pta 123
+pte 17
+pto 22
+ptu 19
+pty 6
+pt² 3
+pt³ 1
+pt¹ 3
+ptó 4
+pu  179
+pu, 15
+pu. 4
+pu: 1
+pu; 1
+pu? 1
+pub 47
+puc 25
+pud 2
+pue 1
+pug 2
+puk 27
+pul 13
+pun 15
+pur 23
+pus 416
+put 79
+puz 7
+pu² 1
+pu¹ 1
+puą 1
+puł 409
+puś 291
+py  127
+py! 7
+py, 41
+py. 7
+py; 2
+pyc 46
+pym 1
+pyp 1
+pyr 2
+pys 43
+pyt 683
+pyw 39
+py² 1
+py³ 1
+pyż 9
+py… 1
+py⁷ 1
+p²² 1
+p¹⁰ 1
+p¹⁷ 2
+p¹⁸ 2
+pó  165
+pód 2
+pók 114
+pól 34
+pór 63
+pót 14
+pów 100
+pół 252
+póź 229
+pą  21
+pą! 2
+pą, 7
+pą. 3
+pąc 1
+pę  34
+pę, 5
+pę. 5
+pęc 7
+pęd 47
+pęk 39
+pęt 13
+pę² 1
+pęǳ 118
+pĳ  1
+pĳ! 1
+pĳ, 3
+pĳa 43
+pĳc 3
+pĳe 10
+pĳm 5
+pĳ² 1
+pĳą 7
+pĳę 4
+pĳż 1
+pła 311
+płc 5
+płd 27
+płe 18
+płn 64
+pło 232
+płu 13
+pły 257
+płó 5
+płą 3
+pże 2
+p”  1
+p”. 1
+p⁵⁹ 1
+p⁸⁸ 1
+q-M 2
+qui 2
+r ( 1
+r B 5
+r C 17
+r F 2
+r G 2
+r H 1
+r I 1
+r J 8
+r K 8
+r L 10
+r O 4
+r S 3
+r W 1
+r a 23
+r b 24
+r c 27
+r d 37
+r e 7
+r f 1
+r g 15
+r h 2
+r i 93
+r k 26
+r l 14
+r m 24
+r n 86
+r o 49
+r p 104
+r r 21
+r s 57
+r t 23
+r u 26
+r v 10
+r w 66
+r z 89
+r ó 2
+r ł 1
+r ś 4
+r ź 1
+r Ż 1
+r ż 5
+r ǳ 1
+r — 26
+r „ 1
+r  1
+r ﬁ 1
+r!  15
+r!” 1
+r!… 3
+r)  2
+r). 1
+r,  222
+r-z 2
+r.  275
+r.) 77
+r., 3
+r.- 6
+r.: 54
+r.m 1
+r.n 3
+r.r 2
+r.ż 2
+r:  1
+r;  14
+r?  5
+ra  1569
+ra! 20
+ra) 1
+ra, 153
+ra- 2
+ra. 67
+ra/ 1
+ra: 2
+ra; 4
+ra? 5
+rab 197
+rac 1142
+rad 629
+rae 16
+raf 33
+rag 242
+rah 3
+rai 101
+rak 425
+ral 190
+ram 487
+ran 796
+rao 4
+rap 170
+rar 1
+ras 582
+rat 479
+rau 28
+raw 1568
+raz 2447
+ra² 3
+ra³ 1
+ra¹ 5
+raą 1
+rać 284
+rał 552
+rań 29
+raś 12
+raź 106
+raż 395
+raǳ 360
+ra” 1
+ra… 3
+ra⁶ 2
+ra⁸ 1
+ra⁹ 1
+ra 2
+raﬁ 148
+rb  6
+rb, 2
+rba 26
+rbc 12
+rbe 4
+rbi 52
+rbk 1
+rbn 5
+rbo 19
+rbu 31
+rby 19
+rbó 7
+rbą 2
+rbę 1
+rc  15
+rc, 6
+rc. 1
+rca 191
+rce 169
+rch 73
+rci 211
+rco 10
+rcu 84
+rcy 48
+rcz 194
+rcó 15
+rcę 1
+rd  32
+rd, 4
+rd. 13
+rda 42
+rde 155
+rdi 37
+rdl 12
+rdn 2
+rdo 42
+rds 1
+rdu 10
+rdy 122
+rd¹ 1
+rdó 1
+rdą 16
+rdę 18
+rdł 62
+rdź 2
+re  761
+re! 2
+re, 55
+re- 1
+re. 8
+re: 7
+re; 1
+re? 2
+rea 3
+reb 74
+rec 98
+red 663
+ree 3
+ref 13
+reg 602
+rek 90
+rel 36
+rem 441
+ren 131
+reo 6
+rep 33
+rer 2
+res 661
+ret 107
+reu 2
+rew 323
+rez 134
+re¹ 2
+reó 1
+reć 2
+reł 2
+reń 33
+reś 35
+reź 2
+reż 1
+reǳ 3
+re… 3
+reﬂ 2
+rf  4
+rf, 3
+rf. 2
+rfa 1
+rfe 13
+rfo 7
+rfs 1
+rfu 21
+rg  61
+rg! 5
+rg, 16
+rg. 11
+rga 138
+rge 20
+rgi 67
+rgn 28
+rgo 19
+rgr 22
+rgs 11
+rgu 12
+rgy 1
+rg² 4
+rg¹ 4
+rgó 2
+rgą 5
+rgę 6
+rg⁸ 2
+rg⁹ 1
+rhe 1
+rho 3
+ri  1
+ria 134
+ric 3
+rie 35
+rii 91
+rik 5
+rin 5
+rio 86
+ris 2
+rit 6
+riu 69
+rią 23
+rię 36
+rk  18
+rk, 3
+rk. 1
+rk: 1
+rka 102
+rki 87
+rkl 1
+rkn 6
+rko 130
+rku 70
+rkó 12
+rką 19
+rkę 38
+rla 35
+rle 4
+rli 91
+rls 1
+rlu 6
+rlą 2
+rlę 1
+rlĳ 2
+rm  16
+rm! 1
+rm, 2
+rm. 5
+rma 301
+rme 13
+rmi 184
+rml 2
+rmn 1
+rmo 44
+rmu 47
+rmy 8
+rmó 8
+rmę 1
+rn  19
+rn, 6
+rn. 3
+rna 90
+rnc 3
+rne 158
+rni 685
+rnk 15
+rno 140
+rnu 6
+rny 203
+rną 105
+rnę 39
+rnĳ 1
+rn… 1
+ro  572
+ro! 10
+ro, 37
+ro. 13
+ro: 2
+ro? 2
+rob 335
+roc 398
+rod 453
+rof 8
+rog 711
+roh 10
+roi 58
+rok 632
+rol 241
+rom 361
+ron 1277
+roo 1
+rop 196
+ror 55
+ros 1084
+rot 269
+rou 5
+row 1333
+roz 2422
+ro² 1
+roć 79
+roł 22
+roń 137
+roś 227
+roź 123
+roż 209
+roǳ 551
+ro… 4
+roﬁ 2
+rp  1
+rp! 1
+rp, 1
+rpa 70
+rpe 12
+rpi 73
+rpl 64
+rpn 13
+rpo 2
+rpr 1
+rpu 17
+rpy 6
+rpł 1
+rqu 2
+rr! 2
+rro 2
+rry 7
+rrę 1
+rs  14
+rs, 1
+rsa 36
+rsc 11
+rse 11
+rsi 203
+rsk 2630
+rso 55
+rsp 9
+rst 137
+rsu 4
+rsw 7
+rsz 634
+rs² 1
+rs¹ 7
+rsó 1
+rt  32
+rt! 4
+rt, 20
+rt. 12
+rta 44
+rtc 1
+rte 197
+rti 75
+rtk 7
+rtn 2
+rto 47
+rtr 9
+rts 1
+rtu 130
+rtw 48
+rty 159
+rtz 7
+rt² 1
+rtó 5
+rtą 19
+rtę 16
+ru  238
+ru! 6
+ru, 78
+ru. 48
+ru: 1
+ru; 8
+ru? 2
+rub 59
+ruc 267
+rud 200
+rug 523
+ruh 2
+rui 12
+ruk 114
+rul 3
+rum 92
+run 194
+rup 130
+rur 11
+rus 942
+rut 205
+ruz 22
+ru² 1
+ru¹ 2
+ruć 10
+ruł 2
+ruń 2
+ruś 8
+ruż 24
+ruǳ 99
+ru… 1
+ru⁵ 1
+rvi 17
+rw  12
+rw, 1
+rwa 610
+rwc 2
+rwe 47
+rwi 333
+rwn 14
+rwo 155
+rws 491
+rwu 1
+rwy 12
+rw² 1
+rwó 1
+rwą 12
+rwę 12
+rwĳ 1
+ry  1421
+ry! 26
+ry, 239
+ry- 1
+ry. 104
+ry: 2
+ry; 3
+ry? 9
+ry@ 1
+ryb 67
+ryc 726
+ryd 16
+ryg 26
+ryi 1
+ryk 63
+ryl 24
+rym 483
+ryn 115
+ryp 18
+rys 168
+ryt 126
+ryu 17
+ryw 281
+ryz 100
+ry² 9
+ry¹ 13
+ryć 24
+rył 70
+ryś 23
+ryź 8
+ryż 5
+ryǳ 1
+ry” 1
+ry… 6
+ry⁈ 1
+ry⁵ 1
+ry⁹ 1
+rz  693
+rz! 33
+rz) 4
+rz, 230
+rz- 2
+rz. 105
+rz: 3
+rz; 5
+rz? 9
+rza 1561
+rzb 15
+rzc 141
+rzd 3
+rze 12473
+rzg 3
+rzk 17
+rzl 16
+rzm 159
+rzn 45
+rzo 321
+rzt 5
+rzu 586
+rzw 167
+rzy 11627
+rz² 3
+rz¹ 5
+rzó 305
+rzą 477
+rzę 295
+rzł 8
+rzż 4
+rz… 5
+rz⁴ 1
+rz⁹ 1
+r²² 1
+r²³ 2
+r²¹ 2
+r²⁰ 3
+r²⁹ 1
+r¹³ 1
+r¹¹ 3
+r¹⁴ 3
+r¹⁵ 3
+r¹⁶ 2
+r¹⁷ 3
+r¹⁸ 3
+ró  32
+ró- 1
+rób 95
+róc 694
+ród 212
+róg 60
+ról 1526
+rós 20
+rót 234
+rów 720
+róz 18
+ró¹ 1
+róć 7
+róś 2
+róź 3
+róż 313
+róǳ 1
+röm 1
+rą  258
+rą! 5
+rą, 34
+rą. 18
+rą: 1
+rą? 5
+rąb 88
+rąc 194
+rąd 4
+rąg 494
+rąk 91
+rąm 1
+rąs 1
+rąz 1
+rą³ 1
+rąć 2
+rąś 7
+rąż 146
+rą⁸ 1
+rć  103
+rć! 10
+rć, 23
+rć. 11
+rć; 2
+rć? 1
+rę  219
+rę! 7
+rę, 52
+rę. 21
+rę: 1
+rę; 4
+rę? 1
+ręb 36
+ręc 517
+ręd 103
+ręg 17
+ręk 706
+ręp 8
+ręt 69
+ręz 2
+rę² 1
+rę¹ 1
+ręć 1
+ręż 26
+ręǳ 138
+rę… 1
+rę⁹ 1
+rĳ  1
+rł  232
+rł! 1
+rł, 20
+rł. 8
+rł: 2
+rł; 1
+rła 181
+rłb 1
+rłe 16
+rło 19
+rłs 11
+rły 41
+rł¹ 1
+rłó 1
+rłą 2
+rłę 1
+rń  2
+rń. 1
+rś  21
+rś, 1
+rś. 2
+rśc 40
+rśn 2
+rść 18
+rż  21
+rż! 2
+rż, 8
+rż. 3
+rż? 2
+rża 100
+rże 26
+rżn 14
+rżo 4
+rży 28
+rż² 1
+rż³ 1
+rż¹ 1
+rżó 4
+rżą 22
+rżę 8
+rż⁴ 3
+rǳ  1
+rǳa 35
+rǳe 9
+rǳi 305
+rǳo 221
+rǳy 39
+rǳą 11
+rǳę 20
+r”  1
+r…  3
+r⁵⁹ 1
+r⁷³ 1
+r⁸⁰ 1
+r⁹⁴ 1
+r⁹⁶ 1
+rﬁa 1
+rﬁr 3
+s ( 3
+s B 8
+s C 10
+s G 3
+s H 1
+s I 1
+s J 1
+s K 22
+s L 2
+s M 14
+s N 1
+s O 4
+s P 1
+s R 1
+s S 6
+s T 1
+s U 3
+s W 3
+s Z 3
+s a 111
+s b 31
+s c 36
+s d 48
+s e 1903
+s g 12
+s h 3
+s i 78
+s k 36
+s l 11
+s m 35
+s n 137
+s o 91
+s p 164
+s r 609
+s s 95
+s t 73
+s u 26
+s w 116
+s z 97
+s ą 10
+s ę 16
+s ł 4
+s ś 2
+s ż 4
+s ǳ 8
+s — 14
+s!  38
+s!… 5
+s), 2
+s,  190
+s-  1
+s-K 1
+s-k 4
+s.  78
+s.) 1
+s.: 4
+s:  3
+s;  5
+s?  7
+s?… 1
+sa  106
+sa! 9
+sa, 38
+sa- 1
+sa. 15
+sa: 3
+sa; 1
+sab 1
+sac 188
+sad 46
+sag 10
+sah 2
+sak 37
+sal 108
+sam 1466
+san 214
+sap 52
+sar 86
+sat 13
+saw 8
+sa³ 1
+sa¹ 1
+sać 72
+sał 109
+saż 11
+saǳ 190
+sa… 3
+sa⁴ 1
+sa⁵ 1
+sa⁷ 2
+sa⁹ 2
+saﬁ 1
+sbu 3
+sc  5
+sc, 4
+sc. 5
+sca 91
+sce 146
+sch 216
+sci 1
+sco 17
+scu 60
+scy 551
+scz 10
+sda 1
+sdo 3
+sdy 2
+se  59
+sec 3
+sed 7
+seg 1
+sei 1
+sek 50
+sel 104
+sem 727
+sen 139
+sep 5
+ser 425
+ses 8
+set 65
+seu 6
+se¹ 1
+seł 38
+se⁴ 1
+se⁶ 1
+sfa 5
+sfo 30
+she 1
+sho 1
+si  389
+si! 15
+si, 106
+si. 69
+si: 4
+si; 7
+si? 4
+sia 656
+sic 27
+sid 7
+sie 1561
+sik 45
+sil 172
+sim 85
+sin 37
+sio 182
+sir 2
+sis 62
+sit 3
+siu 51
+siw 28
+sió 10
+sią 1676
+sić 127
+się 10904
+sił 692
+siń 54
+si… 11
+sk  170
+sk! 3
+sk, 38
+sk. 25
+sk; 3
+sk? 2
+ska 1430
+ske 1
+ski 7182
+skl 34
+skn 36
+sko 1077
+skr 285
+sku 370
+skw 24
+sk² 1
+skó 170
+ską 379
+skę 66
+skł 109
+sk… 1
+sli 34
+sm  1
+sma 85
+sme 11
+smo 118
+smu 34
+smy 13
+smą 1
+sna 86
+sne 241
+snk 1
+sno 107
+snu 22
+sny 239
+snó 3
+sną 314
+snę 55
+so  13
+so, 1
+so. 7
+sob 1149
+soc 7
+sof 3
+sog 1
+sok 133
+sol 58
+som 9
+son 62
+sop 4
+sor 15
+sos 50
+sot 4
+sow 185
+soł 86
+soś 1
+soﬁ 5
+sp  1
+spa 340
+spe 202
+spi 194
+spl 25
+spo 2081
+spr 471
+spu 61
+spy 254
+spó 64
+spą 1
+spę 18
+spł 44
+sre 41
+sro 102
+sse 20
+ssi 9
+ssl 34
+sso 9
+ssu 5
+ssy 2
+ssą 1
+st  987
+st! 80
+st, 203
+st- 2
+st. 83
+st: 6
+st? 55
+sta 5068
+stc 28
+ste 539
+stg 4
+sti 36
+stk 1229
+stl 7
+stm 10
+stn 110
+sto 1446
+stp 7
+str 2576
+sts 17
+stu 323
+stw 1104
+sty 553
+stó 74
+stą 387
+stę 549
+stł 15
+stż 4
+st… 13
+st⁈ 1
+st⁵ 1
+st⁶ 1
+su  287
+su! 6
+su, 29
+su. 17
+su: 1
+su; 1
+sub 34
+suc 26
+suk 45
+sul 5
+sum 69
+sun 151
+sup 16
+sur 56
+sus 11
+sut 9
+suw 66
+su² 1
+suć 6
+suł 20
+suń 1
+su… 3
+su 1
+suﬁ 2
+swa 91
+swe 260
+swo 416
+swy 146
+swó 45
+swą 68
+swę 5
+sy  336
+sy! 8
+sy, 79
+sy. 55
+sy: 9
+sy; 1
+sy? 1
+syc 39
+syd 8
+syg 11
+syk 2
+syl 6
+sym 35
+syn 139
+syp 143
+syr 14
+sys 15
+syt 3
+syw 21
+syz 15
+sy² 2
+syć 33
+sył 84
+sy” 1
+sy⁵ 1
+syﬁ 1
+sz  976
+sz! 100
+sz, 463
+sz- 1
+sz. 138
+sz: 11
+sz; 8
+sz? 169
+sza 2876
+szc 3187
+sze 3391
+szk 677
+szl 1130
+szm 394
+szn 528
+szo 271
+szp 74
+szr 7
+szt 936
+szu 319
+szw 706
+szy 4829
+sz² 3
+sz³ 1
+sz¹ 5
+szó 52
+szą 599
+szę 380
+szł 620
+szż 15
+sz” 1
+sz… 40
+sz⁈ 5
+sz⁴ 1
+sz⁷ 1
+sz⁹ 1
+s²² 1
+s²³ 1
+s²¹ 1
+s²⁰ 1
+s²⁴ 1
+s³⁸ 1
+s¹³ 3
+s¹¹ 2
+s¹⁰ 4
+s¹⁴ 4
+s¹⁵ 1
+s¹⁶ 1
+s¹⁷ 2
+s¹⁹ 3
+sób 82
+sól 1
+sów 191
+sół 15
+są  143
+są! 5
+są, 21
+są. 9
+są; 2
+są? 3
+sąc 17
+sąd 82
+sąg 5
+sąs 37
+są² 1
+sąż 1
+sąǳ 116
+są… 2
+sę  15
+sę! 2
+sę, 6
+sę. 7
+sęd 1
+sęk 6
+sęp 48
+sęǳ 12
+sę… 2
+sł  173
+sł! 4
+sł, 18
+sł. 17
+sł: 1
+sł? 4
+sła 1485
+słe 31
+sło 642
+słs 19
+słu 1166
+sły 542
+słó 81
+słą 9
+słę 15
+sł… 3
+s…  9
+s…, 1
+s⁴⁴ 2
+s⁴⁷ 1
+s⁵⁰ 1
+s⁶¹ 1
+s⁸⁸ 1
+s⁹⁵ 1
+s⁹⁹ 1
+t ( 237
+t ) 18
+t , 2
+t . 59
+t : 9
+t A 2
+t B 8
+t C 7
+t D 2
+t E 1
+t F 2
+t G 1
+t H 5
+t J 9
+t K 15
+t L 4
+t M 5
+t N 1
+t O 1
+t P 4
+t R 7
+t S 14
+t T 2
+t W 14
+t Z 3
+t a 47
+t b 74
+t c 77
+t d 141
+t e 52
+t f 3
+t g 41
+t h 15
+t i 155
+t k 125
+t l 43
+t m 73
+t n 272
+t o 260
+t p 302
+t r 64
+t s 170
+t t 280
+t u 68
+t w 229
+t z 226
+t ² 18
+t ³ 7
+t ¹ 21
+t ó 8
+t ą 3
+t Ł 1
+t ł 12
+t ś 13
+t Ż 1
+t ż 16
+t ǳ 15
+t — 212
+t ” 1
+t „ 1
+t ⁴ 10
+t ⁵ 5
+t ⁶ 4
+t ⁷ 5
+t ⁸ 2
+t ⁹ 1
+t  1
+t ﬁ 1
+t!  110
+t!” 5
+t!… 14
+t)  3
+t,  551
+t-G 1
+t-l 1
+t.  156
+t.) 2
+t., 1
+t:  24
+t;  7
+t?  38
+t?… 6
+ta  1432
+ta! 37
+ta) 7
+ta, 316
+ta- 5
+ta. 149
+ta: 5
+ta; 10
+ta? 12
+taa 1
+tab 63
+tac 492
+tad 59
+tae 1
+tag 1
+tah 28
+tai 10
+tak 2742
+tal 242
+tam 1118
+tan 1202
+tap 19
+tar 1952
+tas 54
+tat 534
+tau 40
+tav 4
+taw 887
+taz 57
+ta² 9
+ta³ 1
+ta¹ 17
+taą 2
+tać 395
+tał 1615
+tań 69
+taś 1
+taż 6
+ta” 2
+ta… 12
+ta‼ 2
+ta⁈ 1
+ta⁶ 2
+ta⁷ 1
+ta⁸ 3
+ta⁹ 1
+taﬂ 1
+tc. 4
+tce 122
+tch 158
+tcz 6
+te  1332
+te! 8
+te, 82
+te. 33
+te; 6
+te? 2
+tea 19
+teb 69
+tec 217
+ted 324
+tef 6
+teg 1150
+tei 18
+tek 168
+tel 246
+tem 1089
+ten 790
+teo 5
+tep 13
+ter 1088
+tes 64
+tet 8
+teu 1
+tew 154
+tez 1
+teć 3
+teł 12
+teń 2
+teś 71
+też 560
+te… 5
+tfu 3
+tgo 4
+ti  1
+tia 28
+tie 31
+tii 28
+tin 2
+tio 5
+tiu 1
+tiv 1
+tią 3
+tię 21
+tka 316
+tki 998
+tkl 4
+tkn 51
+tko 463
+tku 119
+tkw 41
+tkó 35
+tką 44
+tkę 36
+tla 13
+tle 11
+tli 123
+tlo 9
+tlą 4
+tlę 1
+tma 601
+tme 1
+tmi 41
+tmy 7
+tmę 2
+tna 53
+tne 117
+tni 919
+tno 81
+tnu 1
+tny 158
+tną 63
+tnę 9
+tnĳ 5
+to  5032
+to! 74
+to, 402
+to. 30
+to: 27
+to; 1
+to? 93
+toa 10
+tob 124
+toc 301
+tod 28
+tof 20
+tog 5
+toh 1
+toi 86
+tok 109
+tol 202
+tom 230
+ton 73
+top 867
+tor 2525
+tos 60
+tot 102
+tou 1
+tow 1137
+to² 2
+to³ 1
+to¹ 2
+toć 10
+toł 64
+toś 177
+toż 44
+to” 1
+to… 11
+to⁈ 2
+to⁵ 2
+toﬁ 8
+tp. 8
+tp: 2
+tpi 69
+tpl 16
+tpo 15
+tr  69
+tr, 9
+tr. 8
+tr; 1
+tra 1221
+tre 47
+tri 95
+trk 1
+trm 1
+tro 1063
+tru 391
+trw 147
+try 271
+trz 3132
+tró 58
+trö 1
+trą 134
+trę 66
+tsi 7
+tsk 1
+tso 1
+tsz 171
+tt  14
+tte 113
+tti 2
+tto 6
+ttp 2
+tty 1
+tt² 1
+tu  1275
+tu! 16
+tu) 3
+tu, 142
+tu. 52
+tu: 176
+tu; 3
+tu? 2
+tua 10
+tub 3
+tuc 61
+tud 11
+tug 1
+tui 1
+tuk 50
+tul 49
+tum 42
+tun 214
+tup 10
+tur 262
+tus 340
+tut 30
+tuw 1
+tuy 1
+tuz 7
+tu² 1
+tu¹ 4
+tuć 1
+tuł 69
+tuś 3
+tuż 80
+tuǳ 1
+tu” 1
+tu… 2
+tu⁈ 1
+tu⁹ 2
+tw  37
+tw! 2
+tw, 15
+tw. 4
+twa 1052
+twe 107
+twi 539
+two 1015
+twu 31
+twy 195
+twó 57
+twą 29
+twę 68
+ty  1083
+ty! 50
+ty) 2
+ty, 353
+ty. 162
+ty: 3
+ty; 22
+ty? 27
+tyc 779
+tyd 67
+tyf 1
+tyg 58
+tyh 12
+tyk 301
+tyl 1123
+tym 1280
+tyn 47
+typ 6
+tyr 10
+tys 222
+tyt 48
+tyw 128
+tyz 20
+ty² 8
+ty³ 2
+ty¹ 13
+tył 85
+tyń 10
+tyś 14
+tyż 1
+tyǳ 55
+ty” 2
+ty… 11
+ty⁴ 2
+ty⁵ 1
+ty⁶ 1
+ty⁸ 2
+tyﬁ 13
+tz  3
+tz! 1
+tz, 4
+tz- 2
+tz. 2
+tza 4
+tze 2
+tzo 5
+tzw 7
+t²² 2
+t²³ 7
+t²¹ 2
+t²⁰ 6
+t²⁴ 5
+t²⁵ 1
+t²⁷ 2
+t³⁸ 1
+t¹² 4
+t¹³ 1
+t¹¹ 5
+t¹⁰ 1
+t¹⁴ 3
+t¹⁵ 2
+t¹⁶ 3
+t¹⁷ 3
+t¹⁸ 6
+t¹⁹ 5
+tó  36
+tóg 1
+tóp 10
+tór 3406
+tów 446
+tół 28
+tóż 39
+tą  325
+tą! 4
+tą, 81
+tą- 2
+tą. 24
+tą; 7
+tą? 1
+tąc 5
+tąd 210
+tąg 2
+tąp 286
+tą¹ 3
+tąż 7
+tą” 1
+tą… 4
+tą⁴ 2
+tą⁷ 1
+tę  399
+tę! 2
+tę, 80
+tę. 33
+tę; 2
+tę? 2
+tęc 15
+tęd 14
+tęg 116
+tęk 6
+tęp 512
+tęs 19
+tęt 31
+tę² 1
+tę³ 1
+tę¹ 1
+tęż 173
+tęǳ 18
+tę” 1
+tę⁈ 1
+tę⁴ 2
+tę⁸ 1
+tł  6
+tł, 3
+tła 41
+tłe 20
+tło 78
+tłu 212
+tły 17
+tłó 3
+tłą 2
+tże 6
+t”  2
+t…  14
+t⁴³ 1
+t⁴¹ 1
+t⁴⁵ 1
+t⁴⁶ 1
+t⁴⁸ 1
+t⁵⁵ 1
+t⁵⁷ 1
+t⁶² 1
+t⁶⁵ 1
+t⁶⁶ 2
+t⁷³ 1
+t⁸² 2
+t⁸³ 1
+t⁸⁶ 1
+t⁹¹ 1
+t⁹⁷ 2
+u ! 26
+u ( 5
+u , 24
+u . 3
+u : 1
+u ; 1
+u ? 1
+u A 29
+u B 84
+u C 38
+u D 9
+u E 1
+u G 6
+u H 5
+u I 2
+u J 18
+u K 104
+u L 23
+u M 41
+u N 9
+u O 21
+u P 27
+u R 39
+u S 84
+u T 28
+u U 2
+u W 78
+u Z 30
+u a 138
+u b 241
+u c 244
+u d 406
+u e 579
+u f 13
+u g 139
+u h 45
+u i 521
+u k 317
+u l 138
+u m 366
+u n 945
+u o 342
+u p 898
+u r 332
+u s 814
+u t 310
+u u 171
+u w 681
+u z 557
+u ą 605
+u ć 1
+u ę 226
+u Ł 1
+u ł 16
+u Ś 4
+u ś 44
+u ź 4
+u Ż 5
+u ż 63
+u ǳ 45
+u — 68
+u „ 4
+u … 3
+u ⁴ 1
+u ⁶ 1
+u ⁷ 1
+u ⁹ 2
+u  1
+u  5
+u  1
+u  8
+u!  167
+u!” 6
+u!… 30
+u)  4
+u), 1
+u). 1
+u,  1613
+u-A 1
+u-U 4
+u-b 1
+u-t 2
+u.  408
+u.” 1
+u:  193
+u;  74
+u?  35
+u?” 2
+u?… 4
+uac 3
+uar 2
+uań 6
+ub  281
+ub! 1
+ub, 3
+ub. 1
+ub? 1
+uba 55
+ubc 2
+ube 73
+ubi 269
+ubk 7
+ubl 72
+ubn 20
+ubo 183
+ubr 91
+ubs 21
+ubt 4
+ubu 6
+uby 50
+ubó 11
+ubą 6
+ubę 24
+ubł 13
+ub⁹ 1
+uc  16
+uc. 1
+uc: 1
+uca 154
+uce 28
+uch 1185
+uci 637
+uck 7
+uco 21
+uct 5
+ucu 2
+ucy 31
+ucz 975
+ucą 4
+ucę 8
+uc… 1
+ud  56
+ud! 2
+ud, 12
+ud. 1
+uda 335
+ude 232
+udi 5
+udk 8
+udl 1
+udn 308
+udo 121
+udr 9
+uds 1
+udu 33
+udw 25
+udy 57
+udó 20
+udą 5
+udę 4
+udł 19
+udź 76
+uel 2
+uet 1
+uf  2
+uf! 1
+ufa 111
+ufc 1
+ufe 1
+ufn 60
+ufo 9
+uf² 1
+ufą 4
+ufę 4
+ug  49
+ug! 2
+ug, 7
+ug. 3
+uga 141
+ugi 625
+ugl 89
+ugn 5
+ugo 192
+ugr 5
+ugs 1
+ugu 29
+ugó 3
+ugą 83
+ugę 30
+ugł 1
+ug… 1
+uha 1
+uhu 1
+uhy 1
+ui, 1
+uic 3
+uid 20
+uie 2
+uil 1
+uin 12
+uis 6
+uit 4
+uiś 1
+uk  63
+uk! 1
+uk, 16
+uk. 6
+uka 366
+ukc 13
+uki 79
+ukl 120
+ukm 6
+ukn 110
+uko 64
+ukr 121
+uks 3
+ukt 6
+uku 33
+uk² 1
+uk¹ 3
+ukó 16
+uką 20
+ukę 15
+ukł 120
+ul  23
+ul! 1
+ul, 8
+ul. 1
+ul; 1
+ula 109
+ulb 63
+ulc 2
+ule 100
+ulg 14
+uli 105
+ulk 5
+ulm 1
+uln 1
+ulo 17
+uls 11
+ult 60
+ulu 18
+ulw 47
+uló 2
+ulą 16
+ulę 22
+ulż 3
+um  89
+um! 4
+um, 32
+um. 14
+um; 3
+um? 3
+uma 152
+ume 46
+umf 30
+umg 3
+umi 707
+umk 18
+umn 47
+umo 85
+ump 3
+umr 16
+umu 51
+umw 1
+umy 235
+um² 3
+um¹ 6
+umó 25
+umą 16
+umę 13
+umż 1
+um⁹ 3
+um 2
+un  43
+un! 1
+un, 8
+un- 5
+un. 2
+una 179
+unc 28
+und 52
+une 153
+uni 192
+unk 202
+unn 6
+uno 24
+uns 9
+unt 143
+unu 2
+unw 1
+uny 66
+un² 1
+un¹ 1
+unó 24
+uną 109
+unę 54
+un⁸ 1
+uos 2
+up  79
+up! 5
+up, 12
+up. 5
+upa 227
+upc 5
+upe 185
+upi 217
+upk 9
+upl 6
+upn 7
+upo 91
+upr 110
+ups 9
+upt 15
+upu 30
+upy 88
+upó 47
+upą 19
+upę 34
+upł 48
+upż 1
+up” 1
+ur  28
+ur, 15
+ur- 1
+ur. 44
+ur: 1
+ura 248
+urb 10
+urc 38
+urd 9
+ure 63
+urg 14
+uri 14
+urk 76
+url 22
+urm 105
+urn 30
+uro 381
+urp 19
+urs 45
+urt 15
+uru 26
+urw 20
+ury 192
+urz 279
+ur² 1
+uró 85
+urą 23
+urę 42
+urĳ 1
+urł 5
+urż 1
+urﬁ 3
+us  127
+us! 13
+us, 29
+us. 14
+us: 1
+us; 1
+us? 5
+usa 150
+usc 32
+use 44
+usi 775
+usk 393
+usn 4
+uso 30
+usp 72
+ust 667
+usu 21
+usy 29
+usz 2276
+us³ 1
+us¹ 1
+usó 4
+usę 2
+usł 629
+us⁵ 1
+ut  23
+ut! 1
+ut, 9
+ut? 1
+uta 94
+ute 86
+utk 79
+utn 242
+uto 67
+utr 439
+utu 22
+utw 35
+uty 64
+ut² 1
+ut¹ 2
+utó 13
+utą 2
+utę 9
+ut⁸ 1
+uwa 254
+uwe 1
+uwi 83
+uwk 1
+uwo 36
+uwr 1
+uwę 3
+uwĳ 6
+uwł 2
+ux  1
+uxi 2
+uy  1
+uz  57
+uz! 3
+uz, 8
+uz. 16
+uz: 2
+uz? 1
+uza 24
+uzb 10
+uzd 30
+uze 8
+uzg 8
+uzi 16
+uzn 45
+uzo 11
+uzu 18
+uzy 48
+uz¹ 1
+uzé 1
+uzó 8
+uzą 1
+uzę 4
+u²² 2
+u²³ 2
+u²¹ 3
+u²⁰ 3
+u²⁴ 4
+u²⁵ 1
+u²⁸ 1
+u³³ 1
+u¹² 3
+u¹³ 6
+u¹¹ 2
+u¹⁰ 1
+u¹⁵ 5
+u¹⁶ 1
+u¹⁷ 4
+u¹⁸ 3
+u¹⁹ 2
+uąc 4
+uć  29
+uć! 2
+uć, 16
+uć- 2
+uć. 11
+ućc 3
+ućm 1
+uę, 1
+uł  87
+uł! 1
+uł, 35
+uł. 4
+uła 137
+ułe 12
+ułk 416
+ułm 3
+uło 27
+ułt 16
+ułu 9
+uły 30
+uł² 4
+uł¹ 1
+ułó 4
+ułą 1
+ułł 6
+uł… 1
+uń  3
+uńc 20
+uńs 7
+uń¹ 1
+uś  28
+uś! 6
+uś, 5
+uś. 2
+uśc 305
+uśk 3
+uśm 77
+uśn 2
+uśp 9
+uśw 2
+uść 15
+uś… 1
+uś⁈ 1
+uź! 2
+uźn 50
+uźń 2
+uż  1471
+uż! 12
+uż, 58
+uż. 11
+uż; 1
+uż? 1
+uża 12
+użb 173
+użc 14
+uże 122
+użg 2
+użk 2
+użm 1
+użn 11
+użo 97
+użs 18
+uży 330
+użą 83
+użę 27
+użż 1
+uż… 3
+uǳa 15
+uǳc 3
+uǳe 21
+uǳi 1046
+uǳk 189
+uǳo 82
+uǳt 2
+uǳy 59
+uǳą 6
+uǳę 2
+u”  2
+u”, 6
+u…  37
+u…” 1
+u⁈  3
+u⁵³ 1
+u⁵⁵ 2
+u⁶, 1
+u⁶⁴ 1
+u⁷⁹ 1
+u⁹  1
+u⁹⁰ 1
+ua 1
+uy 1
+uó 1
+u  1
+u, 1
+u¹ 1
+uﬁa 4
+uﬁe 11
+uﬁt 2
+uﬂa 4
+uﬂi 1
+uﬂą 1
+vas 1
+ve  1
+ver 3
+vid 18
+von 33
+vus 4
+w ( 9
+w A 12
+w B 80
+w C 31
+w D 13
+w E 9
+w F 1
+w G 9
+w H 6
+w I 11
+w J 15
+w K 130
+w L 38
+w M 21
+w N 22
+w O 29
+w P 97
+w R 72
+w S 124
+w T 85
+w U 22
+w V 1
+w W 89
+w X 64
+w Z 25
+w a 151
+w b 316
+w c 498
+w d 547
+w e 207
+w f 33
+w g 389
+w h 38
+w i 423
+w k 838
+w l 220
+w m 423
+w n 874
+w o 672
+w p 1299
+w r 521
+w s 869
+w t 831
+w u 163
+w w 572
+w z 539
+w ó 2
+w ą 2
+w ę 4
+w Ł 13
+w ł 51
+w Ś 4
+w ś 130
+w ź 8
+w Ż 4
+w ż 82
+w ǲ 1
+w ǳ 57
+w — 53
+w „ 8
+w  3
+w  49
+w ﬁ 15
+w!  83
+w!” 3
+w!… 11
+w)  1
+w,  1134
+w-K 1
+w-O 2
+w-r 1
+w.  385
+w.) 345
+w., 60
+w.: 1
+w.; 9
+w.” 2
+w:  33
+w;  27
+w?  12
+w?… 6
+wa  1447
+wa! 50
+wa) 3
+wa, 381
+wa- 2
+wa. 196
+wa: 25
+wa; 9
+wa? 23
+waa 1
+wab 19
+wac 164
+wad 72
+wag 250
+wah 39
+wak 24
+wal 1109
+wam 310
+wan 1042
+wap 19
+war 1193
+was 1156
+wat 282
+waw 145
+waz 3
+wa² 5
+wa³ 3
+wa¹ 9
+waą 2
+wać 1585
+wał 2805
+wań 120
+waś 238
+waż 385
+waǳ 431
+wa” 2
+wa… 19
+wa⁵ 3
+wa⁷ 3
+wa⁸ 1
+wa⁹ 1
+wbi 23
+wbr 18
+wbĳ 5
+wca 129
+wce 61
+wch 45
+wci 81
+wco 8
+wcu 8
+wcy 18
+wcz 485
+wcó 11
+wcą 7
+wcę 9
+wd  8
+wd! 1
+wda 221
+wdo 25
+wdr 3
+wdy 45
+wdó 1
+wdą 9
+wdę 121
+wdź 1
+we  1101
+we! 1
+we, 58
+we. 25
+we; 5
+we? 2
+wec 83
+wed 722
+weg 388
+wek 16
+wel 13
+wem 298
+wen 75
+wep 1
+wer 49
+wes 234
+wet 401
+wew 29
+wez 82
+we¹ 4
+weł 17
+weń 7
+weś 12
+weź 45
+weǳ 931
+we” 1
+we… 3
+we⁴ 1
+we⁵ 1
+wg  2
+wgi 5
+wgł 1
+wi  878
+wi! 34
+wi) 1
+wi, 331
+wi. 149
+wi: 10
+wi; 14
+wi? 17
+wia 2124
+wic 1130
+wid 497
+wie 8018
+wig 21
+wii 6
+wik 97
+wil 1154
+wim 10
+win 523
+wio 332
+wip 3
+wir 19
+wis 381
+wit 205
+wiu 35
+wiw 49
+wiz 68
+wi² 6
+wi³ 1
+wi¹ 4
+wió 93
+wią 453
+wić 373
+wię 1795
+wił 1469
+wiń 11
+wiś 111
+wiż 1
+wiǳ 548
+wi… 12
+wi⁈ 1
+wi⁵ 1
+wi⁶ 4
+wi⁷ 1
+wi⁸ 1
+wi⁹ 1
+wka 52
+wki 56
+wko 48
+wkr 97
+wku 5
+wką 7
+wkę 34
+wkł 6
+wla 18
+wle 41
+wli 27
+wlo 11
+wló 7
+wlę 1
+wma 1
+wmi 5
+wmu 1
+wmy 3
+wmó 2
+wna 260
+wne 415
+wni 1092
+wno 292
+wnu 20
+wny 394
+wną 116
+wnę 55
+wo  2926
+wo! 61
+wo) 1
+wo, 247
+wo- 23
+wo. 89
+wo: 16
+wo; 9
+wo? 5
+woa 3
+wob 64
+woc 24
+wod 607
+woe 16
+wog 29
+woi 219
+wok 11
+wol 1002
+wom 48
+won 174
+woo 1
+wop 2
+wor 415
+wos 18
+wot 50
+wow 172
+woz 187
+wo¹ 2
+woą 1
+woł 492
+woń 4
+woś 290
+woź 20
+woż 50
+woǳ 277
+wo… 10
+wpa 169
+wpi 15
+wpo 4
+wpr 236
+wpu 6
+wpó 17
+wpę 2
+wpĳ 1
+wpł 31
+wra 375
+wre 226
+wro 175
+wry 8
+wrz 132
+wró 628
+wrę 15
+wsa 15
+wsc 83
+wse 2
+wsi 134
+wsk 2111
+wsp 276
+wst 490
+wsu 4
+wsy 1
+wsz 3094
+wsł 9
+wt  4
+wt, 3
+wta 175
+wte 68
+wto 9
+wtr 28
+wty 1
+wtó 203
+wu  236
+wu! 2
+wu, 37
+wu. 11
+wu: 8
+wu; 1
+wu? 1
+wuk 4
+wul 9
+wum 3
+wun 9
+wus 6
+wuł 5
+wuż 1
+wuǳ 17
+wu⁶ 1
+wy  1078
+wy! 33
+wy) 6
+wy, 341
+wy- 1
+wy. 144
+wy: 4
+wy; 8
+wy? 14
+wyb 252
+wyc 1276
+wyd 288
+wye 7
+wyg 203
+wyh 2
+wyi 3
+wyk 267
+wyl 74
+wym 523
+wyn 116
+wyo 18
+wyp 624
+wyr 349
+wys 888
+wyt 254
+wyu 11
+wyw 146
+wyz 79
+wy² 5
+wy³ 2
+wy¹ 9
+wyć 25
+wył 49
+wyś 63
+wyż 114
+wyǳ 14
+wy” 1
+wy… 4
+wy⁷ 2
+wy⁹ 1
+wz  1
+wza 37
+wzb 57
+wzd 57
+wzg 92
+wzi 349
+wzm 34
+wzn 98
+wzo 5
+wzr 130
+wzy 25
+wzó 3
+w²² 6
+w²³ 2
+w²¹ 4
+w²⁰ 4
+w²⁴ 7
+w²⁵ 4
+w²⁷ 1
+w³³ 1
+w³¹ 1
+w³⁰ 1
+w³⁴ 1
+w³⁵ 1
+w¹² 9
+w¹³ 9
+w¹¹ 4
+w¹⁰ 8
+w¹⁴ 3
+w¹⁵ 3
+w¹⁶ 4
+w¹⁷ 7
+w¹⁸ 6
+w¹⁹ 4
+wó  97
+wóc 189
+wód 148
+wól 34
+wór 92
+wót 1
+wów 142
+wóz 37
+wół 1
+wóź 4
+wóż 45
+wóǳ 112
+wą  446
+wą! 5
+wą, 71
+wą. 37
+wą: 1
+wą; 8
+wąc 10
+wąd 2
+wąs 120
+wąt 96
+wąw 23
+wąz 1
+wą² 3
+wą¹ 1
+wąś 17
+wąż 10
+wą… 3
+wą⁸ 1
+wą⁹ 1
+wę  388
+wę! 11
+wę, 96
+wę- 2
+wę. 52
+wę: 5
+wę; 3
+wę? 2
+węc 1
+węd 7
+węg 41
+węz 4
+wę² 1
+wę¹ 4
+węż 13
+węǳ 33
+wę” 1
+wę… 4
+wę⁵ 1
+wĳ  3
+wĳ, 1
+wĳa 21
+wĳe 2
+wĳą 2
+wĳż 1
+wł. 11
+wła 910
+wło 152
+włó 49
+włą 2
+wśc 58
+wśl 1
+wśr 116
+wża 1
+wże 5
+wǳa 2
+wǳe 1
+wǳi 354
+wǳo 6
+wǳą 3
+wǳę 1
+w”  5
+w”, 2
+w…  18
+w…” 2
+w⁴² 1
+w⁴³ 1
+w⁴⁰ 1
+w⁴⁵ 1
+w⁴⁷ 1
+w⁴⁹ 2
+w⁵³ 1
+w⁵⁵ 1
+w⁵⁶ 2
+w⁵⁷ 2
+w⁵⁸ 2
+w⁶² 1
+w⁶³ 1
+w⁶¹ 1
+w⁶⁰ 1
+w⁶⁶ 2
+w⁶⁸ 2
+w⁶⁹ 2
+w⁷⁰ 3
+w⁷⁴ 1
+w⁷⁶ 1
+w⁷⁷ 1
+w⁷⁸ 1
+w⁸³ 1
+w⁸⁰ 2
+w⁸⁴ 1
+w⁸⁵ 1
+w⁸⁶ 2
+w⁸⁸ 1
+w⁸⁹ 3
+w⁹¹ 2
+w⁹⁰ 1
+w⁹⁵ 1
+w⁹⁷ 1
+x z 1
+xen 6
+xil 2
+xul 1
+y ! 1
+y ( 20
+y , 6
+y . 5
+y : 1
+y ; 1
+y ? 1
+y A 19
+y B 109
+y C 34
+y D 8
+y E 2
+y G 11
+y H 11
+y I 3
+y J 36
+y K 128
+y L 11
+y M 19
+y N 13
+y O 18
+y P 38
+y R 62
+y S 95
+y T 31
+y U 10
+y W 49
+y Z 27
+y [ 1
+y a 1072
+y b 675
+y c 691
+y d 864
+y e 887
+y f 25
+y g 492
+y h 84
+y i 1290
+y k 837
+y l 281
+y m 1075
+y n 2619
+y o 1686
+y p 2319
+y r 523
+y s 2466
+y t 1261
+y u 432
+y w 1989
+y z 1469
+y ² 3
+y ó 9
+y ą 190
+y ć 2
+y ę 89
+y Ł 1
+y ł 57
+y Ś 5
+y ś 191
+y ź 2
+y Ż 8
+y ż 232
+y ǳ 229
+y — 140
+y ” 1
+y „ 11
+y ⁷ 1
+y  7
+y ﬂ 7
+y!  278
+y!” 24
+y!… 55
+y)  15
+y), 4
+y). 1
+y)— 2
+y,  3809
+y-a 1
+y-g 1
+y-l 1
+y-m 1
+y.  1088
+y.p 4
+y.” 5
+y:  53
+y;  165
+y?  81
+y?” 3
+y?… 24
+y@F 1
+yac 10
+yaz 2
+yaź 2
+yb  9
+yb, 4
+yb. 1
+yba 199
+ybc 10
+ybe 9
+ybi 142
+ybk 100
+ybl 18
+ybn 6
+ybo 65
+ybr 110
+ybs 2
+ybu 104
+yby 604
+ybó 6
+ybą 2
+ybę 5
+ybĳ 7
+ybł 6
+yc  130
+yc, 6
+yc- 2
+yc. 5
+yca 28
+ycc 2
+yce 363
+ych 4093
+yci 1074
+yck 36
+ycn 1
+yco 23
+ycu 3
+ycw 1
+ycy 27
+ycz 682
+ycą 4
+ycł 2
+yd  32
+yd! 3
+yd, 6
+yd: 1
+yd; 1
+yda 214
+yde 74
+ydi 18
+ydk 5
+ydl 13
+ydn 10
+ydo 111
+ydr 15
+ydu 24
+ydw 16
+ydy 14
+ydó 7
+ydą 2
+ydę 3
+ydł 77
+ydź 2
+ydż 7
+yec 1
+yek 5
+yer 2
+yeż 1
+yfe 2
+yfo 1
+yfu 1
+yg  5
+yga 76
+yge 1
+ygi 25
+ygl 71
+ygm 10
+ygn 146
+ygo 166
+ygr 34
+ygu 4
+ygw 1
+ygó 5
+ygą 3
+ygę 3
+ygł 10
+yha 25
+yho 14
+yhó 1
+yi  17
+yi, 2
+yic 4
+yim 5
+yk  131
+yk! 5
+yk, 53
+yk- 1
+yk. 9
+yk: 9
+yk? 1
+yka 390
+ykc 3
+yke 1
+yki 199
+ykl 62
+ykn 458
+yko 160
+ykr 116
+yks 3
+ykt 13
+yku 89
+ykw 7
+yk² 2
+ykó 64
+yką 6
+ykę 13
+ykł 195
+yk” 1
+yk… 4
+yl; 1
+yla 66
+yld 1
+yle 374
+yli 808
+ylk 899
+yll 4
+yln 34
+ylo 30
+yls 1
+ylu 33
+ylw 1
+ylą 4
+ylę 7
+ylż 19
+ym  3543
+ym! 45
+ym, 365
+ym. 126
+ym: 12
+ym; 13
+ym? 17
+yma 772
+ymb 15
+ymc 359
+yme 45
+ymi 930
+ymk 53
+yml 1
+ymn 23
+ymo 42
+ymp 1
+ymr 6
+yms 43
+ymu 96
+ymy 176
+ym² 4
+ym¹ 7
+ymó 61
+ymą 1
+ymć 1
+ymę 5
+ymł 1
+ymś 10
+ymż 19
+ym… 12
+ym⁶ 3
+ym⁷ 1
+yn  47
+yn, 14
+yn. 5
+yn? 2
+yna 432
+ync 44
+yne 93
+yng 11
+yni 1069
+ynk 161
+ynn 46
+yno 92
+yns 6
+ynt 1
+ynu 23
+yny 94
+yn¹ 2
+ynó 34
+yną 93
+ynę 149
+yob 22
+yos 1
+yow 16
+yoz 13
+yoǳ 2
+yp  7
+yp, 1
+ypa 313
+ypc 4
+ype 24
+ypi 2615
+ypk 8
+ypl 34
+ypn 15
+ypo 420
+ypr 225
+yps 2
+ypt 12
+ypu 95
+ypy 57
+ypę 20
+ypĳ 6
+ypł 58
+yr  6
+yr! 2
+yr, 1
+yr? 1
+yra 98
+yrc 1
+yre 6
+yri 6
+yrk 2
+yro 124
+yrs 1
+yru 54
+yrw 39
+yry 9
+yrz 108
+yr² 5
+yr¹ 2
+yró 12
+yrą 2
+yrć 1
+yrż 2
+ys  1
+ys. 1
+ysa 57
+ysc 394
+ysd 2
+yse 10
+ysf 11
+ysh 1
+ysi 413
+ysk 290
+ysm 5
+ysn 23
+yso 126
+ysp 43
+yst 1800
+ysu 79
+ysw 2
+ysy 79
+ysz 1288
+ysó 4
+ysą 1
+ysł 398
+yt  121
+yt, 2
+yta 908
+ytc 10
+yte 87
+yti 1
+ytk 34
+ytm 4
+ytn 56
+yto 1988
+ytr 146
+yts 1
+ytu 90
+ytw 8
+yty 131
+ytó 2
+ytą 15
+ytę 7
+ytł 34
+yuc 11
+yum 17
+yuz 2
+yw  28
+yw! 6
+yw, 22
+yw? 1
+ywa 1294
+ywc 55
+ywd 71
+ywe 60
+ywi 388
+ywk 3
+ywl 6
+ywn 45
+ywo 185
+ywr 17
+yws 111
+ywt 1
+ywu 9
+ywy 94
+ywó 54
+ywą 11
+ywę 16
+ywĳ 4
+ywł 2
+ywǳ 28
+yw⁸ 1
+yz  6
+yza 12
+yzb 4
+yzd 5
+yze 91
+yzg 5
+yzi 23
+yzm 29
+yzn 453
+yzo 23
+yzu 8
+yzw 23
+yzy 18
+yzą 4
+yzę 2
+yzł 20
+y²² 7
+y²³ 11
+y²¹ 13
+y²⁰ 10
+y²⁴ 12
+y²⁵ 1
+y²⁶ 1
+y²⁹ 1
+y³  1
+y³³ 2
+y³¹ 2
+y³⁰ 1
+y³⁵ 1
+y³⁷ 2
+y³⁸ 1
+y³⁹ 2
+y¹² 10
+y¹³ 14
+y¹¹ 6
+y¹⁰ 7
+y¹⁴ 7
+y¹⁵ 16
+y¹⁶ 17
+y¹⁷ 7
+y¹⁸ 5
+y¹⁹ 5
+yör 1
+yć  706
+yć! 99
+yć) 1
+yć, 266
+yć. 151
+yć: 6
+yć; 19
+yć? 42
+yćl 1
+yćm 1
+yćw 23
+yć² 1
+yć¹ 1
+yć… 33
+yć⁈ 2
+yęl 1
+ył  1769
+ył! 36
+ył) 1
+ył, 258
+ył. 126
+ył: 7
+ył; 7
+ył? 19
+yła 762
+yłb 83
+yłc 1
+yłe 127
+yłk 11
+yło 1183
+yłu 38
+yły 467
+ył² 1
+ył¹ 1
+yłó 4
+yłą 26
+yłę 1
+ył… 16
+yń  9
+yń! 1
+yń, 3
+yń. 1
+yńc 33
+yńm 1
+yńs 88
+yńż 4
+yń… 1
+yś  281
+yś! 1
+yś, 20
+yś: 27
+yś? 1
+yśc 92
+yśk 4
+yśl 1131
+yśm 122
+yśn 6
+yśp 7
+yśw 7
+yść 12
+yś… 1
+yś⁶ 1
+yźl 5
+yźn 112
+yźć 3
+yż  175
+yż! 4
+yż, 5
+yż. 42
+yża 26
+yżb 4
+yże 74
+yżg 1
+yżk 4
+yżn 2
+yżo 17
+yżs 66
+yżu 7
+yży 15
+yżę 5
+yż… 1
+yǳa 2
+yǳe 17
+yǳi 136
+yǳo 1
+yǳą 2
+y”  10
+y”, 5
+y”. 4
+y”? 1
+y…  102
+y…¹ 1
+y…” 6
+y‼” 1
+y‼… 1
+y⁈  3
+y⁴² 1
+y⁴³ 2
+y⁴⁰ 2
+y⁴⁷ 1
+y⁵² 1
+y⁵⁰ 2
+y⁵⁴ 2
+y⁵⁷ 2
+y⁵⁹ 3
+y⁶² 1
+y⁶³ 1
+y⁶¹ 1
+y⁶⁰ 1
+y⁶⁴ 1
+y⁶⁵ 1
+y⁷  1
+y⁷³ 2
+y⁷⁰ 1
+y⁷⁵ 1
+y⁷⁶ 1
+y⁷⁸ 1
+y⁸³ 1
+y⁸¹ 1
+y⁸⁶ 1
+y⁸⁹ 1
+y⁹³ 2
+y⁹¹ 2
+y⁹⁴ 1
+y⁹⁵ 1
+y⁹⁷ 1
+y⁹⁸ 1
+yo 1
+yﬀ, 1
+yﬁd 3
+yﬁk 25
+yﬁl 1
+z ( 7
+z A 11
+z B 78
+z C 37
+z D 9
+z E 7
+z F 2
+z G 14
+z H 6
+z I 1
+z J 21
+z K 155
+z L 31
+z M 29
+z N 14
+z O 19
+z P 49
+z R 52
+z S 67
+z T 67
+z U 12
+z W 87
+z X 1
+z Z 27
+z a 271
+z b 325
+z c 588
+z d 624
+z e 328
+z f 41
+z g 369
+z h 75
+z i 309
+z k 725
+z l 170
+z m 482
+z n 1223
+z o 538
+z p 1316
+z r 427
+z s 607
+z t 901
+z u 240
+z w 1141
+z z 626
+z ó 6
+z ą 31
+z ę 31
+z Ł 1
+z ł 439
+z ś 19
+z ź 1
+z Ż 7
+z ż 110
+z ǳ 73
+z — 103
+z „ 1
+z  25
+z  1
+z ﬂ 3
+z!  148
+z!) 1
+z!” 5
+z!… 23
+z)  3
+z), 2
+z). 1
+z,  987
+z-G 2
+z-d 1
+z-k 2
+z-l 1
+z.  190
+z.) 6
+z.: 3
+z.p 8
+z.t 16
+z.” 8
+z:  17
+z;  20
+z?  88
+z?” 4
+z?… 26
+za  3943
+za! 33
+za) 1
+za, 288
+za. 170
+za: 16
+za; 27
+za? 12
+za] 2
+zaa 4
+zab 735
+zac 1088
+zad 202
+zaf 3
+zag 166
+zah 7
+zai 18
+zak 663
+zal 366
+zam 878
+zan 703
+zao 29
+zap 811
+zar 1308
+zas 2102
+zat 343
+zau 72
+zaw 967
+zaz 50
+za² 4
+za³ 1
+za¹ 7
+zać 296
+zał 1839
+zań 187
+zaś 770
+zaż 42
+zaǳ 14
+za… 16
+za⁵ 2
+za⁶ 1
+za⁷ 1
+za⁹ 2
+za 3
+zaﬁ 4
+zb  1
+zba 118
+zbe 3
+zbi 314
+zbl 159
+zbo 41
+zbr 255
+zbu 139
+zby 209
+zbó 67
+zbą 1
+zbę 12
+zbĳ 36
+zbł 6
+zca 14
+zce 27
+zch 100
+zci 542
+zco 4
+zcy 8
+zcz 3019
+zcó 3
+zcą 3
+zcę 3
+zd  94
+zd, 16
+zd. 9
+zd? 2
+zda 350
+zde 58
+zdk 8
+zdm 5
+zdn 34
+zdo 313
+zdr 648
+zdu 158
+zdw 2
+zdy 197
+zdó 16
+zdą 31
+zdę 34
+zdł 25
+zd” 1
+ze  4654
+ze! 132
+ze, 485
+ze. 185
+ze: 13
+ze; 14
+ze? 32
+zeb 788
+zec 2228
+zed 1692
+zee 2
+zef 10
+zeg 994
+zeh 1
+zek 3052
+zel 852
+zem 1085
+zen 843
+zeo 38
+zep 358
+zer 1095
+zes 921
+zet 323
+zeu 1
+zew 414
+zez 999
+ze² 4
+ze¹ 12
+zeć 306
+zeł 26
+zeń 176
+ześ 258
+zeź 40
+zeż 70
+zeǳ 37
+ze” 1
+ze… 27
+ze⁵ 1
+ze⁷ 2
+ze⁸ 3
+ze⁹ 3
+zg  1
+zg, 1
+zga 82
+zgi 147
+zgl 83
+zgn 26
+zgo 153
+zgr 138
+zgu 64
+zgw 3
+zgó 15
+zgę 2
+zgł 41
+zha 3
+zhu 10
+zi  19
+zi, 9
+zi- 2
+zi. 9
+zi? 2
+zia 30
+zic 2
+zie 695
+zig 1
+zik 3
+zil 11
+zim 303
+zin 20
+zio 44
+zip 3
+zis 12
+zió 11
+zią 193
+zić 43
+zię 186
+ził 58
+ziń 1
+ziś 2
+zi… 1
+zka 637
+zki 290
+zkl 15
+zkn 4
+zko 317
+zkr 4
+zks 2
+zku 45
+zkw 4
+zkó 35
+zką 39
+zkę 64
+zkł 26
+zla 840
+zle 200
+zli 500
+zlo 14
+zlu 8
+zlą 10
+zlę 11
+zm  7
+zm, 1
+zm. 39
+zma 288
+zme 32
+zmi 536
+zmn 22
+zmo 489
+zmr 17
+zmu 21
+zmy 99
+zm¹ 1
+zmó 16
+zmą 21
+zmę 40
+zm… 1
+zn, 1
+zna 1812
+zne 376
+zni 1328
+zno 400
+znu 69
+zny 587
+znó 253
+zną 128
+znę 85
+znĳ 8
+zo  31
+zo, 15
+zo. 3
+zo: 1
+zoa 1
+zob 97
+zoc 12
+zod 49
+zof 2
+zoh 1
+zoi 1
+zok 1
+zol 49
+zom 85
+zon 627
+zop 20
+zor 263
+zos 542
+zot 23
+zow 421
+zoz 1
+zoł 141
+zoś 20
+zoǳ 2
+zoﬁ 2
+zpa 144
+zpe 15
+zpi 253
+zpl 1
+zpo 235
+zpr 105
+zpu 41
+zpy 5
+zpó 3
+zpę 16
+zpł 12
+zra 94
+zre 73
+zro 171
+zru 46
+zry 25
+zrz 51
+zró 27
+zrą 4
+zrę 11
+zsa 16
+zse 11
+zsi 39
+zsk 4
+zsm 1
+zst 73
+zsu 4
+zsy 24
+zsz 37
+zsą 5
+zsł 2
+zt  7
+zt, 1
+zt. 2
+zta 204
+zte 256
+ztk 30
+zto 323
+ztr 41
+ztu 158
+ztw 3
+zty 100
+zt¹ 2
+ztó 2
+ztą 114
+ztę 32
+zu  504
+zu! 45
+zu) 1
+zu, 147
+zu- 1
+zu. 65
+zu: 4
+zu; 8
+zu? 6
+zub 30
+zuc 565
+zug 11
+zui 7
+zuk 190
+zul 36
+zum 310
+zun 6
+zup 201
+zur 54
+zus 53
+zut 26
+zuw 35
+zu² 1
+zu³ 1
+zu¹ 2
+zuć 24
+zuę 1
+zuł 108
+zuż 2
+zuǳ 1
+zu… 6
+zu⁈ 1
+zuﬂ 5
+zw. 7
+zwa 499
+zwe 1624
+zwi 519
+zwl 10
+zwo 216
+zwr 252
+zws 2
+zwy 378
+zwz 1
+zwó 38
+zwą 33
+zwę 8
+zwĳ 9
+zwł 162
+zwś 4
+zy  5126
+zy! 49
+zy) 1
+zy, 724
+zy- 2
+zy. 318
+zy: 32
+zy; 18
+zy? 32
+zya 14
+zyb 450
+zyc 811
+zyd 173
+zyg 158
+zyh 9
+zyi 24
+zyk 1122
+zyl 388
+zym 1812
+zyn 1533
+zyo 17
+zyp 3055
+zyr 65
+zys 2724
+zyt 303
+zyu 2
+zyw 773
+zyz 417
+zy² 10
+zy³ 1
+zy¹ 11
+zyć 568
+zyę 1
+zył 1531
+zyń 55
+zyś 72
+zyź 112
+zyż 136
+zyǳ 81
+zy… 20
+zy⁵ 1
+zy⁶ 1
+zy⁷ 1
+zy⁹ 1
+zza 31
+zzi 2
+zzu 2
+zzw 1
+z²² 3
+z²³ 1
+z²¹ 1
+z²⁵ 1
+z³¹ 1
+z¹² 1
+z¹³ 1
+z¹¹ 2
+z¹⁰ 4
+z¹⁴ 3
+z¹⁵ 2
+z¹⁶ 1
+z¹⁷ 3
+z¹⁸ 1
+z¹⁹ 1
+zé, 1
+zód 269
+zór 49
+zós 8
+zów 316
+zóz 2
+zół 12
+zą  473
+zą! 16
+zą, 102
+zą. 61
+zą: 4
+zą; 3
+zą? 5
+ząb 5
+ząc 441
+ząd 91
+ząg 2
+ząk 9
+ząp 7
+ząs 81
+ząt 118
+ząw 12
+zą¹ 4
+ząć 29
+zął 579
+ząś 19
+ząż 2
+ząǳ 81
+zą” 1
+zą… 14
+zę  234
+zę! 40
+zę, 128
+zę. 51
+zę: 5
+zę; 1
+zę? 10
+zęb 69
+zęc 28
+zęd 103
+zęg 5
+zęk 50
+zęl 184
+zęm 1
+zęp 3
+zęs 307
+zęt 150
+zęz 7
+zę² 2
+zę³ 2
+zęć 12
+zęł 367
+zęś 497
+zęż 21
+zęǳ 152
+zę” 1
+zę… 13
+zę⁵ 1
+zę⁹ 1
+zł  79
+zł! 2
+zł, 23
+zł. 9
+zł: 2
+zł; 1
+zł? 6
+zła 336
+złb 4
+złe 242
+zło 809
+złs 3
+złu 11
+zły 216
+złą 22
+zł… 6
+zśm 22
+zśw 4
+zża 4
+zże 25
+zżu 1
+zży 3
+zǳi 99
+z”, 1
+z…  52
+z…” 1
+z⁈  2
+z⁈… 1
+z⁴¹ 1
+z⁴⁶ 1
+z⁷² 1
+z⁷⁴ 1
+z⁹¹ 1
+z⁹⁵ 1
+z⁹⁷ 1
+z⁹⁹ 1
+² ( 7
+² L 1
+² W 1
+² a 1
+² b 4
+² c 4
+² d 10
+² e 2
+² g 1
+² i 6
+² k 2
+² l 2
+² m 10
+² n 16
+² o 53
+² p 36
+² r 1
+² s 14
+² t 22
+² u 3
+² w 10
+² z 15
+² ł 1
+² ż 1
+² ǳ 1
+² — 2
+² ” 1
+² ﬁ 1
+²!  1
+²!” 1
+²,  46
+².  15
+²;  6
+²?  3
+²P  1
+²o  1
+²p  10
+²po 3
+²t  3
+²to 2
+²²  21
+²²! 1
+²², 6
+²². 1
+²²p 2
+²²t 1
+²²² 26
+²²³ 26
+²²¹ 26
+²²… 1
+²²⁰ 26
+²²⁴ 26
+²²⁵ 26
+²²⁶ 26
+²²⁷ 26
+²²⁸ 26
+²²⁹ 26
+²³  24
+²³, 4
+²³. 2
+²³: 1
+²³p 4
+²³² 26
+²³³ 26
+²³¹ 26
+²³⁰ 26
+²³⁴ 26
+²³⁵ 26
+²³⁶ 26
+²³⁷ 26
+²³⁸ 26
+²³⁹ 26
+²¹  20
+²¹! 1
+²¹, 4
+²¹. 2
+²¹; 1
+²¹o 1
+²¹p 4
+²¹² 26
+²¹³ 26
+²¹¹ 26
+²¹” 1
+²¹… 1
+²¹⁰ 26
+²¹⁴ 26
+²¹⁵ 26
+²¹⁶ 26
+²¹⁷ 26
+²¹⁸ 26
+²¹⁹ 26
+²”, 1
+²…  2
+²⁰  29
+²⁰! 2
+²⁰, 5
+²⁰. 2
+²⁰o 1
+²⁰p 1
+²⁰t 1
+²⁰² 26
+²⁰³ 26
+²⁰¹ 26
+²⁰⁰ 26
+²⁰⁴ 26
+²⁰⁵ 26
+²⁰⁶ 26
+²⁰⁷ 26
+²⁰⁸ 26
+²⁰⁹ 26
+²⁴  22
+²⁴! 2
+²⁴, 3
+²⁴. 4
+²⁴? 1
+²⁴P 2
+²⁴o 1
+²⁴p 2
+²⁴t 1
+²⁴² 26
+²⁴³ 26
+²⁴¹ 26
+²⁴… 1
+²⁴⁰ 26
+²⁴⁴ 26
+²⁴⁵ 26
+²⁴⁶ 26
+²⁴⁷ 26
+²⁴⁸ 26
+²⁴⁹ 26
+²⁵  23
+²⁵, 5
+²⁵. 2
+²⁵? 1
+²⁵P 1
+²⁵p 1
+²⁵² 6
+²⁵³ 6
+²⁵¹ 14
+²⁵⁰ 26
+²⁵⁴ 6
+²⁵⁵ 6
+²⁵⁶ 6
+²⁵⁷ 6
+²⁵⁸ 6
+²⁵⁹ 6
+²⁶  23
+²⁶, 6
+²⁶. 2
+²⁶p 2
+²⁶t 1
+²⁶² 6
+²⁶³ 6
+²⁶¹ 6
+²⁶” 1
+²⁶… 2
+²⁶⁰ 6
+²⁶⁴ 6
+²⁶⁵ 6
+²⁶⁶ 6
+²⁶⁷ 6
+²⁶⁸ 6
+²⁶⁹ 6
+²⁷  25
+²⁷, 6
+²⁷. 1
+²⁷; 1
+²⁷o 1
+²⁷p 5
+²⁷² 6
+²⁷³ 6
+²⁷¹ 6
+²⁷… 1
+²⁷⁰ 6
+²⁷⁴ 6
+²⁷⁵ 6
+²⁷⁶ 6
+²⁷⁷ 6
+²⁷⁸ 6
+²⁷⁹ 6
+²⁸  22
+²⁸! 1
+²⁸, 3
+²⁸. 4
+²⁸o 1
+²⁸p 1
+²⁸² 6
+²⁸³ 6
+²⁸¹ 6
+²⁸… 2
+²⁸⁰ 6
+²⁸⁴ 6
+²⁸⁵ 6
+²⁸⁶ 6
+²⁸⁷ 6
+²⁸⁸ 6
+²⁸⁹ 6
+²⁹  22
+²⁹, 7
+²⁹. 2
+²⁹? 1
+²⁹p 1
+²⁹² 6
+²⁹³ 6
+²⁹¹ 6
+²⁹… 1
+²⁹⁰ 6
+²⁹⁴ 6
+²⁹⁵ 6
+²⁹⁶ 6
+²⁹⁷ 6
+²⁹⁸ 6
+²⁹⁹ 6
+³ ( 6
+³ K 1
+³ L 2
+³ N 1
+³ P 2
+³ S 1
+³ a 2
+³ b 1
+³ c 4
+³ d 2
+³ e 2
+³ g 1
+³ i 15
+³ k 5
+³ l 2
+³ m 8
+³ n 10
+³ o 48
+³ p 39
+³ r 4
+³ s 13
+³ t 29
+³ u 2
+³ w 8
+³ z 15
+³ ó 1
+³ ć 1
+³ ś 2
+³ ǳ 1
+³ — 4
+³ ” 1
+³ … 1
+³!  8
+³!” 1
+³,  44
+³.  9
+³:  1
+³;  1
+³?  3
+³?” 1
+³Po 1
+³o  1
+³op 1
+³p  7
+³po 12
+³t  2
+³to 1
+³²  27
+³², 3
+³². 3
+³²o 1
+³²p 1
+³²t 3
+³²² 6
+³²³ 6
+³²¹ 6
+³²⁰ 6
+³²⁴ 6
+³²⁵ 6
+³²⁶ 6
+³²⁷ 6
+³²⁸ 6
+³²⁹ 6
+³³  20
+³³, 9
+³³. 1
+³³; 1
+³³o 2
+³³p 2
+³³t 1
+³³² 6
+³³³ 6
+³³¹ 6
+³³⁰ 6
+³³⁴ 6
+³³⁵ 6
+³³⁶ 6
+³³⁷ 6
+³³⁸ 6
+³³⁹ 6
+³¹  22
+³¹! 1
+³¹, 7
+³¹. 2
+³¹? 1
+³¹o 2
+³¹p 2
+³¹t 1
+³¹² 6
+³¹³ 6
+³¹¹ 6
+³¹” 1
+³¹⁰ 6
+³¹⁴ 6
+³¹⁵ 6
+³¹⁶ 6
+³¹⁷ 6
+³¹⁸ 6
+³¹⁹ 6
+³”  2
+³…  1
+³…. 1
+³⁰  25
+³⁰! 2
+³⁰, 2
+³⁰. 3
+³⁰o 1
+³⁰p 1
+³⁰t 1
+³⁰² 6
+³⁰³ 6
+³⁰¹ 6
+³⁰⁰ 6
+³⁰⁴ 6
+³⁰⁵ 6
+³⁰⁶ 6
+³⁰⁷ 6
+³⁰⁸ 6
+³⁰⁹ 6
+³⁴  28
+³⁴! 1
+³⁴, 5
+³⁴. 4
+³⁴P 1
+³⁴p 3
+³⁴² 6
+³⁴³ 6
+³⁴¹ 6
+³⁴⁰ 6
+³⁴⁴ 6
+³⁴⁵ 6
+³⁴⁶ 6
+³⁴⁷ 6
+³⁴⁸ 6
+³⁴⁹ 6
+³⁵  23
+³⁵! 2
+³⁵, 3
+³⁵. 3
+³⁵; 2
+³⁵o 2
+³⁵p 2
+³⁵t 1
+³⁵² 6
+³⁵³ 6
+³⁵¹ 6
+³⁵⁰ 6
+³⁵⁴ 6
+³⁵⁵ 6
+³⁵⁶ 6
+³⁵⁷ 6
+³⁵⁸ 6
+³⁵⁹ 6
+³⁶  21
+³⁶! 3
+³⁶, 3
+³⁶. 6
+³⁶? 2
+³⁶o 1
+³⁶p 1
+³⁶t 2
+³⁶² 6
+³⁶³ 6
+³⁶¹ 6
+³⁶⁰ 6
+³⁶⁴ 6
+³⁶⁵ 6
+³⁶⁶ 6
+³⁶⁷ 6
+³⁶⁸ 6
+³⁶⁹ 6
+³⁷  24
+³⁷! 1
+³⁷, 2
+³⁷. 5
+³⁷P 1
+³⁷o 1
+³⁷p 1
+³⁷² 6
+³⁷³ 6
+³⁷¹ 6
+³⁷… 1
+³⁷⁰ 6
+³⁷⁴ 6
+³⁷⁵ 6
+³⁷⁶ 6
+³⁷⁷ 6
+³⁷⁸ 6
+³⁷⁹ 6
+³⁸  26
+³⁸! 1
+³⁸, 4
+³⁸. 1
+³⁸p 1
+³⁸t 2
+³⁸² 6
+³⁸³ 6
+³⁸¹ 6
+³⁸… 1
+³⁸⁰ 6
+³⁸⁴ 6
+³⁸⁵ 6
+³⁸⁶ 6
+³⁸⁷ 6
+³⁸⁸ 6
+³⁸⁹ 6
+³⁹  18
+³⁹, 4
+³⁹. 8
+³⁹o 1
+³⁹p 3
+³⁹² 6
+³⁹³ 6
+³⁹¹ 6
+³⁹⁰ 6
+³⁹⁴ 6
+³⁹⁵ 6
+³⁹⁶ 6
+³⁹⁷ 6
+³⁹⁸ 6
+³⁹⁹ 6
+¹ ( 7
+¹ A 1
+¹ K 1
+¹ N 1
+¹ P 1
+¹ T 1
+¹ a 1
+¹ b 7
+¹ c 3
+¹ d 7
+¹ e 1
+¹ g 2
+¹ i 14
+¹ k 5
+¹ m 7
+¹ n 12
+¹ o 50
+¹ p 31
+¹ r 3
+¹ s 17
+¹ t 30
+¹ u 2
+¹ w 11
+¹ z 10
+¹ ę 1
+¹ ś 1
+¹ — 4
+¹ ” 1
+¹ … 1
+¹!  3
+¹!… 1
+¹,  43
+¹.  13
+¹:  1
+¹;  2
+¹?” 1
+¹P  1
+¹p  9
+¹po 9
+¹t  4
+¹²  22
+¹², 7
+¹². 4
+¹²o 1
+¹²p 3
+¹²t 3
+¹²² 26
+¹²³ 26
+¹²¹ 26
+¹²⁰ 26
+¹²⁴ 26
+¹²⁵ 26
+¹²⁶ 26
+¹²⁷ 26
+¹²⁸ 26
+¹²⁹ 26
+¹³  26
+¹³, 5
+¹³. 1
+¹³? 3
+¹³p 2
+¹³² 26
+¹³³ 26
+¹³¹ 26
+¹³” 1
+¹³… 1
+¹³⁰ 26
+¹³⁴ 26
+¹³⁵ 26
+¹³⁶ 26
+¹³⁷ 26
+¹³⁸ 26
+¹³⁹ 26
+¹¹  30
+¹¹, 2
+¹¹. 5
+¹¹P 1
+¹¹p 3
+¹¹t 1
+¹¹² 26
+¹¹³ 26
+¹¹¹ 26
+¹¹⁰ 26
+¹¹⁴ 26
+¹¹⁵ 19
+¹¹⁶ 26
+¹¹⁷ 26
+¹¹⁸ 26
+¹¹⁹ 26
+¹”  3
+¹”. 1
+¹…  3
+¹⁰  28
+¹⁰, 2
+¹⁰. 2
+¹⁰; 2
+¹⁰p 3
+¹⁰² 26
+¹⁰³ 26
+¹⁰¹ 26
+¹⁰⁰ 26
+¹⁰⁴ 26
+¹⁰⁵ 26
+¹⁰⁶ 26
+¹⁰⁷ 26
+¹⁰⁸ 26
+¹⁰⁹ 26
+¹⁴  26
+¹⁴, 7
+¹⁴. 3
+¹⁴p 7
+¹⁴² 26
+¹⁴³ 26
+¹⁴¹ 26
+¹⁴⁰ 26
+¹⁴⁴ 26
+¹⁴⁵ 26
+¹⁴⁶ 26
+¹⁴⁷ 26
+¹⁴⁸ 26
+¹⁴⁹ 26
+¹⁵  22
+¹⁵, 7
+¹⁵. 2
+¹⁵o 1
+¹⁵p 3
+¹⁵² 25
+¹⁵³ 25
+¹⁵¹ 25
+¹⁵⁰ 26
+¹⁵⁴ 25
+¹⁵⁵ 25
+¹⁵⁶ 24
+¹⁵⁷ 26
+¹⁵⁸ 26
+¹⁵⁹ 26
+¹⁶  21
+¹⁶, 4
+¹⁶. 5
+¹⁶p 2
+¹⁶² 26
+¹⁶³ 26
+¹⁶¹ 26
+¹⁶” 1
+¹⁶… 1
+¹⁶⁰ 26
+¹⁶⁴ 26
+¹⁶⁵ 26
+¹⁶⁶ 26
+¹⁶⁷ 26
+¹⁶⁸ 26
+¹⁶⁹ 26
+¹⁷  21
+¹⁷! 2
+¹⁷, 4
+¹⁷. 4
+¹⁷? 2
+¹⁷o 2
+¹⁷p 4
+¹⁷² 26
+¹⁷³ 26
+¹⁷¹ 26
+¹⁷… 1
+¹⁷⁰ 26
+¹⁷⁴ 26
+¹⁷⁵ 26
+¹⁷⁶ 26
+¹⁷⁷ 26
+¹⁷⁸ 26
+¹⁷⁹ 26
+¹⁸  17
+¹⁸! 1
+¹⁸, 8
+¹⁸. 1
+¹⁸n 1
+¹⁸o 1
+¹⁸p 5
+¹⁸t 1
+¹⁸² 26
+¹⁸³ 26
+¹⁸¹ 26
+¹⁸⁰ 26
+¹⁸⁴ 26
+¹⁸⁵ 26
+¹⁸⁶ 26
+¹⁸⁷ 26
+¹⁸⁸ 26
+¹⁸⁹ 26
+¹⁹  23
+¹⁹, 6
+¹⁹. 1
+¹⁹; 2
+¹⁹o 1
+¹⁹p 5
+¹⁹t 1
+¹⁹² 26
+¹⁹³ 26
+¹⁹¹ 26
+¹⁹” 1
+¹⁹⁰ 26
+¹⁹⁴ 26
+¹⁹⁵ 26
+¹⁹⁶ 26
+¹⁹⁷ 26
+¹⁹⁸ 26
+¹⁹⁹ 26
+Ów  12
+Ów, 2
+ákó 1
+é,  1
+ó ! 42
+ó ( 1
+ó ) 1
+ó , 56
+ó . 11
+ó ? 1
+ó B 3
+ó C 2
+ó K 1
+ó P 1
+ó R 1
+ó S 1
+ó W 2
+ó Z 2
+ó a 8
+ó b 6
+ó c 32
+ó d 118
+ó e 29
+ó f 1
+ó g 3
+ó h 3
+ó i 15
+ó k 41
+ó l 4
+ó m 15
+ó n 37
+ó o 16
+ó p 28
+ó r 6
+ó s 56
+ó t 8
+ó u 11
+ó w 16
+ó z 21
+ó ó 3
+ó ł 1
+ó ś 31
+ó ż 7
+ó ǳ 74
+ó — 5
+ó … 3
+ó ‼ 1
+ób  53
+ób! 2
+ób, 21
+ób. 8
+ób: 2
+ób; 1
+óba 4
+óbc 1
+óbl 4
+óbo 52
+óbr 22
+óbu 23
+óby 4
+óbę 3
+óbż 1
+óc  8
+óc, 4
+óc. 1
+óc? 1
+óce 14
+óch 194
+óci 516
+óco 21
+ócz 175
+ócą 11
+ócę 17
+ód  416
+ód! 15
+ód) 1
+ód, 123
+ód. 36
+ód: 1
+ód? 2
+ódc 96
+óde 3
+ódk 20
+ódl 6
+ódm 4
+ódn 2
+ódy 3
+ód¹ 2
+ódł 57
+ódź 12
+ód… 1
+óec 1
+óg  488
+óg! 21
+óg) 2
+óg, 94
+óg. 9
+óg; 1
+ógł 437
+óg” 1
+óg… 1
+óki 125
+ókł 5
+ól  408
+ól! 13
+ól, 78
+ól. 89
+ól: 3
+ól? 7
+óla 289
+ólc 13
+óle 431
+óli 2
+ólk 1
+óln 110
+ólo 185
+óls 9
+ólu 58
+óló 14
+ólż 4
+ól‥ 1
+ól… 1
+óp  6
+óp, 1
+ópe 1
+ór  153
+ór! 1
+ór) 2
+ór, 33
+ór. 15
+ór; 8
+ór? 1
+óra 346
+órc 19
+óre 1092
+órk 44
+órn 21
+óro 26
+órs 26
+óru 10
+óry 1461
+órz 722
+ór¹ 1
+óró 3
+órą 192
+órę 86
+ós  1
+ós. 1
+ósm 6
+óst 45
+ósz 2
+ósł 206
+ót  54
+ót! 2
+ót, 12
+ót. 5
+ót; 1
+ót? 1
+ótc 100
+ótk 68
+ótn 23
+óts 4
+óty 14
+ótł 9
+ów  2654
+ów! 87
+ów) 1
+ów, 1006
+ów- 4
+ów. 408
+ów: 54
+ów; 27
+ów? 34
+ówc 205
+ówe 11
+ówi 1157
+ówk 39
+ówm 2
+ówn 500
+ów² 26
+ów³ 5
+ów¹ 55
+ówż 2
+ówǳ 1
+ów” 7
+ów… 31
+ów‼ 1
+ów⁴ 6
+ów⁵ 5
+ów⁶ 10
+ów⁷ 6
+ów⁸ 10
+ów⁹ 5
+óz  54
+óz! 2
+óz, 20
+óz. 8
+óz: 3
+óz; 1
+óze 13
+ózg 8
+ózk 2
+ózw 54
+ózł 42
+ó¹¹ 1
+ó¹⁷ 1
+óć  5
+óć) 1
+óćm 1
+ół  258
+ół! 7
+ół) 2
+ół, 55
+ół- 4
+ół. 23
+ół; 2
+ółb 4
+ółc 25
+ółe 10
+ółg 13
+ółk 56
+ółm 14
+ółn 78
+óło 8
+ółp 6
+ółs 1
+ółt 42
+ółw 2
+óły 3
+ółz 3
+ółó 2
+ółć 1
+ółǳ 4
+ół… 3
+óśb 2
+óść 5
+óź, 1
+óźb 3
+óźd 3
+óźn 236
+óź² 1
+óż  181
+óż! 8
+óż, 24
+óż. 3
+óż; 1
+óż? 3
+óża 17
+óżb 12
+óżc 2
+óże 32
+óżk 16
+óżm 2
+óżn 231
+óżo 14
+óży 22
+óżą 1
+óżę 1
+óżż 1
+óż… 1
+óǳ  27
+óǳ! 5
+óǳ, 9
+óǳ. 1
+óǳi 1
+óǳt 68
+öld 2
+öm  1
+örg 1
+öss 14
+ött 1
+ühn 10
+üll 10
+ütz 4
+ą ( 3
+ą A 11
+ą B 22
+ą C 1
+ą D 4
+ą E 3
+ą F 1
+ą G 9
+ą H 3
+ą I 2
+ą J 13
+ą K 25
+ą L 12
+ą M 10
+ą N 26
+ą O 7
+ą P 17
+ą R 38
+ą S 34
+ą T 7
+ą U 1
+ą W 8
+ą Z 6
+ą [ 3
+ą a 159
+ą b 217
+ą c 260
+ą d 310
+ą e 116
+ą f 38
+ą g 169
+ą h 29
+ą i 483
+ą k 272
+ą l 64
+ą m 309
+ą n 548
+ą o 336
+ą p 721
+ą r 268
+ą s 677
+ą t 285
+ą u 162
+ą v 1
+ą w 655
+ą z 431
+ą ó 2
+ą ą 9
+ą ć 1
+ą ę 2
+ą ł 18
+ą ś 40
+ą ź 1
+ą ż 29
+ą ǳ 43
+ą — 82
+ą „ 2
+ą  1
+ą ﬁ 3
+ą ﬂ 1
+ą!  110
+ą!” 8
+ą!… 30
+ą)  1
+ą). 2
+ą); 2
+ą,  1578
+ą-K 2
+ą.  479
+ą.A 1
+ą.” 7
+ą:  16
+ą;  83
+ą?  28
+ą?” 2
+ą?… 13
+ąb  27
+ąb! 1
+ąb, 5
+ąb. 2
+ąba 15
+ąbe 3
+ąbi 17
+ąbk 16
+ąbn 1
+ąbr 5
+ąbs 1
+ąby 28
+ąbę 1
+ąbł 1
+ąc  1520
+ąc! 4
+ąc) 1
+ąc, 366
+ąc. 73
+ąc: 37
+ąc; 6
+ąc? 5
+ąca 202
+ące 549
+ąch 9
+ąci 53
+ąco 23
+ącu 5
+ący 850
+ącz 224
+ąc² 4
+ąc¹ 6
+ącą 108
+ąc… 2
+ąc⁵ 1
+ąd  313
+ąd! 4
+ąd, 32
+ąd. 11
+ąd? 9
+ąda 312
+ądc 2
+ąde 33
+ądi 3
+ądk 35
+ądl 3
+ądn 15
+ądo 5
+ądr 41
+ądu 21
+ądy 18
+ądó 8
+ądą 1
+ądę 3
+ądł 3
+ądś 2
+ądź 91
+ądż 13
+ąd⁈ 1
+ąg  20
+ąg, 6
+ąg. 3
+ąga 143
+ągi 151
+ągl 110
+ągn 354
+ągo 1
+ągu 11
+ągw 329
+ągó 2
+ągł 40
+ąg⁴ 1
+ąk  75
+ąk! 2
+ąk, 11
+ąk. 4
+ąka 38
+ąki 19
+ąkn 8
+ąko 1
+ąku 1
+ąkó 2
+ąkę 3
+ąkł 20
+ąli 2
+ąm  1
+ąp  3
+ąp! 1
+ąpa 7
+ąpc 3
+ąpe 1
+ąpi 286
+ąpo 8
+ąps 1
+ąpy 1
+ąs  6
+ąs, 3
+ąs. 1
+ąsa 72
+ąse 5
+ąsi 98
+ąsk 40
+ąsn 29
+ąso 38
+ąst 6
+ąsy 30
+ąsz 14
+ąsó 5
+ąsł 15
+ąt  66
+ąt, 12
+ąt. 3
+ąta 29
+ąte 43
+ątk 118
+ątl 11
+ątn 7
+ąto 1
+ątp 85
+ątr 32
+ątw 3
+ąty 19
+ątó 1
+ątą 3
+ąt” 2
+ąt… 1
+ąwo 19
+ąws 124
+ąwó 5
+ąza 95
+ąze 24
+ązk 22
+ązo 1
+ązu 7
+ązy 10
+ą²² 3
+ą²³ 1
+ą²¹ 5
+ą²⁰ 4
+ą²⁴ 2
+ą²⁶ 1
+ą³³ 1
+ą³¹ 2
+ą³⁴ 1
+ą³⁸ 1
+ą¹² 1
+ą¹³ 2
+ą¹¹ 4
+ą¹⁰ 2
+ą¹⁴ 4
+ą¹⁵ 3
+ą¹⁶ 2
+ą¹⁷ 2
+ą¹⁸ 1
+ą¹⁹ 3
+ąć  287
+ąć! 16
+ąć, 101
+ąć. 109
+ąć: 4
+ąć; 6
+ąć? 13
+ąćc 1
+ąćm 1
+ąć² 1
+ąć¹ 1
+ąć… 8
+ąć⁷ 2
+ął  1722
+ął! 6
+ął, 171
+ął. 114
+ął: 113
+ął; 3
+ął? 14
+ąłb 7
+ąłe 43
+ął² 2
+ął¹ 1
+ął… 13
+ąś  45
+ąśc 2
+ąśl 1
+ąśm 3
+ąśn 9
+ąść 38
+ąż  76
+ąż! 1
+ąż, 7
+ąż. 2
+ąża 15
+ążc 2
+ąże 42
+ążk 8
+ążl 4
+ążn 1
+ążo 23
+ążp 2
+ążs 1
+ąży 144
+ążą 27
+ążę 1146
+ążż 1
+ąǳ  177
+ąǳ, 15
+ąǳ. 6
+ąǳa 34
+ąǳe 60
+ąǳi 149
+ąǳo 14
+ąǳt 1
+ąǳy 1
+ąǳó 1
+ąǳą 16
+ąǳę 11
+ą”  3
+ą”, 1
+ą…  89
+ą…” 2
+ą⁴² 1
+ą⁴¹ 1
+ą⁴⁴ 1
+ą⁴⁷ 2
+ą⁵¹ 1
+ą⁷³ 1
+ą⁷⁸ 2
+ą⁸¹ 2
+ą⁸⁹ 1
+ą⁹⁴ 1
+Ćwi 1
+ć ( 9
+ć A 3
+ć B 22
+ć C 5
+ć E 2
+ć F 1
+ć G 1
+ć J 6
+ć K 24
+ć L 18
+ć M 1
+ć N 2
+ć O 5
+ć P 4
+ć R 10
+ć S 23
+ć T 5
+ć U 2
+ć W 9
+ć Z 1
+ć a 158
+ć b 278
+ć c 193
+ć d 319
+ć e 127
+ć f 10
+ć g 183
+ć h 20
+ć i 582
+ć k 213
+ć l 71
+ć m 448
+ć n 830
+ć o 330
+ć p 709
+ć r 150
+ć s 789
+ć t 286
+ć u 104
+ć w 635
+ć z 513
+ć ó 2
+ć ą 25
+ć ę 5
+ć ł 18
+ć ś 27
+ć ź 1
+ć Ż 1
+ć ż 57
+ć ǳ 19
+ć — 171
+ć „ 5
+ć  1
+ć  1
+ć ﬁ 2
+ć!  303
+ć!) 1
+ć!” 18
+ć!… 57
+ć)  13
+ć,  2544
+ć-L 2
+ć.  1017
+ć.” 7
+ć:  53
+ć;  121
+ć?  148
+ć?” 6
+ć?… 42
+ćby 207
+ćca 2
+ćci 7
+ćkr 1
+ćli 1
+ćma 7
+ćmi 25
+ćmy 9
+ćpa 558
+ćse 9
+ćuc 3
+ćwi 45
+ć²² 3
+ć²¹ 3
+ć²⁰ 3
+ć²⁴ 3
+ć²⁵ 1
+ć²⁷ 2
+ć²⁸ 2
+ć³¹ 1
+ć³⁰ 1
+ć³⁴ 1
+ć³⁹ 1
+ć¹² 3
+ć¹³ 3
+ć¹¹ 6
+ć¹⁰ 1
+ć¹⁴ 1
+ć¹⁵ 3
+ć¹⁶ 3
+ć¹⁸ 1
+ć¹⁹ 4
+ćże 5
+ćǳi 26
+ć”  8
+ć…  167
+ć…. 1
+ć…” 9
+ć⁈  7
+ć⁈… 1
+ć⁴³ 1
+ć⁴⁰ 2
+ć⁴⁶ 1
+ć⁴⁷ 1
+ć⁴⁸ 1
+ć⁴⁹ 2
+ć⁵⁵ 1
+ć⁵⁶ 2
+ć⁶⁵ 1
+ć⁶⁹ 1
+ć⁷⁴ 2
+ć⁷⁵ 1
+ć⁷⁹ 1
+ć⁹² 1
+ć⁹¹ 2
+ć⁹⁶ 1
+ę ( 6
+ę A 14
+ę B 147
+ę C 13
+ę D 2
+ę E 2
+ę G 6
+ę H 30
+ę J 44
+ę K 37
+ę L 7
+ę M 16
+ę N 12
+ę O 18
+ę P 14
+ę R 39
+ę S 41
+ę T 9
+ę W 15
+ę Z 9
+ę a 269
+ę b 309
+ę c 514
+ę d 769
+ę e 253
+ę f 20
+ę g 198
+ę h 33
+ę i 674
+ę k 441
+ę l 110
+ę m 401
+ę n 1462
+ę o 691
+ę p 1489
+ę r 282
+ę s 788
+ę t 728
+ę u 296
+ę w 1694
+ę z 1608
+ę ó 9
+ę ą 6
+ę ę 4
+ę ł 39
+ę ś 69
+ę ź 3
+ę ż 50
+ę ǳ 98
+ę — 139
+ę „ 4
+ę  3
+ę  1
+ę ﬁ 2
+ę!  193
+ę!” 13
+ę!… 49
+ę)  4
+ę), 1
+ę). 6
+ę,  2079
+ę-U 1
+ę-g 2
+ę-l 1
+ę.  367
+ę.” 8
+ę:  25
+ę;  65
+ę?  36
+ę?” 1
+ę?… 8
+ęb  4
+ęba 70
+ębe 9
+ębi 138
+ębl 1
+ębn 23
+ębo 85
+ębr 1
+ębs 11
+ębu 3
+ęby 64
+ębó 6
+ębą 4
+ębę 27
+ębł 1
+ęc  630
+ęc! 1
+ęc, 13
+ęca 234
+ęce 831
+ęch 1
+ęci 865
+ęck 2
+ęco 14
+ęcy 145
+ęcz 360
+ęcą 43
+ęcę 3
+ęc… 1
+ęd  6
+ęd, 1
+ęda 6
+ędc 17
+ęde 43
+ędk 82
+ędl 10
+ędn 37
+ędo 8
+ędr 45
+ędu 52
+ędy 89
+ędó 11
+ędą 174
+ędę 150
+ędł 9
+ędź 5
+ęg  1
+ęg. 3
+ęga 98
+ęgi 83
+ęgl 18
+ęgn 61
+ęgo 3
+ęgr 29
+ęgu 15
+ęgó 2
+ęgą 29
+ęgę 44
+ęgł 13
+ęk  32
+ęk! 3
+ęk, 1
+ęk. 2
+ęk: 1
+ęka 169
+ękc 11
+ęki 172
+ękk 11
+ękl 16
+ękn 121
+ęko 148
+ęks 352
+ęku 211
+ękó 7
+ęką 144
+ękę 179
+ękł 36
+ęli 415
+ęm  1
+ęmi 1
+ęp  17
+ęp, 21
+ęp. 1
+ępa 8
+ępc 7
+ępe 15
+ępi 40
+ępk 19
+ępn 185
+ępo 82
+ęps 12
+ępu 114
+ępy 28
+ępó 8
+ępą 5
+ęp” 1
+ęs  1
+ęsa 13
+ęsc 14
+ęse 3
+ęsi 26
+ęsk 143
+ęsn 49
+ęso 3
+ęst 477
+ęsy 2
+ęsz 3
+ęsą 3
+ęsę 1
+ęsł 14
+ęt  12
+ęt, 10
+ęt. 7
+ęta 256
+ęte 237
+ętk 8
+ętl 2
+ętn 154
+ęto 208
+ętr 42
+ęts 105
+ętu 28
+ętw 17
+ęty 233
+ęt² 1
+ęt¹ 1
+ętó 10
+ętą 35
+ętę 7
+ęwe 3
+ęwz 24
+ęza 1
+ęzc 35
+ęze 3
+ęzi 56
+ęzl 2
+ęzo 1
+ęzy 65
+ęzó 1
+ęzł 5
+ę²² 5
+ę²³ 6
+ę²¹ 9
+ę²⁰ 7
+ę²⁴ 1
+ę²⁵ 1
+ę²⁷ 1
+ę²⁹ 1
+ę³⁵ 2
+ę³⁶ 1
+ę³⁷ 1
+ę³⁸ 2
+ę¹² 10
+ę¹³ 5
+ę¹¹ 6
+ę¹⁰ 9
+ę¹⁴ 4
+ę¹⁵ 5
+ę¹⁶ 1
+ę¹⁷ 5
+ę¹⁸ 8
+ę¹⁹ 6
+ęć  99
+ęć! 1
+ęć, 14
+ęć. 4
+ęć? 1
+ęćk 1
+ęćs 5
+ęćǳ 25
+ęć… 1
+ęć⁹ 1
+ęła 406
+ęło 175
+ęły 332
+ęś  1
+ęśc 329
+ęśl 93
+ęśm 1
+ęśn 8
+ęść 105
+ęś… 1
+ęźl 3
+ęźn 14
+ęż  13
+ęża 87
+ężc 12
+ęże 112
+ężk 184
+ężm 2
+ężn 323
+ężo 87
+ężs 27
+ężu 4
+ęży 101
+ęż¹ 1
+ężó 21
+ężą 4
+ężę 1
+ęǳa 75
+ęǳe 172
+ęǳi 1018
+ęǳl 1
+ęǳm 9
+ęǳn 8
+ęǳo 15
+ęǳu 10
+ęǳy 450
+ęǳą 25
+ęǳę 4
+ę”  3
+ę”, 5
+ę”. 3
+ę…  113
+ę…” 3
+ę⁈  3
+ę⁈… 2
+ę⁴³ 1
+ę⁴⁴ 2
+ę⁴⁶ 2
+ę⁴⁷ 1
+ę⁴⁸ 1
+ę⁴⁹ 2
+ę⁵³ 1
+ę⁵¹ 1
+ę⁵⁵ 2
+ę⁶³ 2
+ę⁶⁶ 1
+ę⁶⁷ 2
+ę⁶⁹ 1
+ę⁷⁴ 1
+ę⁷⁶ 1
+ę⁷⁸ 1
+ę⁷⁹ 2
+ę⁸¹ 1
+ę⁸⁴ 2
+ę⁸⁸ 1
+ę⁹³ 3
+ę⁹⁰ 1
+ę⁹⁵ 1
+ę⁹⁷ 1
+ę⁹⁸ 1
+ę⁹⁹ 1
+ĳ A 1
+ĳ B 2
+ĳ b 1
+ĳ c 2
+ĳ d 3
+ĳ g 2
+ĳ i 3
+ĳ m 4
+ĳ n 6
+ĳ p 5
+ĳ s 7
+ĳ t 2
+ĳ w 6
+ĳ z 3
+ĳ ł 1
+ĳ — 1
+ĳ!  17
+ĳ!” 7
+ĳ!… 4
+ĳ,  21
+ĳ;  1
+ĳa  37
+ĳa! 1
+ĳa, 4
+ĳa. 1
+ĳa? 1
+ĳac 2
+ĳak 29
+ĳal 11
+ĳam 3
+ĳan 49
+ĳar 1
+ĳat 9
+ĳać 22
+ĳał 50
+ĳań 18
+ĳa… 2
+ĳci 19
+ĳe  11
+ĳe! 1
+ĳe, 11
+ĳe. 8
+ĳe; 1
+ĳe? 1
+ĳec 1
+ĳem 13
+ĳes 7
+ĳe… 3
+ĳka 2
+ĳki 1
+ĳką 1
+ĳmy 9
+ĳna 4
+ĳne 1
+ĳny 1
+ĳną 1
+ĳow 24
+ĳsk 2
+ĳu, 2
+ĳu. 3
+ĳ²⁵ 1
+ĳów 2
+ĳą  10
+ĳą! 7
+ĳą, 12
+ĳą. 3
+ĳą? 3
+ĳąc 19
+ĳą… 1
+ĳę  3
+ĳę! 1
+ĳę, 1
+ĳę. 1
+ĳże 16
+Ład 1
+Łag 1
+Łak 1
+Łam 1
+Łan 1
+Łap 2
+Łas 8
+Łat 15
+Ław 1
+Łaz 2
+Łań 1
+Łbe 2
+Ło  4
+Łok 1
+Łom 2
+Łos 1
+Łot 4
+Łow 6
+Łoǳ 1
+Łub 7
+Ług 9
+Łuk 3
+Łun 5
+Łup 3
+Łus 1
+Łyk 2
+Łzy 14
+Łód 1
+Łąc 2
+Łęc 1
+Łęg 6
+Łże 5
+ł ( 1
+ł A 7
+ł B 63
+ł C 50
+ł D 12
+ł F 4
+ł G 20
+ł H 14
+ł I 3
+ł J 85
+ł K 437
+ł L 13
+ł M 66
+ł N 3
+ł O 25
+ł P 22
+ł R 89
+ł S 174
+ł T 18
+ł U 4
+ł W 167
+ł Z 221
+ł a 235
+ł b 268
+ł c 410
+ł d 651
+ł e 287
+ł f 12
+ł g 473
+ł h 74
+ł i 725
+ł k 621
+ł l 110
+ł m 509
+ł n 1064
+ł o 510
+ł p 1494
+ł r 280
+ł s 2739
+ł t 596
+ł u 221
+ł w 1161
+ł z 1018
+ł ó 11
+ł ą 69
+ł ę 6
+ł ł 22
+ł Ś 3
+ł ś 49
+ł ź 1
+ł Ż 2
+ł ż 71
+ł ǳ 28
+ł — 288
+ł „ 3
+ł  3
+ł  1
+ł  1
+ł ﬂ 2
+ł!  133
+ł!” 10
+ł!… 40
+ł)  3
+ł), 3
+ł)… 1
+ł,  2721
+ł-c 2
+ł-k 2
+ł-m 1
+ł.  783
+ł.) 6
+ł.: 2
+ł.” 10
+ł:  65
+ł;  95
+ł?  98
+ł?” 3
+ł?… 16
+ła  3741
+ła! 60
+ła, 529
+ła- 1
+ła. 320
+ła: 31
+ła; 22
+ła? 39
+łab 147
+łac 1047
+ład 528
+łag 91
+łah 3
+łak 69
+łal 71
+łam 458
+łan 325
+łap 66
+łas 752
+łat 209
+ław 1046
+łaz 27
+ła² 13
+ła¹ 50
+łaą 1
+łać 171
+łał 497
+łań 47
+łaś 339
+łaź 4
+łaż 11
+łaǳ 90
+ła” 1
+ła… 49
+ła⁴ 1
+ła⁵ 1
+ła⁶ 5
+ła⁷ 4
+ła⁸ 3
+ła⁹ 4
+łba 22
+łbe 7
+łbi 10
+łbo 2
+łbr 2
+łby 431
+łbó 4
+łce 12
+łci 21
+łco 1
+łcy 6
+łcz 14
+łd  4
+łd, 2
+łd. 30
+łda 24
+łde 1
+łdr 4
+łdu 20
+łdy 3
+łdó 2
+łe  559
+łe! 1
+łe, 31
+łe. 5
+łe; 1
+łe? 1
+łeb 43
+łec 29
+łeg 187
+łek 308
+łem 1107
+łen 15
+łes 4
+łez 8
+łeć 5
+łeś 206
+łe… 1
+łga 18
+łgo 4
+łgę 3
+łgł 9
+łk  29
+łk, 5
+łk. 1
+łka 115
+łki 237
+łkl 2
+łkn 6
+łko 357
+łks 5
+łku 48
+łkó 40
+łką 4
+łkę 19
+łkł 3
+łli 2
+łlo 2
+łm  11
+łma 9
+łme 1
+łmi 18
+łmo 51
+łmu 8
+łmy 12
+łmó 4
+łn. 64
+łna 26
+łne 29
+łni 1211
+łno 93
+łny 16
+łną 15
+łnę 2
+ło  2750
+ło! 64
+ło) 1
+ło, 474
+ło- 2
+ło. 261
+ło: 16
+ło; 15
+ło? 54
+łob 749
+łoc 91
+łod 1031
+łog 163
+łoh 6
+łok 57
+łol 3
+łom 165
+łon 382
+łop 308
+łor 11
+łos 823
+łot 180
+łou 14
+łow 1925
+łoz 18
+ło¹ 1
+łoń 121
+łoś 795
+łoż 400
+łoǳ 90
+ło… 38
+ło⁈ 2
+ło⁸ 1
+łp  1
+łp, 2
+łp. 1
+łpa 28
+łpi 13
+łpl 15
+łpo 1
+łpr 1
+łpy 4
+łpę 1
+łpĳ 1
+łsk 2
+łst 3
+łsz 268
+łt  56
+łt! 3
+łt, 2
+łt. 1
+łta 70
+łte 22
+łtn 2
+łto 44
+łtr 1
+łtu 15
+łty 29
+łtó 7
+łtą 4
+łu  197
+łu! 5
+łu, 33
+łu. 27
+łu: 2
+łu; 2
+łu? 1
+łub 24
+łuc 391
+łud 90
+ług 559
+łuk 40
+łum 205
+łun 22
+łup 205
+łus 234
+łut 3
+łu¹ 1
+łuć 1
+łuł 8
+łuż 611
+łuǳ 19
+łwa 2
+łwi 2
+łwo 1
+łwł 1
+ły  3072
+ły! 40
+ły) 7
+ły, 342
+ły. 181
+ły: 17
+ły; 25
+ły? 10
+łyb 12
+łyc 256
+łyd 3
+łyh 1
+łyk 16
+łym 275
+łyn 183
+łyp 1
+łys 540
+łyt 6
+ływ 108
+ły² 4
+ły¹ 10
+łyń 4
+łyś 5
+łyż 6
+ły” 1
+ły… 14
+łza 40
+łzn 13
+łzy 44
+łzę 1
+łzł 7
+ł²² 6
+ł²³ 5
+ł²¹ 1
+ł²⁰ 3
+ł²⁴ 7
+ł²⁷ 1
+ł¹² 3
+ł¹³ 4
+ł¹¹ 1
+ł¹⁰ 2
+ł¹⁴ 3
+ł¹⁵ 2
+ł¹⁶ 6
+ł¹⁷ 5
+ł¹⁸ 1
+ł¹⁹ 2
+łób 1
+łóc 62
+łód 38
+łóg 3
+łók 1
+łót 23
+łów 379
+łóz 1
+łóż 12
+łą  354
+łą) 1
+łą, 41
+łą. 23
+łą; 1
+łąb 22
+łąc 135
+łąd 11
+łąg 2
+łąk 44
+łąl 1
+łąz 2
+łąǳ 24
+łą… 1
+łć  1
+łę  58
+łę, 22
+łę. 7
+łęb 171
+łęc 9
+łęd 25
+łęg 6
+łęk 49
+łęs 3
+łęz 18
+łęż 2
+łęǳ 2
+łę” 1
+łł  111
+łł! 8
+łł, 28
+łł. 14
+łła 138
+łłe 21
+łło 203
+łły 2
+łł² 1
+łłó 45
+łłą 1
+łł… 1
+łże 44
+łżo 2
+łżó 1
+łżą 2
+łǳi 6
+ł”  1
+ł”. 1
+ł…  127
+ł…. 2
+ł…” 3
+ł⁈  1
+ł⁈… 1
+ł⁴² 2
+ł⁴³ 1
+ł⁴¹ 1
+ł⁵⁰ 1
+ł⁵⁷ 1
+ł⁷² 1
+ł⁷¹ 1
+ł⁷⁶ 1
+ł⁷⁹ 1
+ł⁸⁴ 1
+ł⁸⁸ 1
+ł⁹³ 1
+ł⁹⁵ 1
+ł⁹⁷ 1
+ń B 3
+ń K 3
+ń M 6
+ń N 1
+ń O 1
+ń R 1
+ń S 3
+ń T 2
+ń Z 1
+ń a 8
+ń b 30
+ń c 23
+ń d 34
+ń e 11
+ń f 1
+ń g 5
+ń h 1
+ń i 74
+ń k 11
+ń l 18
+ń m 36
+ń n 47
+ń o 29
+ń p 119
+ń r 26
+ń s 65
+ń t 36
+ń u 21
+ń w 70
+ń z 61
+ń ł 2
+ń ś 7
+ń Ż 1
+ń ż 7
+ń ǳ 3
+ń — 2
+ń  1
+ń!  9
+ń!… 3
+ń,  137
+ń-e 1
+ń.  43
+ń.” 1
+ń:  3
+ń;  10
+ń?  5
+ń?” 1
+ń?… 1
+ńba 36
+ńbi 19
+ńby 11
+ńbą 7
+ńbę 14
+ńca 208
+ńce 159
+ńci 10
+ńco 32
+ńcu 152
+ńcy 69
+ńcz 261
+ńcó 106
+ńcą 1
+ńcę 6
+ńka 192
+ńki 72
+ńko 30
+ńką 18
+ńkę 41
+ńmi 39
+ńmy 5
+ńnę 1
+ńsc 69
+ńsi 4
+ńsk 1139
+ńst 378
+ńsz 13
+ń²⁰ 1
+ń²⁴ 1
+ń¹³ 1
+ń¹⁷ 1
+ń¹⁹ 1
+ńże 6
+ń…  2
+ń…” 1
+ń⁴⁰ 1
+ń⁵⁸ 1
+ń⁶¹ 1
+ń⁸⁰ 1
+Ści 4
+Śla 11
+Śle 4
+Śli 1
+Ślu 4
+Ślą 21
+Śmi 67
+Śni 8
+Śpi 13
+Śre 1
+Śro 3
+Śró 1
+Św. 1
+Świ 77
+ś B 4
+ś C 1
+ś D 1
+ś E 1
+ś F 1
+ś G 1
+ś J 4
+ś K 7
+ś L 1
+ś N 1
+ś P 3
+ś R 7
+ś S 5
+ś T 2
+ś W 8
+ś Z 2
+ś a 17
+ś b 51
+ś c 80
+ś d 86
+ś e 76
+ś f 4
+ś g 68
+ś h 5
+ś i 66
+ś k 63
+ś l 21
+ś m 162
+ś n 160
+ś o 94
+ś p 388
+ś r 76
+ś s 198
+ś t 177
+ś u 70
+ś w 272
+ś z 175
+ś ą 6
+ś ę 1
+ś ł 7
+ś ś 6
+ś ź 1
+ś ż 19
+ś ǳ 19
+ś — 3
+ś „ 2
+ś ﬁ 3
+ś!  18
+ś!” 2
+ś!… 5
+ś,  176
+ś.  10
+ś:  57
+ś;  1
+ś?  10
+ś?” 1
+ś?… 4
+śb  2
+śba 11
+śbi 1
+śby 8
+śbą 12
+śbę 3
+śc. 17
+śce 1
+ści 4765
+ścĳ 16
+śka 5
+śki 1
+śko 1
+śką 1
+śkę 1
+śl  69
+śl! 6
+śl, 45
+śl. 1
+śl: 3
+śl; 1
+śla 389
+ślc 2
+śle 235
+śli 888
+śln 134
+ślo 16
+ślu 62
+ślą 76
+ślę 91
+ślĳ 8
+śm  9
+śmi 674
+śmn 4
+śmo 1
+śms 2
+śmy 428
+śmǳ 4
+śna 2
+śne 27
+śni 818
+śno 45
+śny 51
+śną 5
+śnĳ 3
+śp. 1
+śpi 153
+śpĳ 4
+śr. 6
+śre 41
+śro 121
+śru 2
+śró 128
+świ 1119
+ś¹² 1
+ś¹⁵ 1
+ść  1970
+ść! 124
+ść) 2
+ść, 511
+ść. 188
+ść: 5
+ść; 17
+ść? 28
+śćc 2
+śćm 5
+śćs 2
+śću 3
+ść² 5
+ść¹ 2
+śćǳ 1
+ść” 1
+ść… 35
+ść⁈ 3
+ść⁴ 1
+śń  16
+śń, 3
+śń: 1
+śże 1
+ś…  8
+ś⁈  1
+ś⁶⁶ 1
+Źle 17
+Źli 1
+Źre 1
+Źró 1
+ź B 2
+ź K 5
+ź P 2
+ź R 1
+ź T 1
+ź b 3
+ź c 4
+ź d 17
+ź e 3
+ź g 2
+ź i 8
+ź k 4
+ź l 2
+ź m 20
+ź n 21
+ź o 7
+ź p 22
+ź r 3
+ź s 17
+ź t 8
+ź u 5
+ź w 33
+ź z 24
+ź ł 1
+ź ż 3
+ź — 2
+ź!  14
+ź!” 4
+ź!… 5
+ź,  68
+ź.  11
+ź?  1
+źb  2
+źb, 1
+źba 8
+źbi 2
+źby 9
+źbą 1
+źbę 4
+źbł 3
+źca 12
+źce 2
+źci 57
+źco 1
+źcy 21
+źcó 55
+źcę 2
+źdź 98
+źle 62
+źli 97
+źmi 97
+źmy 48
+źna 16
+źne 49
+źni 476
+źno 47
+źny 46
+źną 16
+źnĳ 3
+źre 30
+źro 1
+źró 3
+źwc 3
+źwi 114
+źwo 1
+źwy 3
+ź²³ 1
+ź²¹ 2
+ź²⁰ 1
+ź³⁰ 1
+ź¹³ 1
+ź¹⁶ 1
+źć  30
+źć! 5
+źć, 16
+źć. 16
+źć? 2
+źć… 2
+źń  15
+źń, 9
+źń. 3
+źń; 1
+źże 23
+źǳi 98
+ź”, 1
+ź…  1
+ź…” 1
+Żad 22
+Żal 5
+Żar 4
+Żał 6
+Że  34
+Żeb 68
+Żeg 7
+Żel 3
+Żem 4
+Żen 2
+Żer 12
+Żeś 1
+Żmu 87
+Żon 5
+Żoł 152
+Żre 1
+Żup 1
+Żwa 1
+Ży  6
+Życ 10
+Żyd 20
+Żym 1
+Żyr 1
+Żyw 36
+Żył 2
+Żyǳ 3
+Żół 4
+Żąd 1
+Żąǳ 1
+ż ( 2
+ż A 1
+ż B 17
+ż C 3
+ż D 2
+ż F 1
+ż H 2
+ż J 6
+ż K 11
+ż L 1
+ż M 5
+ż N 1
+ż O 3
+ż P 5
+ż R 8
+ż S 25
+ż T 1
+ż W 9
+ż Z 3
+ż a 77
+ż b 183
+ż c 112
+ż d 256
+ż e 76
+ż f 4
+ż g 88
+ż h 29
+ż i 173
+ż k 126
+ż l 37
+ż m 201
+ż n 402
+ż o 200
+ż p 403
+ż r 78
+ż s 330
+ż t 349
+ż u 59
+ż w 432
+ż z 261
+ż ó 6
+ż ą 8
+ż ę 1
+ż ł 12
+ż ś 23
+ż ź 1
+ż ż 24
+ż ǳ 16
+ż — 3
+ż  1
+ż  1
+ż!  17
+ż!… 4
+ż)  1
+ż,  204
+ż.  66
+ż:  2
+ż;  5
+ż?  3
+ża  220
+ża! 9
+ża, 48
+ża- 1
+ża. 41
+ża; 5
+ża? 1
+żab 1
+żac 47
+żad 219
+żag 4
+żak 5
+żal 98
+żam 28
+żan 36
+żar 140
+żas 4
+żaw 32
+ża² 1
+ża¹ 3
+żaą 1
+żać 83
+żał 392
+żań 20
+ża… 2
+ża⁈ 1
+ża⁹ 1
+żb  2
+żba 37
+żbi 36
+żbo 6
+żby 96
+żbą 19
+żbę 36
+żci 26
+żcy 3
+żcz 20
+żda 21
+żde 125
+żdy 187
+żdą 32
+żdż 191
+że  5213
+że! 73
+że) 1
+że, 210
+że. 94
+że: 2
+że; 8
+że? 19
+żeb 448
+żec 28
+żeg 87
+żek 30
+żel 275
+żem 286
+żen 340
+żer 5
+żes 92
+żew 4
+że³ 1
+że¹ 4
+żeć 11
+żeń 65
+żeś 212
+żeż 1
+że” 1
+że… 15
+żga 11
+żgn 2
+żka 49
+żki 121
+żko 70
+żku 5
+żkó 1
+żką 11
+żkę 4
+żli 23
+żmi 5
+żmu 16
+żmy 7
+żmĳ 1
+żna 300
+żne 195
+żni 295
+żno 158
+żny 247
+żną 38
+żnę 10
+żnĳ 2
+żo  26
+żo! 2
+żo, 57
+żo. 12
+żo; 1
+żob 1
+żog 6
+żom 10
+żon 400
+żop 1
+żow 45
+żoł 842
+żoś 1
+żpó 2
+żre 3
+żrą 2
+żsa 1
+żsi 11
+ższ 166
+żu  43
+żu, 22
+żu. 5
+żu; 1
+żub 6
+żuc 11
+żuk 2
+żul 2
+żup 9
+żur 10
+żus 7
+żut 1
+żuw 3
+żu² 1
+żuł 4
+żwa 3
+ży  295
+ży! 15
+ży, 86
+ży. 74
+ży: 3
+ży; 1
+ży? 9
+życ 395
+żyd 10
+żyk 2
+żyl 82
+żym 31
+żyn 14
+żys 25
+żyt 68
+żyw 510
+żyz 4
+ży¹ 5
+żyć 228
+żył 420
+żyń 44
+ży” 2
+ży… 8
+ży⁵ 1
+ży⁷ 1
+ży⁸ 1
+ż²² 1
+ż²¹ 1
+ż³⁶ 1
+ż¹³ 1
+ż¹⁴ 1
+ż¹⁷ 1
+żów 29
+żół 38
+żą  53
+żą! 8
+żą, 47
+żą. 21
+żą; 1
+żąc 170
+żąd 56
+żąt 19
+żąǳ 17
+żą… 3
+żę  626
+żę! 31
+żę, 93
+żę. 74
+żę: 3
+żę? 2
+żęc 395
+żęt 11
+żę² 1
+żę¹ 2
+żę… 5
+żę⁴ 1
+żę⁷ 1
+żło 3
+żże 4
+ż…  4
+ż⁴² 1
+ż⁴³ 1
+ż⁴⁶ 1
+ż⁷⁹ 1
+ż⁹⁸ 1
+ǲbo 1
+ǲia 22
+ǲid 1
+ǲie 63
+ǲik 7
+ǲio 1
+ǲiw 53
+ǲię 50
+ǲiś 27
+ǲwo 1
+ǳ A 1
+ǳ B 2
+ǳ C 2
+ǳ D 2
+ǳ G 4
+ǳ K 94
+ǳ M 2
+ǳ P 3
+ǳ S 3
+ǳ T 1
+ǳ W 4
+ǳ a 7
+ǳ b 14
+ǳ c 2
+ǳ d 2
+ǳ e 3
+ǳ i 10
+ǳ k 3
+ǳ l 1
+ǳ m 16
+ǳ n 11
+ǳ o 7
+ǳ p 22
+ǳ r 1
+ǳ s 4
+ǳ t 5
+ǳ u 2
+ǳ w 11
+ǳ z 7
+ǳ ś 1
+ǳ — 3
+ǳ  1
+ǳ!  7
+ǳ,  38
+ǳ.  3
+ǳa  155
+ǳa! 3
+ǳa, 36
+ǳa. 8
+ǳa? 1
+ǳac 2
+ǳal 23
+ǳam 17
+ǳan 26
+ǳar 3
+ǳas 6
+ǳaw 1
+ǳaą 1
+ǳać 54
+ǳał 88
+ǳa… 2
+ǳba 1
+ǳce 6
+ǳci 14
+ǳcy 29
+ǳe  309
+ǳe, 49
+ǳe. 28
+ǳe: 1
+ǳe? 4
+ǳeg 4
+ǳek 3
+ǳel 2
+ǳem 29
+ǳen 183
+ǳew 3
+ǳeń 3
+ǳeś 1
+ǳe… 1
+ǳe⁹ 1
+ǳi  730
+ǳi! 36
+ǳi) 1
+ǳi, 271
+ǳi. 131
+ǳi: 2
+ǳi; 9
+ǳi? 28
+ǳia 1642
+ǳib 3
+ǳic 99
+ǳid 23
+ǳie 4924
+ǳik 81
+ǳil 155
+ǳim 28
+ǳin 259
+ǳio 70
+ǳis 144
+ǳiu 23
+ǳiw 934
+ǳiz 1
+ǳi² 10
+ǳi¹ 1
+ǳió 3
+ǳią 29
+ǳić 408
+ǳię 196
+ǳił 840
+ǳiń 37
+ǳiś 349
+ǳi… 26
+ǳka 69
+ǳki 763
+ǳko 1
+ǳku 9
+ǳką 60
+ǳkę 12
+ǳle 1
+ǳmi 9
+ǳna 5
+ǳne 1
+ǳni 7
+ǳo  172
+ǳo! 2
+ǳo, 15
+ǳo. 11
+ǳom 4
+ǳon 207
+ǳor 1
+ǳow 17
+ǳoz 53
+ǳoś 3
+ǳoż 1
+ǳo… 2
+ǳtw 79
+ǳu  11
+ǳu! 1
+ǳu. 1
+ǳwo 63
+ǳwy 50
+ǳy  484
+ǳy! 1
+ǳy) 1
+ǳy, 35
+ǳy. 17
+ǳy; 1
+ǳy? 2
+ǳyc 3
+ǳyr 2
+ǳys 38
+ǳyw 15
+ǳyń 6
+ǳy… 2
+ǳór 5
+ǳów 26
+ǳą  94
+ǳą! 10
+ǳą, 68
+ǳą. 29
+ǳą? 10
+ǳąc 305
+ǳą… 8
+ǳę  76
+ǳę! 16
+ǳę, 95
+ǳę. 17
+ǳę: 2
+ǳę; 1
+ǳę? 6
+ǳęć 1
+ǳę… 10
+ǳę⁈ 2
+ǳże 12
+– J 1
+– N 1
+– o 2
+–Uł 1
+–XV 5
+– 1
+– 1
+– 4
+– 233
+– 2
+– 2
+– 1
+– 1
+– 1
+– 1
+– 1
+– 1
+– 1
+– 1
+— ( 1
+— A 809
+— B 486
+— C 599
+— D 427
+— E 56
+— F 7
+— G 165
+— H 73
+— I 225
+— J 730
+— K 312
+— L 62
+— M 500
+— N 910
+— O 361
+— P 772
+— R 116
+— S 407
+— T 782
+— U 77
+— V 1
+— W 722
+— Z 379
+— a 277
+— b 227
+— c 231
+— d 266
+— e 109
+— f 14
+— g 57
+— h 35
+— i 182
+— k 308
+— l 45
+— m 500
+— n 229
+— o 1021
+— p 748
+— r 1376
+— s 391
+— t 316
+— u 80
+— w 438
+— z 577
+— Ó 2
+— ó 2
+— ę 7
+— Ł 15
+— ł 12
+— Ś 24
+— ś 28
+— Ź 6
+— ź 2
+— Ż 80
+— ż 109
+— ǲ 95
+— ǳ 184
+— „ 25
+— … 2
+—  1
+— ﬁ 1
+— ﬂ 1
+——  5
+’Ar 2
+” ( 1
+” A 14
+” B 1
+” C 4
+” D 5
+” G 4
+” H 1
+” I 13
+” J 3
+” K 4
+” L 1
+” M 2
+” N 4
+” O 8
+” P 11
+” R 5
+” S 3
+” T 8
+” W 8
+” Z 6
+” a 1
+” b 5
+” c 3
+” d 4
+” e 1
+” i 12
+” k 2
+” m 3
+” n 9
+” o 1
+” p 6
+” r 4
+” s 8
+” t 1
+” w 6
+” z 6
+” Ó 1
+” Ż 1
+” ǲ 1
+” — 126
+” „ 6
+”,  67
+”.  10
+”;  1
+”In 1
+”¹⁹ 1
+”…  1
+„ a 2
+„ e 1
+„ o 4
+„ t 1
+„A  11
+„A! 1
+„Ac 1
+„Ag 2
+„Ah 1
+„Al 5
+„Am 4
+„An 4
+„Ał 1
+„Ba 1
+„Bi 2
+„Bl 1
+„Bo 8
+„Br 1
+„By 3
+„Bó 3
+„Bę 4
+„Bĳ 7
+„Ca 2
+„Ch 8
+„Ci 1
+„Co 6
+„Cz 11
+„Có 1
+„Da 3
+„Di 1
+„Dl 1
+„Do 15
+„Du 2
+„E  4
+„Er 1
+„Ga 2
+„Gd 2
+„Gl 1
+„Go 3
+„Gr 1
+„Gó 1
+„Gǳ 3
+„Ha 3
+„He 2
+„Ho 1
+„Hu 1
+„I  3
+„Id 5
+„In 1
+„Iś 1
+„Iǳ 1
+„Ja 25
+„Je 14
+„Ju 1
+„Ję 1
+„Ka 4
+„Ki 3
+„Km 2
+„Ko 1
+„Kr 4
+„Ks 4
+„Kt 5
+„Ku 1
+„Kł 1
+„La 1
+„Le 4
+„Lu 3
+„Ma 3
+„Mi 3
+„Mn 2
+„Mo 9
+„Mu 1
+„My 2
+„Na 12
+„Ni 35
+„Nu 2
+„O  4
+„O! 1
+„O, 1
+„Ob 2
+„Od 1
+„Og 1
+„Ok 1
+„Ol 2
+„On 2
+„Op 2
+„Os 1
+„Ot 2
+„Pa 8
+„Pi 2
+„Po 13
+„Pr 14
+„Pó 2
+„Ra 5
+„Ro 1
+„Ru 2
+„Rz 1
+„Sa 2
+„Se 1
+„Sk 3
+„So 1
+„Sp 4
+„St 4
+„Sy 1
+„Sz 4
+„Ta 6
+„Te 2
+„To 8
+„Tr 5
+„Tu 2
+„Ty 1
+„U  1
+„Ud 1
+„W  5
+„Wa 6
+„We 1
+„Wi 12
+„Wo 6
+„Wp 1
+„Ws 1
+„Wy 6
+„Z  4
+„Za 13
+„Zb 1
+„Zd 6
+„Ze 2
+„Zg 1
+„Zm 1
+„Zn 1
+„Zł 1
+„am 1
+„an 1
+„ar 1
+„at 1
+„aw 1
+„ał 2
+„ba 6
+„bĳ 2
+„ca 1
+„ch 1
+„ci 1
+„cz 1
+„da 2
+„di 1
+„dl 1
+„do 1
+„du 1
+„ga 2
+„go 4
+„gr 2
+„gó 1
+„hr 1
+„in 2
+„ka 3
+„kl 1
+„ko 7
+„kr 3
+„ku 2
+„li 1
+„lu 1
+„ma 1
+„mi 1
+„mn 1
+„mo 1
+„na 2
+„ni 2
+„ob 1
+„oc 1
+„ok 3
+„on 1
+„op 1
+„or 2
+„pa 11
+„pe 2
+„pi 3
+„po 6
+„pr 3
+„py 1
+„re 2
+„rz 1
+„si 1
+„sk 1
+„st 4
+„sz 3
+„sł 1
+„ta 3
+„tk 1
+„to 1
+„uk 1
+„w  3
+„wa 1
+„we 1
+„wi 1
+„wy 1
+„wz 1
+„za 4
+„zd 2
+„zr 1
+„zł 1
+„Łż 1
+„Śl 1
+„Śm 2
+„Źl 1
+„Ża 1
+„Że 1
+„Ży 1
+„ży 1
+„ǲi 2
+„ǳi 1
+„…  2
+„…A 1
+„…J 1
+„…K 2
+„…W 1
+„…i 2
+„…p 1
+„…s 1
+‥ B 1
+… ( 2
+… A 207
+… B 101
+… C 140
+… D 66
+… E 11
+… F 1
+… G 28
+… H 23
+… I 51
+… J 126
+… K 44
+… L 16
+… M 87
+… N 194
+… O 93
+… P 143
+… R 39
+… S 76
+… T 150
+… U 20
+… W 144
+… Z 79
+… a 53
+… b 16
+… c 22
+… d 14
+… e 11
+… g 6
+… h 2
+… i 68
+… k 16
+… l 1
+… m 13
+… n 42
+… o 15
+… p 40
+… r 7
+… s 13
+… t 32
+… u 7
+… w 24
+… z 25
+… Ł 3
+… ł 1
+… Ś 3
+… ś 1
+… Ź 1
+… Ż 17
+… ż 7
+… ǲ 10
+… ǳ 3
+… — 92
+… „ 2
+… ﬁ 1
+…,  1
+….  7
+…Ak 1
+…Je 1
+…Kr 1
+…Kt 2
+…Ni 1
+…Wi 1
+…i  2
+…pr 1
+…st 1
+…z  1
+…¹³ 1
+…¹⁰ 1
+…”  17
+…”, 1
+…”¹ 1
+‼ N 1
+‼ — 1
+‼!  1
+‼…  1
+⁈ A 1
+⁈ B 1
+⁈ C 3
+⁈ D 1
+⁈ I 2
+⁈ J 3
+⁈ K 1
+⁈ N 1
+⁈ O 1
+⁈ P 1
+⁈ R 1
+⁈ S 2
+⁈ T 1
+⁈ W 4
+⁈ Z 3
+⁈ — 15
+⁈…  19
+⁰ ( 7
+⁰ B 1
+⁰ K 1
+⁰ R 1
+⁰ Z 1
+⁰ a 4
+⁰ b 5
+⁰ c 3
+⁰ d 8
+⁰ e 5
+⁰ f 1
+⁰ g 1
+⁰ i 9
+⁰ k 5
+⁰ l 2
+⁰ m 7
+⁰ n 14
+⁰ o 55
+⁰ p 31
+⁰ r 2
+⁰ s 13
+⁰ t 31
+⁰ u 4
+⁰ w 14
+⁰ z 17
+⁰ ę 1
+⁰ ż 2
+⁰ — 5
+⁰ ” 1
+⁰!  2
+⁰!, 1
+⁰,  50
+⁰.  12
+⁰:  1
+⁰;  2
+⁰Po 1
+⁰op 1
+⁰p  7
+⁰po 4
+⁰t  3
+⁰²  23
+⁰²! 1
+⁰², 6
+⁰². 2
+⁰²; 1
+⁰²o 5
+⁰²p 2
+⁰²² 4
+⁰²³ 4
+⁰²¹ 4
+⁰²⁰ 4
+⁰²⁴ 4
+⁰²⁵ 4
+⁰²⁶ 4
+⁰²⁷ 4
+⁰²⁸ 4
+⁰²⁹ 4
+⁰³  22
+⁰³! 1
+⁰³, 6
+⁰³. 3
+⁰³o 1
+⁰³p 4
+⁰³² 4
+⁰³³ 4
+⁰³¹ 4
+⁰³⁰ 4
+⁰³⁴ 4
+⁰³⁵ 4
+⁰³⁶ 4
+⁰³⁷ 4
+⁰³⁸ 4
+⁰³⁹ 4
+⁰¹  26
+⁰¹, 3
+⁰¹. 2
+⁰¹: 1
+⁰¹p 2
+⁰¹² 4
+⁰¹³ 4
+⁰¹¹ 4
+⁰¹” 1
+⁰¹… 1
+⁰¹⁰ 4
+⁰¹⁴ 4
+⁰¹⁵ 4
+⁰¹⁶ 4
+⁰¹⁷ 4
+⁰¹⁸ 4
+⁰¹⁹ 4
+⁰”  1
+⁰…  3
+⁰⁰  24
+⁰⁰, 7
+⁰⁰. 1
+⁰⁰o 1
+⁰⁰p 2
+⁰⁰² 4
+⁰⁰³ 4
+⁰⁰¹ 4
+⁰⁰⁰ 4
+⁰⁰⁴ 4
+⁰⁰⁵ 4
+⁰⁰⁶ 4
+⁰⁰⁷ 4
+⁰⁰⁸ 4
+⁰⁰⁹ 4
+⁰⁴  28
+⁰⁴! 2
+⁰⁴, 6
+⁰⁴. 3
+⁰⁴P 1
+⁰⁴o 2
+⁰⁴t 1
+⁰⁴² 4
+⁰⁴³ 4
+⁰⁴¹ 4
+⁰⁴⁰ 4
+⁰⁴⁴ 4
+⁰⁴⁵ 4
+⁰⁴⁶ 4
+⁰⁴⁷ 4
+⁰⁴⁸ 4
+⁰⁴⁹ 4
+⁰⁵  16
+⁰⁵! 2
+⁰⁵, 8
+⁰⁵. 5
+⁰⁵o 1
+⁰⁵t 1
+⁰⁵² 4
+⁰⁵³ 4
+⁰⁵¹ 4
+⁰⁵” 2
+⁰⁵… 1
+⁰⁵⁰ 4
+⁰⁵⁴ 4
+⁰⁵⁵ 4
+⁰⁵⁶ 4
+⁰⁵⁷ 4
+⁰⁵⁸ 4
+⁰⁵⁹ 4
+⁰⁶  25
+⁰⁶! 1
+⁰⁶, 3
+⁰⁶. 4
+⁰⁶; 1
+⁰⁶p 2
+⁰⁶² 4
+⁰⁶³ 4
+⁰⁶¹ 4
+⁰⁶⁰ 4
+⁰⁶⁴ 4
+⁰⁶⁵ 4
+⁰⁶⁶ 4
+⁰⁶⁷ 4
+⁰⁶⁸ 4
+⁰⁶⁹ 4
+⁰⁷  32
+⁰⁷! 1
+⁰⁷, 4
+⁰⁷. 2
+⁰⁷o 1
+⁰⁷p 1
+⁰⁷² 4
+⁰⁷³ 4
+⁰⁷¹ 4
+⁰⁷” 1
+⁰⁷⁰ 4
+⁰⁷⁴ 4
+⁰⁷⁵ 4
+⁰⁷⁶ 4
+⁰⁷⁷ 4
+⁰⁷⁸ 4
+⁰⁷⁹ 4
+⁰⁸  20
+⁰⁸! 1
+⁰⁸, 7
+⁰⁸. 1
+⁰⁸p 1
+⁰⁸t 1
+⁰⁸² 4
+⁰⁸³ 4
+⁰⁸¹ 4
+⁰⁸… 1
+⁰⁸⁰ 4
+⁰⁸⁴ 4
+⁰⁸⁵ 4
+⁰⁸⁶ 4
+⁰⁸⁷ 4
+⁰⁸⁸ 4
+⁰⁸⁹ 4
+⁰⁹  19
+⁰⁹! 1
+⁰⁹, 5
+⁰⁹. 3
+⁰⁹; 1
+⁰⁹o 1
+⁰⁹t 1
+⁰⁹² 4
+⁰⁹³ 4
+⁰⁹¹ 4
+⁰⁹… 1
+⁰⁹⁰ 4
+⁰⁹⁴ 4
+⁰⁹⁵ 4
+⁰⁹⁶ 4
+⁰⁹⁷ 4
+⁰⁹⁸ 4
+⁰⁹⁹ 4
+⁴ ( 5
+⁴ F 1
+⁴ J 1
+⁴ K 1
+⁴ N 2
+⁴ P 1
+⁴ a 6
+⁴ b 4
+⁴ c 2
+⁴ d 3
+⁴ e 1
+⁴ f 1
+⁴ g 1
+⁴ i 16
+⁴ k 3
+⁴ m 3
+⁴ n 12
+⁴ o 58
+⁴ p 27
+⁴ r 6
+⁴ s 8
+⁴ t 41
+⁴ u 5
+⁴ w 11
+⁴ z 12
+⁴ ł 1
+⁴ ź 1
+⁴ ż 2
+⁴ ǳ 1
+⁴ — 7
+⁴!  8
+⁴!” 2
+⁴!… 1
+⁴,  45
+⁴.  17
+⁴;  1
+⁴P  4
+⁴Po 2
+⁴o  1
+⁴op 1
+⁴p  7
+⁴po 9
+⁴t  2
+⁴to 1
+⁴²  22
+⁴², 5
+⁴². 1
+⁴²; 1
+⁴²p 4
+⁴²² 6
+⁴²³ 6
+⁴²¹ 6
+⁴²⁰ 6
+⁴²⁴ 6
+⁴²⁵ 6
+⁴²⁶ 6
+⁴²⁷ 6
+⁴²⁸ 6
+⁴²⁹ 6
+⁴³  26
+⁴³! 1
+⁴³, 5
+⁴³. 3
+⁴³o 1
+⁴³p 2
+⁴³² 6
+⁴³³ 6
+⁴³¹ 6
+⁴³… 1
+⁴³⁰ 6
+⁴³⁴ 6
+⁴³⁵ 6
+⁴³⁶ 6
+⁴³⁷ 6
+⁴³⁸ 6
+⁴³⁹ 6
+⁴¹  33
+⁴¹, 2
+⁴¹. 2
+⁴¹o 1
+⁴¹p 2
+⁴¹t 1
+⁴¹² 6
+⁴¹³ 6
+⁴¹¹ 6
+⁴¹⁰ 6
+⁴¹⁴ 6
+⁴¹⁵ 6
+⁴¹⁶ 6
+⁴¹⁷ 6
+⁴¹⁸ 6
+⁴¹⁹ 6
+⁴…  2
+⁴…. 1
+⁴⁰  20
+⁴⁰, 8
+⁴⁰. 3
+⁴⁰p 3
+⁴⁰² 6
+⁴⁰³ 6
+⁴⁰¹ 6
+⁴⁰… 1
+⁴⁰⁰ 6
+⁴⁰⁴ 6
+⁴⁰⁵ 6
+⁴⁰⁶ 6
+⁴⁰⁷ 6
+⁴⁰⁸ 6
+⁴⁰⁹ 6
+⁴⁴  20
+⁴⁴! 1
+⁴⁴, 5
+⁴⁴. 4
+⁴⁴o 2
+⁴⁴p 1
+⁴⁴t 1
+⁴⁴² 6
+⁴⁴³ 6
+⁴⁴¹ 6
+⁴⁴⁰ 6
+⁴⁴⁴ 6
+⁴⁴⁵ 6
+⁴⁴⁶ 6
+⁴⁴⁷ 6
+⁴⁴⁸ 6
+⁴⁴⁹ 6
+⁴⁵  23
+⁴⁵, 11
+⁴⁵o 1
+⁴⁵p 1
+⁴⁵t 2
+⁴⁵² 6
+⁴⁵³ 6
+⁴⁵¹ 6
+⁴⁵… 1
+⁴⁵⁰ 6
+⁴⁵⁴ 6
+⁴⁵⁵ 6
+⁴⁵⁶ 6
+⁴⁵⁷ 6
+⁴⁵⁸ 6
+⁴⁵⁹ 6
+⁴⁶  22
+⁴⁶! 1
+⁴⁶, 4
+⁴⁶. 4
+⁴⁶o 1
+⁴⁶p 3
+⁴⁶² 6
+⁴⁶³ 6
+⁴⁶¹ 6
+⁴⁶⁰ 6
+⁴⁶⁴ 6
+⁴⁶⁵ 6
+⁴⁶⁶ 6
+⁴⁶⁷ 6
+⁴⁶⁸ 6
+⁴⁶⁹ 6
+⁴⁷  22
+⁴⁷, 7
+⁴⁷. 1
+⁴⁷P 1
+⁴⁷o 2
+⁴⁷p 5
+⁴⁷² 6
+⁴⁷³ 6
+⁴⁷¹ 6
+⁴⁷⁰ 6
+⁴⁷⁴ 6
+⁴⁷⁵ 6
+⁴⁷⁶ 6
+⁴⁷⁷ 6
+⁴⁷⁸ 6
+⁴⁷⁹ 6
+⁴⁸  13
+⁴⁸! 3
+⁴⁸, 5
+⁴⁸. 1
+⁴⁸: 1
+⁴⁸o 1
+⁴⁸p 1
+⁴⁸t 1
+⁴⁸² 6
+⁴⁸³ 6
+⁴⁸¹ 6
+⁴⁸… 2
+⁴⁸⁰ 6
+⁴⁸⁴ 6
+⁴⁸⁵ 6
+⁴⁸⁶ 6
+⁴⁸⁷ 6
+⁴⁸⁸ 6
+⁴⁸⁹ 6
+⁴⁹  22
+⁴⁹! 1
+⁴⁹, 4
+⁴⁹. 3
+⁴⁹P 1
+⁴⁹t 1
+⁴⁹² 6
+⁴⁹³ 6
+⁴⁹¹ 6
+⁴⁹… 1
+⁴⁹⁰ 6
+⁴⁹⁴ 6
+⁴⁹⁵ 6
+⁴⁹⁶ 6
+⁴⁹⁷ 6
+⁴⁹⁸ 6
+⁴⁹⁹ 6
+⁵ ( 4
+⁵ a 1
+⁵ b 2
+⁵ c 6
+⁵ d 5
+⁵ e 1
+⁵ g 2
+⁵ h 1
+⁵ i 11
+⁵ k 6
+⁵ l 1
+⁵ m 9
+⁵ n 18
+⁵ o 60
+⁵ p 36
+⁵ r 1
+⁵ s 8
+⁵ t 30
+⁵ u 3
+⁵ w 14
+⁵ z 11
+⁵ ó 1
+⁵ ś 1
+⁵ ż 1
+⁵ ǳ 1
+⁵ — 5
+⁵!  5
+⁵,  59
+⁵.  9
+⁵;  2
+⁵?  1
+⁵?… 1
+⁵Po 1
+⁵o  2
+⁵p  6
+⁵po 4
+⁵pt 1
+⁵t  2
+⁵to 1
+⁵²  23
+⁵²! 1
+⁵², 3
+⁵². 3
+⁵²P 1
+⁵²p 4
+⁵²² 4
+⁵²³ 4
+⁵²¹ 4
+⁵²… 1
+⁵²⁰ 4
+⁵²⁴ 4
+⁵²⁵ 4
+⁵²⁶ 4
+⁵²⁷ 4
+⁵²⁸ 4
+⁵²⁹ 4
+⁵³  27
+⁵³, 4
+⁵³. 2
+⁵³o 2
+⁵³p 1
+⁵³t 2
+⁵³² 4
+⁵³³ 4
+⁵³¹ 4
+⁵³⁰ 4
+⁵³⁴ 4
+⁵³⁵ 4
+⁵³⁶ 4
+⁵³⁷ 4
+⁵³⁸ 4
+⁵³⁹ 4
+⁵¹  20
+⁵¹, 6
+⁵¹. 2
+⁵¹p 4
+⁵¹t 1
+⁵¹² 6
+⁵¹³ 6
+⁵¹¹ 6
+⁵¹” 1
+⁵¹… 1
+⁵¹⁰ 6
+⁵¹⁴ 4
+⁵¹⁵ 4
+⁵¹⁶ 4
+⁵¹⁷ 4
+⁵¹⁸ 4
+⁵¹⁹ 4
+⁵”  3
+⁵…  3
+⁵⁰  26
+⁵⁰, 9
+⁵⁰. 2
+⁵⁰: 1
+⁵⁰p 2
+⁵⁰² 6
+⁵⁰³ 6
+⁵⁰¹ 6
+⁵⁰⁰ 6
+⁵⁰⁴ 6
+⁵⁰⁵ 6
+⁵⁰⁶ 6
+⁵⁰⁷ 6
+⁵⁰⁸ 6
+⁵⁰⁹ 6
+⁵⁴  25
+⁵⁴! 1
+⁵⁴, 6
+⁵⁴. 2
+⁵⁴t 1
+⁵⁴² 4
+⁵⁴³ 4
+⁵⁴¹ 4
+⁵⁴… 2
+⁵⁴⁰ 4
+⁵⁴⁴ 4
+⁵⁴⁵ 4
+⁵⁴⁶ 4
+⁵⁴⁷ 4
+⁵⁴⁸ 4
+⁵⁴⁹ 4
+⁵⁵  21
+⁵⁵! 2
+⁵⁵, 5
+⁵⁵. 2
+⁵⁵; 1
+⁵⁵o 3
+⁵⁵p 1
+⁵⁵² 4
+⁵⁵³ 4
+⁵⁵¹ 4
+⁵⁵” 1
+⁵⁵… 1
+⁵⁵⁰ 4
+⁵⁵⁴ 4
+⁵⁵⁵ 4
+⁵⁵⁶ 4
+⁵⁵⁷ 4
+⁵⁵⁸ 4
+⁵⁵⁹ 4
+⁵⁶  21
+⁵⁶! 1
+⁵⁶, 6
+⁵⁶. 2
+⁵⁶? 1
+⁵⁶o 1
+⁵⁶p 2
+⁵⁶² 4
+⁵⁶³ 4
+⁵⁶¹ 4
+⁵⁶” 1
+⁵⁶⁰ 4
+⁵⁶⁴ 4
+⁵⁶⁵ 4
+⁵⁶⁶ 4
+⁵⁶⁷ 4
+⁵⁶⁸ 4
+⁵⁶⁹ 4
+⁵⁷  24
+⁵⁷! 1
+⁵⁷, 4
+⁵⁷. 3
+⁵⁷: 1
+⁵⁷? 1
+⁵⁷o 2
+⁵⁷p 3
+⁵⁷² 4
+⁵⁷³ 4
+⁵⁷¹ 4
+⁵⁷⁰ 4
+⁵⁷⁴ 4
+⁵⁷⁵ 4
+⁵⁷⁶ 4
+⁵⁷⁷ 4
+⁵⁷⁸ 4
+⁵⁷⁹ 4
+⁵⁸  20
+⁵⁸! 1
+⁵⁸, 5
+⁵⁸. 3
+⁵⁸: 1
+⁵⁸o 2
+⁵⁸p 3
+⁵⁸² 4
+⁵⁸³ 4
+⁵⁸¹ 4
+⁵⁸⁰ 4
+⁵⁸⁴ 4
+⁵⁸⁵ 4
+⁵⁸⁶ 4
+⁵⁸⁷ 4
+⁵⁸⁸ 4
+⁵⁸⁹ 4
+⁵⁹  23
+⁵⁹, 8
+⁵⁹o 1
+⁵⁹p 7
+⁵⁹t 1
+⁵⁹² 4
+⁵⁹³ 4
+⁵⁹¹ 4
+⁵⁹… 1
+⁵⁹⁰ 4
+⁵⁹⁴ 4
+⁵⁹⁵ 4
+⁵⁹⁶ 4
+⁵⁹⁷ 4
+⁵⁹⁸ 4
+⁵⁹⁹ 4
+⁶ ( 10
+⁶ G 1
+⁶ P 1
+⁶ S 1
+⁶ a 3
+⁶ b 5
+⁶ c 4
+⁶ d 10
+⁶ e 1
+⁶ g 2
+⁶ i 10
+⁶ k 5
+⁶ l 3
+⁶ m 3
+⁶ n 17
+⁶ o 55
+⁶ p 30
+⁶ r 2
+⁶ s 12
+⁶ t 36
+⁶ u 2
+⁶ w 9
+⁶ z 7
+⁶ — 2
+⁶ … 1
+⁶!  4
+⁶!… 2
+⁶,  43
+⁶.  23
+⁶;  3
+⁶?  1
+⁶?… 2
+⁶o  1
+⁶p  7
+⁶po 4
+⁶t  3
+⁶to 2
+⁶²  21
+⁶², 4
+⁶². 5
+⁶²; 2
+⁶²? 1
+⁶²p 1
+⁶²t 1
+⁶²² 4
+⁶²³ 4
+⁶²¹ 4
+⁶²⁰ 4
+⁶²⁴ 4
+⁶²⁵ 4
+⁶²⁶ 4
+⁶²⁷ 4
+⁶²⁸ 4
+⁶²⁹ 4
+⁶³  23
+⁶³! 3
+⁶³, 5
+⁶³. 2
+⁶³? 1
+⁶³P 1
+⁶³p 3
+⁶³t 1
+⁶³² 4
+⁶³³ 4
+⁶³¹ 4
+⁶³⁰ 4
+⁶³⁴ 4
+⁶³⁵ 4
+⁶³⁶ 4
+⁶³⁷ 4
+⁶³⁸ 4
+⁶³⁹ 4
+⁶¹  16
+⁶¹! 3
+⁶¹, 6
+⁶¹. 4
+⁶¹? 1
+⁶¹o 1
+⁶¹p 2
+⁶¹t 2
+⁶¹² 4
+⁶¹³ 4
+⁶¹¹ 4
+⁶¹⁰ 4
+⁶¹⁴ 4
+⁶¹⁵ 4
+⁶¹⁶ 4
+⁶¹⁷ 4
+⁶¹⁸ 4
+⁶¹⁹ 4
+⁶”  3
+⁶…  5
+⁶⁰  27
+⁶⁰! 1
+⁶⁰, 6
+⁶⁰. 2
+⁶⁰o 1
+⁶⁰p 5
+⁶⁰² 4
+⁶⁰³ 4
+⁶⁰¹ 4
+⁶⁰⁰ 4
+⁶⁰⁴ 4
+⁶⁰⁵ 4
+⁶⁰⁶ 4
+⁶⁰⁷ 4
+⁶⁰⁸ 4
+⁶⁰⁹ 4
+⁶⁴  21
+⁶⁴! 2
+⁶⁴, 3
+⁶⁴. 4
+⁶⁴; 1
+⁶⁴? 1
+⁶⁴P 1
+⁶⁴o 1
+⁶⁴p 5
+⁶⁴² 4
+⁶⁴³ 4
+⁶⁴¹ 4
+⁶⁴⁰ 4
+⁶⁴⁴ 4
+⁶⁴⁵ 4
+⁶⁴⁶ 4
+⁶⁴⁷ 4
+⁶⁴⁸ 4
+⁶⁴⁹ 4
+⁶⁵  21
+⁶⁵, 8
+⁶⁵. 1
+⁶⁵? 2
+⁶⁵p 7
+⁶⁵t 2
+⁶⁵² 4
+⁶⁵³ 4
+⁶⁵¹ 4
+⁶⁵⁰ 4
+⁶⁵⁴ 4
+⁶⁵⁵ 4
+⁶⁵⁶ 4
+⁶⁵⁷ 4
+⁶⁵⁸ 4
+⁶⁵⁹ 4
+⁶⁶  23
+⁶⁶, 4
+⁶⁶. 6
+⁶⁶; 1
+⁶⁶o 1
+⁶⁶t 2
+⁶⁶² 4
+⁶⁶³ 4
+⁶⁶¹ 4
+⁶⁶… 1
+⁶⁶⁰ 4
+⁶⁶⁴ 4
+⁶⁶⁵ 4
+⁶⁶⁶ 4
+⁶⁶⁷ 4
+⁶⁶⁸ 4
+⁶⁶⁹ 4
+⁶⁷  20
+⁶⁷! 1
+⁶⁷, 6
+⁶⁷. 3
+⁶⁷; 1
+⁶⁷? 1
+⁶⁷o 1
+⁶⁷p 2
+⁶⁷² 4
+⁶⁷³ 4
+⁶⁷¹ 4
+⁶⁷… 1
+⁶⁷⁰ 4
+⁶⁷⁴ 4
+⁶⁷⁵ 4
+⁶⁷⁶ 4
+⁶⁷⁷ 4
+⁶⁷⁸ 4
+⁶⁷⁹ 4
+⁶⁸  21
+⁶⁸, 4
+⁶⁸. 1
+⁶⁸; 1
+⁶⁸P 1
+⁶⁸o 2
+⁶⁸p 5
+⁶⁸t 1
+⁶⁸² 4
+⁶⁸³ 4
+⁶⁸¹ 4
+⁶⁸” 1
+⁶⁸… 1
+⁶⁸⁰ 4
+⁶⁸⁴ 4
+⁶⁸⁵ 4
+⁶⁸⁶ 4
+⁶⁸⁷ 4
+⁶⁸⁸ 4
+⁶⁸⁹ 4
+⁶⁹  21
+⁶⁹! 1
+⁶⁹, 6
+⁶⁹. 3
+⁶⁹: 1
+⁶⁹o 2
+⁶⁹p 1
+⁶⁹² 4
+⁶⁹³ 4
+⁶⁹¹ 4
+⁶⁹” 1
+⁶⁹⁰ 4
+⁶⁹⁴ 4
+⁶⁹⁵ 4
+⁶⁹⁶ 4
+⁶⁹⁷ 4
+⁶⁹⁸ 4
+⁶⁹⁹ 4
+⁷ ( 3
+⁷ B 1
+⁷ K 1
+⁷ P 1
+⁷ a 1
+⁷ b 6
+⁷ c 6
+⁷ d 4
+⁷ e 3
+⁷ g 3
+⁷ h 2
+⁷ i 15
+⁷ k 3
+⁷ l 3
+⁷ m 8
+⁷ n 11
+⁷ o 57
+⁷ p 47
+⁷ r 2
+⁷ s 7
+⁷ t 25
+⁷ u 3
+⁷ w 10
+⁷ z 9
+⁷ ż 2
+⁷ ǳ 1
+⁷ — 4
+⁷!  4
+⁷!” 2
+⁷,  48
+⁷.  21
+⁷:  1
+⁷;  2
+⁷?  3
+⁷P  1
+⁷Po 1
+⁷o  1
+⁷p  10
+⁷po 10
+⁷to 1
+⁷²  23
+⁷²! 1
+⁷², 8
+⁷². 1
+⁷²o 1
+⁷²t 2
+⁷²² 4
+⁷²³ 4
+⁷²¹ 4
+⁷²⁰ 4
+⁷²⁴ 4
+⁷²⁵ 4
+⁷²⁶ 4
+⁷²⁷ 4
+⁷²⁸ 4
+⁷²⁹ 4
+⁷³  23
+⁷³! 1
+⁷³, 6
+⁷³. 2
+⁷³? 1
+⁷³p 4
+⁷³t 1
+⁷³² 4
+⁷³³ 4
+⁷³¹ 4
+⁷³” 1
+⁷³⁰ 4
+⁷³⁴ 4
+⁷³⁵ 4
+⁷³⁶ 4
+⁷³⁷ 4
+⁷³⁸ 4
+⁷³⁹ 4
+⁷¹  23
+⁷¹! 1
+⁷¹, 4
+⁷¹. 4
+⁷¹o 1
+⁷¹p 1
+⁷¹t 1
+⁷¹² 4
+⁷¹³ 4
+⁷¹¹ 4
+⁷¹⁰ 4
+⁷¹⁴ 4
+⁷¹⁵ 4
+⁷¹⁶ 4
+⁷¹⁷ 4
+⁷¹⁸ 4
+⁷¹⁹ 4
+⁷”  1
+⁷…  2
+⁷⁰  24
+⁷⁰, 6
+⁷⁰. 2
+⁷⁰p 3
+⁷⁰t 2
+⁷⁰² 4
+⁷⁰³ 4
+⁷⁰¹ 4
+⁷⁰⁰ 4
+⁷⁰⁴ 4
+⁷⁰⁵ 4
+⁷⁰⁶ 4
+⁷⁰⁷ 4
+⁷⁰⁸ 4
+⁷⁰⁹ 4
+⁷⁴  22
+⁷⁴! 1
+⁷⁴, 4
+⁷⁴. 3
+⁷⁴p 4
+⁷⁴² 4
+⁷⁴³ 4
+⁷⁴¹ 4
+⁷⁴⁰ 4
+⁷⁴⁴ 4
+⁷⁴⁵ 4
+⁷⁴⁶ 4
+⁷⁴⁷ 4
+⁷⁴⁸ 4
+⁷⁴⁹ 4
+⁷⁵  32
+⁷⁵! 1
+⁷⁵, 6
+⁷⁵. 1
+⁷⁵p 1
+⁷⁵² 4
+⁷⁵³ 4
+⁷⁵¹ 4
+⁷⁵⁰ 4
+⁷⁵⁴ 4
+⁷⁵⁵ 4
+⁷⁵⁶ 4
+⁷⁵⁷ 4
+⁷⁵⁸ 4
+⁷⁵⁹ 4
+⁷⁶  25
+⁷⁶, 8
+⁷⁶. 2
+⁷⁶o 1
+⁷⁶p 3
+⁷⁶² 4
+⁷⁶³ 4
+⁷⁶¹ 4
+⁷⁶⁰ 4
+⁷⁶⁴ 4
+⁷⁶⁵ 4
+⁷⁶⁶ 4
+⁷⁶⁷ 4
+⁷⁶⁸ 4
+⁷⁶⁹ 4
+⁷⁷  22
+⁷⁷! 1
+⁷⁷, 9
+⁷⁷. 2
+⁷⁷? 1
+⁷⁷p 3
+⁷⁷² 4
+⁷⁷³ 4
+⁷⁷¹ 4
+⁷⁷⁰ 4
+⁷⁷⁴ 4
+⁷⁷⁵ 4
+⁷⁷⁶ 4
+⁷⁷⁷ 4
+⁷⁷⁸ 4
+⁷⁷⁹ 4
+⁷⁸  14
+⁷⁸! 1
+⁷⁸, 10
+⁷⁸. 3
+⁷⁸; 1
+⁷⁸? 1
+⁷⁸o 2
+⁷⁸p 2
+⁷⁸² 4
+⁷⁸³ 4
+⁷⁸¹ 4
+⁷⁸” 1
+⁷⁸… 1
+⁷⁸⁰ 4
+⁷⁸⁴ 4
+⁷⁸⁵ 4
+⁷⁸⁶ 4
+⁷⁸⁷ 4
+⁷⁸⁸ 4
+⁷⁸⁹ 4
+⁷⁹  22
+⁷⁹, 7
+⁷⁹. 2
+⁷⁹; 1
+⁷⁹o 1
+⁷⁹p 3
+⁷⁹² 4
+⁷⁹³ 4
+⁷⁹¹ 4
+⁷⁹… 1
+⁷⁹⁰ 4
+⁷⁹⁴ 4
+⁷⁹⁵ 4
+⁷⁹⁶ 4
+⁷⁹⁷ 4
+⁷⁹⁸ 4
+⁷⁹⁹ 4
+⁸ ( 7
+⁸ T 2
+⁸ a 3
+⁸ b 4
+⁸ c 7
+⁸ d 7
+⁸ e 1
+⁸ g 2
+⁸ h 1
+⁸ i 10
+⁸ k 4
+⁸ l 6
+⁸ m 8
+⁸ n 15
+⁸ o 38
+⁸ p 18
+⁸ r 1
+⁸ s 9
+⁸ t 27
+⁸ u 1
+⁸ w 11
+⁸ z 14
+⁸ ż 1
+⁸ ǳ 1
+⁸ — 3
+⁸ ” 1
+⁸!  4
+⁸!… 3
+⁸,  52
+⁸.  6
+⁸:  2
+⁸;  2
+⁸?  1
+⁸P  1
+⁸Po 1
+⁸na 1
+⁸o  1
+⁸p  8
+⁸po 6
+⁸pt 1
+⁸t  2
+⁸to 4
+⁸²  24
+⁸², 4
+⁸². 2
+⁸²? 2
+⁸²o 2
+⁸²p 4
+⁸²² 4
+⁸²³ 4
+⁸²¹ 4
+⁸²⁰ 4
+⁸²⁴ 4
+⁸²⁵ 4
+⁸²⁶ 4
+⁸²⁷ 4
+⁸²⁸ 4
+⁸²⁹ 4
+⁸³  24
+⁸³! 1
+⁸³, 4
+⁸³o 1
+⁸³p 2
+⁸³² 4
+⁸³³ 4
+⁸³¹ 4
+⁸³… 1
+⁸³⁰ 4
+⁸³⁴ 4
+⁸³⁵ 4
+⁸³⁶ 4
+⁸³⁷ 4
+⁸³⁸ 4
+⁸³⁹ 4
+⁸¹  25
+⁸¹, 4
+⁸¹. 3
+⁸¹; 1
+⁸¹o 1
+⁸¹p 2
+⁸¹t 1
+⁸¹² 4
+⁸¹³ 4
+⁸¹¹ 4
+⁸¹⁰ 4
+⁸¹⁴ 4
+⁸¹⁵ 4
+⁸¹⁶ 4
+⁸¹⁷ 4
+⁸¹⁸ 4
+⁸¹⁹ 4
+⁸”  2
+⁸…  7
+⁸⁰  25
+⁸⁰! 1
+⁸⁰, 5
+⁸⁰. 1
+⁸⁰P 1
+⁸⁰p 1
+⁸⁰² 4
+⁸⁰³ 4
+⁸⁰¹ 4
+⁸⁰” 1
+⁸⁰⁰ 4
+⁸⁰⁴ 4
+⁸⁰⁵ 4
+⁸⁰⁶ 4
+⁸⁰⁷ 4
+⁸⁰⁸ 4
+⁸⁰⁹ 4
+⁸⁴  24
+⁸⁴! 3
+⁸⁴, 4
+⁸⁴. 1
+⁸⁴P 1
+⁸⁴p 3
+⁸⁴² 4
+⁸⁴³ 4
+⁸⁴¹ 4
+⁸⁴… 1
+⁸⁴⁰ 4
+⁸⁴⁴ 4
+⁸⁴⁵ 4
+⁸⁴⁶ 4
+⁸⁴⁷ 4
+⁸⁴⁸ 4
+⁸⁴⁹ 4
+⁸⁵  27
+⁸⁵, 8
+⁸⁵. 1
+⁸⁵p 5
+⁸⁵² 4
+⁸⁵³ 4
+⁸⁵¹ 4
+⁸⁵⁰ 4
+⁸⁵⁴ 4
+⁸⁵⁵ 4
+⁸⁵⁶ 4
+⁸⁵⁷ 4
+⁸⁵⁸ 4
+⁸⁵⁹ 4
+⁸⁶  24
+⁸⁶! 1
+⁸⁶, 5
+⁸⁶. 3
+⁸⁶; 1
+⁸⁶? 1
+⁸⁶o 2
+⁸⁶p 1
+⁸⁶t 1
+⁸⁶² 4
+⁸⁶³ 4
+⁸⁶¹ 4
+⁸⁶… 1
+⁸⁶⁰ 4
+⁸⁶⁴ 4
+⁸⁶⁵ 4
+⁸⁶⁶ 4
+⁸⁶⁷ 4
+⁸⁶⁸ 4
+⁸⁶⁹ 4
+⁸⁷  23
+⁸⁷, 6
+⁸⁷. 5
+⁸⁷? 1
+⁸⁷p 2
+⁸⁷t 1
+⁸⁷² 4
+⁸⁷³ 4
+⁸⁷¹ 4
+⁸⁷⁰ 4
+⁸⁷⁴ 4
+⁸⁷⁵ 4
+⁸⁷⁶ 4
+⁸⁷⁷ 4
+⁸⁷⁸ 4
+⁸⁷⁹ 4
+⁸⁸  25
+⁸⁸! 1
+⁸⁸, 3
+⁸⁸. 3
+⁸⁸p 3
+⁸⁸² 4
+⁸⁸³ 4
+⁸⁸¹ 4
+⁸⁸… 1
+⁸⁸⁰ 4
+⁸⁸⁴ 4
+⁸⁸⁵ 4
+⁸⁸⁶ 4
+⁸⁸⁷ 4
+⁸⁸⁸ 4
+⁸⁸⁹ 4
+⁸⁹  22
+⁸⁹, 4
+⁸⁹. 4
+⁸⁹; 1
+⁸⁹p 3
+⁸⁹² 4
+⁸⁹³ 4
+⁸⁹¹ 4
+⁸⁹⁰ 4
+⁸⁹⁴ 4
+⁸⁹⁵ 4
+⁸⁹⁶ 4
+⁸⁹⁷ 4
+⁸⁹⁸ 4
+⁸⁹⁹ 4
+⁹ ( 6
+⁹ B 1
+⁹ R 1
+⁹ b 5
+⁹ c 9
+⁹ d 5
+⁹ e 2
+⁹ h 1
+⁹ i 8
+⁹ k 5
+⁹ l 2
+⁹ m 7
+⁹ n 15
+⁹ o 62
+⁹ p 17
+⁹ r 1
+⁹ s 5
+⁹ t 26
+⁹ u 1
+⁹ w 14
+⁹ z 17
+⁹ ą 1
+⁹ ż 1
+⁹ — 9
+⁹!  3
+⁹,  50
+⁹.  13
+⁹:  2
+⁹;  4
+⁹?  1
+⁹p  7
+⁹po 8
+⁹to 3
+⁹²  21
+⁹²! 3
+⁹², 2
+⁹². 4
+⁹²; 2
+⁹²? 1
+⁹²p 4
+⁹²² 4
+⁹²³ 4
+⁹²¹ 4
+⁹²” 1
+⁹²… 1
+⁹²⁰ 4
+⁹²⁴ 4
+⁹²⁵ 4
+⁹²⁶ 4
+⁹²⁷ 4
+⁹²⁸ 4
+⁹²⁹ 4
+⁹³  18
+⁹³! 4
+⁹³, 4
+⁹³. 3
+⁹³p 3
+⁹³t 1
+⁹³² 4
+⁹³³ 4
+⁹³¹ 4
+⁹³⁰ 4
+⁹³⁴ 4
+⁹³⁵ 4
+⁹³⁶ 4
+⁹³⁷ 4
+⁹³⁸ 4
+⁹³⁹ 4
+⁹¹  17
+⁹¹! 1
+⁹¹, 9
+⁹¹. 2
+⁹¹p 6
+⁹¹² 4
+⁹¹³ 4
+⁹¹¹ 4
+⁹¹⁰ 4
+⁹¹⁴ 4
+⁹¹⁵ 4
+⁹¹⁶ 4
+⁹¹⁷ 4
+⁹¹⁸ 4
+⁹¹⁹ 4
+⁹”, 2
+⁹…  2
+⁹⁰  23
+⁹⁰! 1
+⁹⁰, 5
+⁹⁰. 4
+⁹⁰p 1
+⁹⁰² 4
+⁹⁰³ 4
+⁹⁰¹ 4
+⁹⁰… 2
+⁹⁰⁰ 4
+⁹⁰⁴ 4
+⁹⁰⁵ 4
+⁹⁰⁶ 4
+⁹⁰⁷ 4
+⁹⁰⁸ 4
+⁹⁰⁹ 4
+⁹⁴  25
+⁹⁴! 1
+⁹⁴, 6
+⁹⁴. 4
+⁹⁴o 1
+⁹⁴p 2
+⁹⁴² 4
+⁹⁴³ 4
+⁹⁴¹ 4
+⁹⁴⁰ 4
+⁹⁴⁴ 4
+⁹⁴⁵ 4
+⁹⁴⁶ 4
+⁹⁴⁷ 4
+⁹⁴⁸ 4
+⁹⁴⁹ 4
+⁹⁵  30
+⁹⁵, 5
+⁹⁵. 2
+⁹⁵; 1
+⁹⁵o 1
+⁹⁵p 1
+⁹⁵t 1
+⁹⁵² 4
+⁹⁵³ 4
+⁹⁵¹ 4
+⁹⁵⁰ 4
+⁹⁵⁴ 4
+⁹⁵⁵ 4
+⁹⁵⁶ 4
+⁹⁵⁷ 4
+⁹⁵⁸ 4
+⁹⁵⁹ 4
+⁹⁶  27
+⁹⁶, 3
+⁹⁶? 1
+⁹⁶p 1
+⁹⁶² 4
+⁹⁶³ 4
+⁹⁶¹ 4
+⁹⁶… 1
+⁹⁶⁰ 4
+⁹⁶⁴ 4
+⁹⁶⁵ 4
+⁹⁶⁶ 4
+⁹⁶⁷ 4
+⁹⁶⁸ 4
+⁹⁶⁹ 4
+⁹⁷  24
+⁹⁷! 1
+⁹⁷, 4
+⁹⁷. 5
+⁹⁷p 7
+⁹⁷² 4
+⁹⁷³ 4
+⁹⁷¹ 4
+⁹⁷⁰ 4
+⁹⁷⁴ 4
+⁹⁷⁵ 4
+⁹⁷⁶ 4
+⁹⁷⁷ 4
+⁹⁷⁸ 4
+⁹⁷⁹ 4
+⁹⁸  24
+⁹⁸! 1
+⁹⁸, 6
+⁹⁸. 3
+⁹⁸p 3
+⁹⁸t 1
+⁹⁸² 4
+⁹⁸³ 4
+⁹⁸¹ 4
+⁹⁸… 1
+⁹⁸⁰ 4
+⁹⁸⁴ 4
+⁹⁸⁵ 4
+⁹⁸⁶ 4
+⁹⁸⁷ 4
+⁹⁸⁸ 4
+⁹⁸⁹ 4
+⁹⁹  27
+⁹⁹, 4
+⁹⁹. 1
+⁹⁹: 1
+⁹⁹o 1
+⁹⁹p 5
+⁹⁹² 4
+⁹⁹³ 4
+⁹⁹¹ 4
+⁹⁹⁰ 4
+⁹⁹⁴ 4
+⁹⁹⁵ 4
+⁹⁹⁶ 4
+⁹⁹⁷ 4
+⁹⁹⁸ 4
+⁹⁹⁹ 4
+.  4
+.) 22
+.: 1
+ag 1
+am 2
+an 51
+as 14
+au 9
+ic 1
+od 1
+on 15
+ow 1
+uc 1
+uk 3
+y! 1
+yc 1
+yg 3
+yk 4
+ys 3
+yz 3
+ów 1
+an 11
+ow 3
+u  1
+ T 1
+ b 1
+ d 1
+ z 1
+,  2
+rk 1
+¹² 2
+¹¹ 1
+¹⁷ 1
+,  1
+ P 1
+ c 1
+ d 18
+ h 6
+ i 1
+ k 17
+ l 1
+ m 24
+ n 2
+ p 3
+ r 1
+ s 1
+)  22
+), 15
+,  1
+- 2
+.  24
+– 24
+  49
+, 1
+. 1
+– 3
+ 22
+ 1
+ 1
+  1
+) 1
+, 1
+– 3
+- 1
+– 1
+– 10
+ 1
+– 18
+ 1
+ 1
+ g 1
+ l 2
+ o 3
+ p 1
+%  1
+)  12
+), 8
+). 2
+,  1
+, 1
+, 1
+, 1
+- 1
+.o 1
+– 38
+ 40
+ 1
+ 1
+ 1
+ 1
+ 1
+ 2
+ 1
+ 1
+ 1
+– 24
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+  10
+: 1
+– 14
+ 2
+ 1
+ 1
+ 1
+ 1
+ 2
+ 2
+ 1
+ 1
+ 2
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 2
+ 1
+ 1
+ 1
+ 4
+  8
+) 1
+ 4
+ 3
+ 1
+ 3
+ 7
+ 1
+ 3
+ 6
+ 2
+ 33
+  18
+) 1
+– 9
+ 34
+ 52
+ 38
+ 31
+ 57
+ 147
+ 115
+ 19
+ 48
+ 2
+  1
+ 1
+ 2
+ 1
+ 2
+ 1
+ 1
+ 1
+ 2
+ 1
+ 1
+  3
+: 1
+– 3
+ 3
+ 1
+ 1
+ 2
+ 1
+ 1
+ 1
+ 1
+ 24
+ 2
+  1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 3
+ 2
+ 1
+ 1
+ d 1
+ i 2
+ k 8
+ o 1
+ r 1
+)  33
+), 20
+,  4
+.o 1
+. 1
+: 1
+– 42
+  11
+- 1
+– 12
+ 9
+ 2
+ 1
+ 2
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+  1
+– 4
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 2
+ 1
+– 15
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+  1
+– 1
+ 1
+ 1
+ 1
+ 1
+ 2
+ 2
+ 1
+ 1
+ 1
+ 1
+  1
+– 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 2
+ 1
+ 1
+  2
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+– 2
+ 1
+ 1
+ 1
+ 2
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+  2
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+  2
+– 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 2
+ 1
+; 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 2
+ l 1
+ o 15
+ p 2
+ r 2
+)  2
+). 4
+, 1
+- 1
+- 1
+.  1
+.o 5
+. 1
+– 6
+  4
+– 2
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+  1
+) 1
+– 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+) 4
+, 4
+– 8
+ 1
+ 1
+ 1
+ 2
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+– 2
+ 2
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+  1
+– 2
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+  1
+– 11
+ 1
+ 1
+ 1
+ 1
+ 1
+ 2
+ 2
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ d 1
+ l 1
+ p 3
+ r 20
+)  5
+). 5
+,  1
+- 2
+.  11
+– 57
+– 1
+– 1
+– 6
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+– 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+) 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 2
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+  1
+) 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 3
+  3
+) 8
+, 7
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+– 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+  3
+) 1
+– 10
+ 2
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+  8
+) 14
+ 1
+ 1
+ 2
+ 1
+ 1
+ 1
+ 1
+ 2
+ 1
+ 1
+ c 1
+ g 1
+ h 1
+ l 1
+ n 1
+ p 1
+ r 12
+ ł 6
+)  8
+), 8
+); 1
+,  1
+- 1
+.  1
+– 22
+– 1
+  1
+- 1
+ 2
+ 3
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+) 11
+ 1
+ 1
+ 3
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+) 2
+ 1
+ 1
+ 1
+ 1
+ 2
+ 1
+ 1
+ 1
+ 1
+ 1
+  1
+– 1
+ 1
+ 1
+ 1
+ 3
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+  2
+) 7
+, 1
+- 2
+. 11
+– 41
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 7
+  8
+) 11
+- 1
+. 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+  2
+) 3
+. 1
+– 1
+ 1
+ 1
+ 1
+ 1
+ 3
+ 1
+ 1
+ 1
+ 1
+ 1
+  3
+) 27
+ 1
+ 1
+ 1
+ 2
+ 1
+ 1
+ 1
+ 1
+ 2
+ 4
+  1
+) 2
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 2
+ 1
+ 1
+ 1
+  1
+) 10
+– 1
+ 1
+ 9
+ 1
+ 2
+ 5
+ 11
+ 1
+ 1
+ 1
+ 10
+ l 2
+ m 2
+ p 1
+ r 22
+ w 1
+)  7
+), 7
+). 1
+,  6
+: 1
+– 28
+– 2
+– 1
+) 16
+. 22
+– 1
+ 4
+ 1
+ 4
+ 1
+ 11
+ 1
+ 18
+ 1
+ 1
+ 1
+) 2
+ 1
+ 25
+ 15
+ 1
+ 1
+ 2
+ 10
+ 1
+ 4
+ 1
+) 14
+– 1
+ 14
+ 5
+ 16
+ 2
+ 1
+ 1
+ 3
+ 1
+ 2
+ 2
+) 1
+ 2
+ 2
+ 17
+ 1
+ 2
+ 12
+ 1
+ 1
+ 1
+ 1
+) 2
+ 7
+ 2
+ 3
+ 1
+ 1
+ 3
+ 18
+ 1
+ 14
+ 16
+  3
+) 4
+– 2
+ 1
+ 12
+ 3
+ 3
+ 65
+ 20
+ 6
+ 31
+ 4
+ 11
+  1
+) 2
+ 31
+ 3
+ 15
+ 1
+ 1
+ 8
+ 4
+ 56
+ 3
+ 2
+  2
+) 50
+, 1
+. 2
+ 12
+ 2
+ 3
+ 5
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+  2
+ 12
+ 6
+ 31
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 2
+  1
+) 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 2
+ 1
+ 1
+ c 1
+ n 1
+ r 4
+ t 1
+ w 2
+)  27
+), 36
+). 15
+,  1
+.  2
+– 1
+  5
+) 10
+. 1
+ 2
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+ 1
+) 1
+ 1
+ 1
+) 2
+  1
+) 4
+ 1
+ 1
+) 1
+- 1
+– 3
+ l 2
+ p 1
+ r 5
+ z 1
+ ł 2
+), 3
+). 1
+- 1
+- 1
+: 1
+– 13
+– 1
+  4
+) 11
+) 5
+  1
+) 29
+  1
+- 1
+  20
+  3
+) 1
+– 1
+- 1
+ 20
+ 3
+  1
+) 1
+ i 1
+ l 2
+ m 1
+ p 3
+ r 6
+)  22
+), 4
+;  1
+– 13
+  1
+ 1
+– 8
+– 1
+– 1
+– 4
+– 11
+ 1
+ 1
+ 1
+  1
+) 1
+ 1
+ 1
+) 1
+– 9
+  15
+  12
+  69
+ 96
+  707
+  707
+  96
+ 19
+ 96
+ 96
+  1
+  1
+ 18
+  707
+ 1
+ 14
+ 7
+ 6
+ 19
+ 19
+ 14
+ 11
+ P 707
+ 96
+ 96
+ﬀ p 1
+ﬀ,  2
+ﬀen 3
+ﬀów 1
+ﬀ⁈  1
+ﬁ b 1
+ﬁ d 1
+ﬁ e 1
+ﬁ n 4
+ﬁ o 1
+ﬁ s 4
+ﬁ u 1
+ﬁ w 1
+ﬁ ą 1
+ﬁ!  1
+ﬁ,  10
+ﬁ.  3
+ﬁ?… 1
+ﬁa  4
+ﬁa, 1
+ﬁa. 1
+ﬁal 1
+ﬁan 3
+ﬁar 70
+ﬁas 5
+ﬁał 5
+ﬁc  3
+ﬁce 348
+ﬁci 15
+ﬁcy 24
+ﬁde 30
+ﬁe  2
+ﬁe, 6
+ﬁe. 6
+ﬁe; 1
+ﬁec 2
+ﬁer 3
+ﬁga 1
+ﬁgu 16
+ﬁgę 1
+ﬁi  1
+ﬁi, 1
+ﬁka 6
+ﬁko 7
+ﬁks 12
+ﬁla 4
+ﬁlc 1
+ﬁle 3
+ﬁli 9
+ﬁlm 14
+ﬁlo 4
+ﬁlę 1
+ﬁm? 1
+ﬁmy 1
+ﬁn  1
+ﬁni 14
+ﬁnó 1
+ﬁol 4
+ﬁon 1
+ﬁra 4
+ﬁrc 2
+ﬁre 2
+ﬁrk 3
+ﬁrm 1
+ﬁro 1
+ﬁrs 3
+ﬁsk 7
+ﬁsz 2
+ﬁt, 1
+ﬁta 1
+ﬁte 4
+ﬁto 3
+ﬁts 3
+ﬁty 13
+ﬁtą 2
+ﬁu! 1
+ﬁws 2
+ﬁzy 1
+ﬁą  2
+ﬁą, 1
+ﬁą. 1
+ﬁą; 1
+ﬁć  4
+ﬁć, 5
+ﬁć. 1
+ﬁć; 2
+ﬁć? 4
+ﬁć… 2
+ﬁę  3
+ﬁę, 3
+ﬁł  15
+ﬁł! 2
+ﬁł, 4
+ﬁł. 7
+ﬁł? 2
+ﬁła 5
+ﬁłb 6
+ﬁłe 3
+ﬁło 6
+ﬁł… 1
+ﬁńs 3
+ﬂa  1
+ﬂad 4
+ﬂam 1
+ﬂan 19
+ﬂas 1
+ﬂeg 5
+ﬂek 2
+ﬂet 10
+ﬂi  1
+ﬂik 20
+ﬂor 1
+ﬂot 1
+ﬂą  1
+ﬃer 1

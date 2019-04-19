@@ -1,0 +1,3458 @@
+Sa 1
+ (1 1
+ 15 5
+ 17 2
+ 19 2
+ 20 1
+ 21 1
+ A  1
+ Ab 3
+ Aj 8
+ Al 18
+ An 1
+ As 1
+ Au 2
+ Av 3
+ Ba 3
+ Be 1
+ Bi 3
+ Bl 1
+ Bo 7
+ Br 1
+ Ce 2
+ Ci 1
+ De 1
+ Do 1
+ Du 2
+ Dü 1
+ Dž 2
+ En 1
+ Er 1
+ Ev 1
+ Fe 2
+ Fr 3
+ Ga 2
+ Ge 1
+ Go 2
+ Gr 3
+ Ha 1
+ Hi 1
+ Ho 1
+ Hu 21
+ Ib 1
+ Im 1
+ In 3
+ Is 2
+ Iv 1
+ Iz 2
+ Je 2
+ Jo 2
+ Ju 1
+ Jü 1
+ KI 1
+ Ka 5
+ Ko 6
+ Ku 1
+ La 6
+ Le 2
+ Lj 1
+ Lu 1
+ MO 2
+ Ma 3
+ Me 1
+ Mi 7
+ Mo 2
+ Mü 1
+ Na 10
+ Ne 5
+ Ni 2
+ Nj 5
+ No 1
+ Nü 1
+ Od 2
+ Ok 1
+ Pe 1
+ Po 6
+ Pr 5
+ Pu 1
+ Ra 3
+ Ri 2
+ Sa 9
+ Se 1
+ Si 2
+ Sl 1
+ Sm 1
+ So 2
+ St 4
+ Su 1
+ Sv 2
+ Ta 1
+ To 3
+ Tr 1
+ Tu 2
+ V  5
+ Ve 4
+ Vi 1
+ Vo 1
+ Vs 3
+ Wi 1
+ Wo 1
+ Za 2
+ Ze 2
+ Zg 1
+ a  2
+ al 6
+ am 1
+ an 4
+ ap 1
+ ar 5
+ as 3
+ at 1
+ av 2
+ ba 5
+ be 7
+ bi 42
+ bl 1
+ bo 22
+ br 14
+ ce 11
+ ci 2
+ da 28
+ de 28
+ di 8
+ dl 1
+ dn 5
+ do 11
+ dr 7
+ du 5
+ dv 7
+ en 10
+ er 1
+ ev 1
+ fa 2
+ fe 1
+ fi 2
+ ga 8
+ ge 1
+ gl 6
+ go 12
+ gr 15
+ ha 5
+ he 2
+ hi 3
+ hk 2
+ hl 4
+ ho 1
+ hr 2
+ hu 4
+ il 1
+ im 15
+ in 110
+ is 1
+ iz 37
+ ja 5
+ je 161
+ ji 4
+ jo 5
+ ju 2
+ k  1
+ ka 32
+ ke 1
+ ki 30
+ kl 2
+ km 1
+ kn 8
+ ko 44
+ kr 12
+ ku 2
+ la 12
+ le 30
+ li 2
+ lj 6
+ lo 4
+ lu 3
+ ma 11
+ me 21
+ mi 6
+ ml 9
+ mo 57
+ mr 2
+ mu 12
+ na 59
+ ne 50
+ ni 8
+ nj 18
+ no 9
+ nu 1
+ o  7
+ ob 22
+ od 29
+ og 1
+ ok 3
+ om 5
+ op 6
+ or 3
+ os 5
+ ot 7
+ oč 5
+ pa 29
+ pe 11
+ pi 8
+ pl 6
+ po 82
+ pr 74
+ pu 2
+ ra 20
+ rd 1
+ re 12
+ ri 3
+ ro 12
+ ru 4
+ s  16
+ sa 21
+ se 41
+ si 15
+ sk 5
+ sl 16
+ sm 11
+ sn 1
+ so 37
+ sp 10
+ sr 5
+ st 27
+ su 6
+ sv 27
+ sá 1
+ ta 13
+ te 25
+ ti 6
+ tj 1
+ to 9
+ tr 21
+ tu 11
+ tv 1
+ ub 3
+ ud 1
+ ug 1
+ uh 1
+ uk 2
+ um 9
+ un 2
+ up 3
+ ur 2
+ us 7
+ ut 1
+ uz 1
+ uč 1
+ uš 1
+ v  34
+ va 4
+ vd 2
+ ve 17
+ vi 7
+ vk 2
+ vl 1
+ vm 1
+ vo 21
+ vp 1
+ vr 8
+ vs 14
+ vz 4
+ vč 2
+ vš 1
+ z  27
+ za 42
+ zb 4
+ zd 2
+ ze 4
+ zg 19
+ zi 1
+ zj 1
+ zl 6
+ zm 5
+ zn 9
+ zv 5
+ »T 1
+ »g 1
+ »j 1
+ »k 1
+ »p 1
+ »s 1
+ Ém 1
+ Če 3
+ Čo 3
+ Čr 1
+ ča 5
+ če 6
+ či 3
+ čl 6
+ čr 5
+ ču 5
+ čv 1
+ Ši 1
+ Šp 1
+ Št 1
+ ša 2
+ še 8
+ šk 3
+ šl 1
+ šo 1
+ št 6
+ Ži 1
+ ža 4
+ že 15
+ ži 6
+(19 1
+) j 1
+, A 1
+, E 1
+, G 1
+, I 2
+, J 1
+, K 1
+, L 1
+, M 1
+, R 1
+, S 1
+, a 6
+, b 3
+, d 24
+, g 4
+, h 3
+, i 11
+, j 17
+, k 46
+, l 4
+, m 10
+, n 19
+, o 13
+, p 18
+, r 1
+, s 23
+, t 16
+, u 2
+, v 7
+, z 14
+, » 4
+, č 4
+, Š 1
+, š 6
+, ž 3
+,«  4
+-19 1
+-om 1
+. A 3
+. B 4
+. D 2
+. E 1
+. G 2
+. H 2
+. I 5
+. K 5
+. L 2
+. M 4
+. N 18
+. O 2
+. P 10
+. R 2
+. S 6
+. T 7
+. V 9
+. Z 3
+. Č 4
+004 1
+04  1
+1 n 1
+14, 1
+154 2
+156 2
+179 2
+191 1
+199 3
+2,  1
+2-1 1
+200 1
+3.  1
+4 z 1
+4,  1
+41  1
+49  1
+5 p 1
+5)  1
+541 1
+549 1
+563 1
+565 1
+63. 1
+65  1
+791 1
+798 1
+8,  1
+9 u 1
+91, 1
+914 1
+92, 1
+92- 1
+95) 1
+98, 1
+992 2
+995 1
+: a 1
+: k 1
+: t 1
+: » 1
+: č 2
+: Ž 1
+; n 1
+; p 1
+? N 1
+A k 1
+ATI 1
+Abd 2
+Abr 1
+Ajn 9
+Ala 1
+Alb 11
+Ali 9
+An­ 1
+Arh 1
+Asi 1
+Aud 1
+Aus 1
+Avg 2
+Avi 1
+Bar 2
+Baš 1
+Beg 1
+Bil 3
+Bis 1
+Bli 1
+Bog 6
+Bol 1
+Bor 1
+Bos 3
+Bri 1
+Cer 1
+Ce­ 1
+Cio 1
+Da  1
+Del 2
+Do  1
+Dub 1
+Dun 1
+Dür 1
+Dži 2
+Enk 1
+Ern 1
+Evr 1
+Fer 2
+Fra 4
+Gav 1
+Gaz 1
+Geh 1
+Goe 1
+Gos 1
+Got 1
+Gra 1
+Gre 1
+Grk 1
+Gro 1
+Haj 1
+Hip 1
+Hot 1
+Hri 1
+Hud 1
+Hus 23
+Hu­ 1
+I M 2
+I s 1
+INS 1
+Ibn 1
+Imr 1
+In  4
+Ist 2
+Iva 1
+Iz  3
+Jer 1
+Jes 2
+Joh 1
+Jor 1
+Juž 1
+Jün 1
+KI  2
+Kad 1
+Kam 1
+Kar 5
+Kdo 2
+Ker 1
+Knj 1
+Ko  4
+Kor 1
+Kot 2
+Koz 3
+Kun 1
+LAT 1
+Lat 6
+Laz 1
+Le  1
+Lec 1
+Les 1
+Let 1
+Lju 1
+Lui 1
+MOS 2
+Maj 1
+Mar 2
+Med 3
+Mic 2
+Mil 4
+Mim 1
+Moj 1
+Mož 2
+Mün 1
+NSK 1
+Na  7
+Nam 1
+Nap 1
+Nat 2
+Naz 1
+Naš 1
+Ne  1
+Nea 3
+Nek 2
+Nik 1
+Nim 1
+Nje 5
+Nor 1
+Nür 1
+OST 2
+Ob  1
+Obl 1
+Od  1
+Odp 1
+Oko 1
+Opa 1
+Osr 1
+PRV 1
+Per 1
+Po  2
+Pol 1
+Pom 1
+Pop 1
+Pot 1
+Poz 1
+Po­ 1
+Pre 4
+Pri 2
+Prv 2
+Puš 1
+RVI 1
+Rad 1
+Rai 1
+Raz 1
+Ril 1
+Rim 1
+Rom 1
+SKI 1
+ST, 1
+Sam 2
+Sar 12
+Sed 1
+Sem 1
+Sin 2
+Slo 1
+Smr 1
+Sof 1
+Son 1
+Sta 3
+Ste 1
+Su­ 1
+Sve 3
+T,  1
+TIN 1
+Ta  2
+Tak 2
+Teg 1
+To  3
+Tod 1
+Tre 1
+Tu  1
+Tur 1
+V N 1
+V S 1
+V d 2
+V e 1
+V n 1
+V p 1
+V s 1
+V t 1
+V č 2
+VI  1
+Veh 1
+Vel 5
+Več 1
+Vid 1
+Vol 1
+Vsa 1
+Vse 2
+Wik 1
+Wol 1
+Za  1
+Zam 1
+Zap 1
+Zat 1
+Zem 2
+Zgr 1
+a ( 1
+a 1 8
+a 2 1
+a A 13
+a B 4
+a C 1
+a D 2
+a F 3
+a G 1
+a H 3
+a I 1
+a J 2
+a K 1
+a L 2
+a M 4
+a P 2
+a S 1
+a V 1
+a W 1
+a Z 1
+a a 2
+a b 9
+a c 1
+a d 12
+a f 1
+a g 2
+a h 1
+a i 36
+a j 31
+a k 9
+a l 7
+a m 18
+a n 15
+a o 12
+a p 32
+a r 7
+a s 32
+a t 14
+a u 2
+a v 18
+a z 18
+a č 4
+a Š 1
+a ž 5
+a,  64
+a,« 1
+a.  16
+a.« 1
+a?  1
+aat 1
+aba 1
+abi 3
+abj 1
+abl 1
+abo 2
+abs 2
+aci 1
+ack 3
+ad  4
+ad. 1
+ada 9
+adb 1
+ade 8
+adi 14
+adl 1
+adn 14
+ado 8
+adr 1
+adž 1
+afo 1
+aga 2
+agl 6
+ago 2
+agr 1
+ag­ 1
+ah  5
+ah, 2
+ah. 1
+ahk 8
+ahn 1
+aho 1
+ahu 1
+ain 1
+air 1
+aj  22
+aj, 1
+aja 4
+ajc 2
+aje 17
+ajh 2
+ajl 1
+ajn 2
+ajo 2
+ajr 2
+ajs 4
+ajt 6
+aju 2
+ajv 2
+aj­ 1
+ajš 1
+ak  6
+aka 11
+ake 2
+aki 2
+akl 3
+akn 1
+ako 13
+akr 2
+akt 1
+akš 4
+al  45
+al, 3
+al. 1
+ala 15
+ale 5
+alg 1
+ali 20
+alj 3
+alm 1
+aln 4
+alo 5
+als 2
+alu 3
+alv 1
+am  3
+am, 2
+am. 1
+ama 4
+amb 1
+ame 9
+ami 14
+amn 9
+amo 10
+amt 1
+an  11
+an, 6
+an- 1
+an. 1
+ana 7
+anb 2
+anc 4
+and 4
+ane 13
+ang 5
+ani 18
+anj 26
+ank 2
+ann 1
+ano 7
+ans 12
+ant 6
+anu 10
+an­ 1
+anč 1
+aok 1
+ap, 1
+apa 2
+ape 2
+api 2
+apl 4
+apn 1
+apo 3
+apr 1
+apu 1
+ar  9
+ar, 1
+ar. 1
+ara 23
+arb 1
+arc 2
+ard 3
+are 3
+arh 2
+ari 12
+arj 6
+arn 5
+aro 2
+ars 6
+aru 2
+arv 1
+arx 1
+ar­ 2
+arč 1
+arš 1
+as  1
+asa 1
+asb 1
+ase 2
+asi 3
+asl 2
+asm 1
+asn 2
+asp 1
+ast 15
+asu 3
+at  7
+at, 2
+at. 1
+ata 1
+ate 12
+ati 21
+atk 2
+atl 2
+ato 7
+ats 1
+atu 2
+aus 1
+av  2
+ava 6
+avb 2
+avc 2
+avd 1
+ave 2
+avi 16
+avk 1
+avl 5
+avn 10
+avo 5
+avr 1
+avs 4
+avz 1
+awa 1
+az  2
+az, 1
+aza 6
+azd 2
+aze 1
+azi 4
+azk 1
+azl 3
+azn 2
+azo 5
+azs 1
+azu 3
+az­ 2
+a … 1
+a«. 1
+ač. 1
+ača 2
+ače 5
+ači 2
+ačk 2
+ačn 1
+aču 4
+aš  2
+aš, 1
+aša 1
+aše 2
+ašk 7
+ašn 1
+ašč 3
+až  1
+ažn 1
+b k 1
+b n 1
+b t 1
+b ž 1
+b,  1
+ba  2
+ba, 3
+ba. 1
+bal 2
+bam 1
+ban 10
+bar 4
+bat 2
+bda 1
+bde 1
+bdu 2
+be  2
+be. 1
+beg 13
+bel 2
+bem 1
+ben 1
+ber 5
+bes 4
+bet 1
+bez 1
+bež 1
+bi  12
+bi. 2
+bic 1
+bij 2
+bik 1
+bil 35
+bin 3
+bir 1
+bis 4
+bit 3
+biv 2
+bi­ 1
+bič 1
+biš 1
+bja 1
+bla 1
+ble 2
+bli 3
+blj 3
+bn  1
+bne 2
+bni 2
+bno 2
+bo  7
+bo, 1
+bob 1
+bod 1
+bog 1
+bok 3
+bol 8
+bom 3
+bor 4
+bos 4
+bot 1
+bož 2
+bra 15
+bre 9
+bri 3
+bro 2
+brs 1
+brt 2
+bse 1
+bsk 3
+buh 1
+buk 1
+bul 2
+bus 7
+bve 1
+bču 2
+bši 1
+c H 1
+c b 1
+c d 1
+c p 1
+c s 3
+c z 1
+c,  2
+c,« 1
+c.  2
+c.« 1
+ca  6
+ca, 3
+cah 2
+cal 1
+cam 1
+ca« 1
+ce  3
+ce, 2
+ce. 1
+ced 1
+cel 5
+cem 4
+cen 2
+cer 1
+ces 6
+cev 1
+cha 1
+che 2
+chh 1
+cht 1
+ci  2
+ci, 1
+cig 1
+cij 2
+cio 1
+cip 1
+cit 1
+cka 2
+cke 1
+cki 1
+cko 1
+cno 2
+co  5
+co. 2
+cu  8
+cu. 1
+d J 1
+d L 1
+d V 1
+d b 1
+d d 3
+d k 1
+d l 1
+d m 2
+d n 7
+d o 4
+d p 6
+d s 2
+d t 2
+d v 1
+d z 2
+d š 1
+d,  1
+d.  1
+da  30
+da, 1
+da. 2
+dag 4
+daj 5
+dal 8
+dam 1
+dan 10
+dar 8
+dat 1
+dav 1
+daš 1
+dba 1
+dbe 2
+dbo 2
+de  4
+de, 1
+ded 1
+deg 2
+dej 3
+dek 1
+del 26
+dem 3
+den 10
+der 2
+des 3
+det 1
+dev 3
+dez 1
+de­ 3
+deč 3
+dež 2
+dgo 1
+di  10
+di, 2
+di. 2
+dia 1
+dih 3
+dij 3
+dil 16
+din 3
+dip 1
+dit 5
+div 3
+dič 5
+diš 4
+dja 3
+dje 4
+dji 1
+djo 1
+dkr 4
+dla 7
+dli 1
+dmi 1
+dne 8
+dni 6
+dnj 12
+dno 12
+do  6
+do, 3
+do. 3
+dob 4
+dod 1
+dok 1
+dol 1
+dom 3
+don 1
+dor 2
+dos 2
+dou 1
+dov 12
+doz 1
+do  1
+dpo 2
+dpr 2
+dra 6
+dre 5
+dri 1
+dro 2
+dru 7
+dsk 2
+dst 3
+dte 1
+du  1
+du. 1
+duh 1
+duj 1
+dul 2
+duš 5
+dva 4
+dve 6
+dvi 1
+dšl 1
+dža 1
+dži 1
+e A 6
+e B 1
+e C 1
+e G 1
+e H 8
+e J 1
+e L 1
+e M 1
+e R 1
+e S 2
+e a 2
+e b 38
+e c 2
+e d 14
+e e 4
+e f 1
+e g 10
+e h 4
+e i 26
+e j 19
+e k 13
+e l 4
+e m 21
+e n 16
+e o 14
+e p 21
+e r 8
+e s 26
+e t 12
+e u 5
+e v 23
+e z 21
+e č 2
+e š 3
+e ž 5
+e,  38
+e.  8
+e:  3
+e;  1
+eap 3
+eba 1
+ebe 2
+ebi 3
+ebn 1
+ebr 3
+ebu 1
+ec  5
+ec, 3
+ec. 1
+eca 1
+ece 1
+ech 1
+ecn 1
+ed  18
+ed, 1
+eda 10
+ede 15
+edi 8
+edj 2
+edl 5
+edm 1
+edn 5
+edo 3
+edr 1
+eds 3
+edt 1
+edu 2
+edv 1
+efa 1
+efi 1
+eg  12
+eg, 2
+eg. 1
+ega 60
+ege 2
+egl 1
+ego 20
+eh  3
+eha 2
+ehe 1
+ehi 1
+eho 1
+ei. 1
+eim 1
+ein 22
+ej  9
+eja 9
+eje 5
+ejm 2
+ejo 2
+ejt 1
+ejš 6
+ek  11
+ek, 1
+eka 23
+eke 9
+eki 4
+ekl 3
+eko 12
+ekt 3
+el  20
+el, 5
+el. 1
+ela 22
+ele 8
+eli 17
+elj 12
+elk 1
+eln 1
+elo 12
+em  34
+em, 3
+ema 7
+emb 1
+eme 2
+emi 3
+eml 4
+emn 3
+emo 3
+ems 1
+emu 6
+emv 1
+em­ 1
+en  15
+en, 1
+en. 5
+ena 12
+enc 6
+end 2
+ene 8
+eni 15
+enj 13
+enk 2
+eno 16
+ens 5
+ent 2
+enu 2
+en­ 3
+eom 1
+eon 1
+eos 1
+ep, 1
+epa 2
+epe 3
+epi 2
+epl 1
+epo 8
+epr 7
+epč 1
+epš 1
+er  17
+er, 2
+era 5
+erb 1
+erd 3
+ere 3
+erg 2
+eri 4
+erj 3
+erk 2
+ern 4
+ero 2
+erp 1
+ers 1
+ert 1
+erv 1
+erz 3
+er­ 1
+es  1
+es, 2
+esa 8
+ese 9
+esi 2
+esk 2
+esl 2
+esm 1
+esn 8
+eso 3
+esr 1
+est 9
+esu 1
+et  8
+et, 1
+eta 16
+etd 1
+ete 6
+eth 1
+eti 12
+etj 2
+etl 3
+etn 6
+eto 4
+etr 8
+etu 2
+eum 1
+ev  2
+ev, 5
+ev. 1
+eva 11
+evb 1
+eve 8
+evi 3
+evj 1
+evn 3
+evo 4
+evr 1
+evs 8
+evu 2
+evz 1
+ev  1
+ez  3
+eza 5
+ezd 3
+eze 4
+ezi 3
+ezk 1
+ezl 1
+ezn 6
+ezo 1
+e – 1
+e … 1
+eč  6
+eč, 2
+eče 4
+eči 1
+ečj 2
+ečk 1
+ečn 1
+ečo 1
+eša 2
+eše 1
+ešn 1
+ešč 3
+eže 2
+eži 2
+ežk 1
+ežn 1
+fa, 1
+fan 2
+far 1
+fes 1
+fga 1
+fij 1
+fil 2
+fin 1
+for 1
+g g 1
+g i 2
+g j 5
+g l 1
+g n 1
+g o 1
+g p 2
+g s 1
+g t 1
+g v 1
+g š 1
+g,  3
+g.  1
+ga  62
+ga, 8
+ga. 2
+gal 4
+gam 2
+gan 2
+gar 2
+ga­ 1
+ge  2
+ge, 1
+gej 1
+gel 6
+gem 1
+gen 1
+geo 1
+ger 1
+ge­ 1
+gi  2
+gij 1
+gim 3
+gin 1
+gla 5
+gle 9
+gli 4
+glo 4
+go  3
+go, 1
+god 8
+gol 5
+gon 1
+gor 1
+gos 3
+got 2
+gov 34
+go­ 2
+goč 3
+gra 20
+gre 2
+gri 1
+grm 1
+gro 3
+grs 1
+grš 1
+gu, 1
+gub 1
+gu­ 1
+guš 1
+h B 1
+h L 1
+h S 2
+h b 1
+h c 1
+h d 2
+h i 2
+h j 3
+h k 2
+h l 1
+h m 1
+h n 1
+h o 3
+h p 7
+h r 1
+h s 3
+h t 2
+h u 1
+h v 2
+h z 1
+h č 1
+h ž 2
+h,  3
+h.  4
+ha  2
+hab 1
+had 1
+hak 1
+hal 3
+han 1
+hat 1
+hau 1
+ha­ 1
+hei 1
+hej 1
+hel 2
+her 2
+hha 1
+hi. 1
+hit 3
+hiš 3
+hke 1
+hko 7
+hkr 2
+hla 5
+hlj 1
+hna 1
+hne 1
+hni 2
+hod 5
+hom 2
+hot 3
+hov 2
+ho­ 1
+hra 2
+hrv 1
+hta 1
+hte 1
+hu, 1
+hud 4
+i A 11
+i B 1
+i E 1
+i F 1
+i G 2
+i H 2
+i M 1
+i N 1
+i O 1
+i S 1
+i a 1
+i b 12
+i c 2
+i d 7
+i g 1
+i h 3
+i i 17
+i j 29
+i k 9
+i l 7
+i m 23
+i n 18
+i o 16
+i p 21
+i r 7
+i s 39
+i t 4
+i u 3
+i v 8
+i z 7
+i č 2
+i,  30
+i.  22
+i.« 2
+i:  1
+iar 1
+iba 1
+ibe 9
+ibo 3
+ibr 2
+ibu 7
+ic  3
+ic. 1
+ica 6
+ice 4
+ich 2
+icn 1
+ico 5
+icu 2
+id  1
+ida 1
+ide 3
+idi 1
+ie  1
+ien 1
+ig  1
+ig, 1
+iga 5
+ige 2
+igi 1
+igo 3
+igr 1
+ih  31
+ih, 1
+ih. 3
+iha 1
+ihn 1
+iho 3
+iht 1
+iin 1
+ij  1
+ij, 1
+ija 9
+ije 4
+iji 1
+ijo 7
+ijs 4
+ik  10
+ik, 2
+ik. 1
+ika 9
+ike 5
+iki 2
+iko 12
+ikr 3
+il  52
+il, 7
+il. 3
+il: 1
+ila 20
+ile 4
+ili 21
+ilj 4
+ilk 1
+ilm 1
+ilo 12
+ilu 1
+im  22
+im, 3
+ima 6
+imb 1
+ime 14
+imi 15
+ims 1
+in  126
+in, 3
+in. 1
+ina 10
+inc 2
+ind 2
+ine 6
+ini 9
+inj 2
+inl 1
+ino 5
+ins 10
+int 1
+inu 2
+inš 1
+inž 1
+io, 1
+ion 1
+io­ 1
+ipa 1
+ipe 2
+ipl 1
+ipo 2
+ipr 1
+ir  1
+ira 3
+ire 2
+iri 6
+irj 1
+irk 1
+irm 1
+iro 2
+isa 8
+ise 2
+isk 3
+isl 5
+ism 2
+isn 1
+iso 2
+ist 18
+isu 2
+isł 1
+it  2
+ita 1
+ite 15
+iti 8
+itj 3
+itk 1
+itn 2
+ito 6
+itu 1
+itv 3
+iv, 1
+iva 9
+ive 3
+ivi 1
+ivj 2
+ivl 4
+ivo 4
+iv­ 1
+iz  15
+izd 3
+ize 1
+izg 3
+izh 1
+izk 1
+izm 3
+izn 1
+izo 1
+izp 1
+izr 2
+izu 1
+izv 3
+izz 1
+iz­ 1
+ića 3
+ič  4
+ič. 1
+iča 6
+iče 10
+iči 1
+ičn 10
+iču 1
+iša 3
+iše 2
+iši 3
+išk 3
+išl 4
+išo 2
+išč 4
+iža 1
+iže 1
+ižn 2
+j G 1
+j Z 1
+j b 2
+j d 4
+j e 1
+j i 4
+j j 2
+j k 6
+j l 2
+j m 5
+j o 1
+j p 4
+j r 1
+j s 1
+j t 3
+j u 2
+j v 3
+j z 7
+j č 1
+j,  4
+j.  1
+ja  27
+ja, 7
+ja. 2
+ja? 1
+jac 3
+jad 1
+jag 1
+jaj 1
+jak 6
+jal 14
+jam 2
+jan 8
+jat 3
+jav 1
+ja­ 2
+jaš 4
+jce 1
+jco 1
+je  186
+je, 18
+je. 4
+je: 1
+jeg 23
+jej 1
+jem 8
+jen 19
+jer 1
+jet 4
+jev 20
+jez 2
+je­ 2
+jhn 2
+ji  9
+ji, 1
+ji. 2
+jic 1
+jig 8
+jih 7
+jij 1
+jil 1
+jim 4
+jiv 3
+ji­ 1
+již 1
+jk, 1
+jle 1
+jma 1
+jme 1
+jna 1
+jne 1
+jni 9
+jno 4
+jo  23
+jo, 4
+jo. 3
+jo; 1
+jos 1
+joč 1
+jre 1
+jru 1
+jse 2
+jsk 7
+jst 7
+jta 1
+jti 6
+ju  11
+ju, 3
+jub 5
+jud 4
+jun 1
+jut 2
+ju­ 2
+juč 4
+jve 2
+jše 2
+jši 6
+k H 1
+k a 1
+k d 2
+k h 1
+k i 6
+k j 3
+k k 1
+k l 1
+k n 5
+k p 1
+k r 1
+k s 2
+k u 1
+k v 2
+k z 2
+k,  5
+k,« 1
+k.  1
+ka  18
+ka, 7
+ka. 2
+kad 2
+kah 1
+kaj 21
+kak 6
+kal 5
+kam 12
+kan 3
+kap 2
+kar 3
+kas 1
+kat 5
+kav 1
+kaz 3
+ka­ 2
+kaš 1
+ke  23
+ke, 5
+ke. 1
+ke: 1
+keg 21
+kej 1
+kel 1
+kem 1
+ker 1
+ket 1
+kev 1
+ke­ 1
+ki  50
+ki, 2
+ki. 4
+kih 4
+kim 4
+kip 1
+kis 1
+ki­ 1
+kič 1
+kje 1
+kla 3
+kle 3
+kli 4
+klj 5
+kma 1
+kni 1
+knj 10
+kno 1
+ko  40
+ko, 6
+ko. 4
+koc 2
+kol 4
+kom 4
+kon 12
+kop 2
+kor 7
+kos 1
+kot 24
+kov 12
+koz 3
+ko­ 3
+koč 4
+kož 4
+kra 13
+kre 1
+kri 11
+kro 4
+krš 3
+kta 1
+kti 1
+ktu 2
+ku  2
+ku, 1
+ku. 1
+kuj 1
+kul 1
+kup 1
+kur 1
+kšn 5
+l D 1
+l H 2
+l M 1
+l V 1
+l a 1
+l b 3
+l c 2
+l d 4
+l g 4
+l h 1
+l i 6
+l j 5
+l k 7
+l l 6
+l m 3
+l n 11
+l o 7
+l p 12
+l r 3
+l s 9
+l t 3
+l u 2
+l v 10
+l z 10
+l č 2
+l š 4
+l ž 1
+l,  16
+l.  4
+l:  1
+la  39
+la, 7
+la. 6
+lab 2
+lad 15
+lah 10
+laj 1
+lal 5
+lam 2
+lan 6
+lap 2
+lar 4
+las 7
+lat 4
+lav 12
+la­ 3
+lač 5
+lba 10
+lbr 1
+lda 1
+ldn 1
+le  8
+le, 1
+le. 2
+lec 3
+led 11
+leg 5
+lej 3
+lek 2
+lel 1
+lem 3
+len 3
+lep 11
+les 7
+let 17
+lev 2
+lez 2
+leč 1
+leš 1
+lfg 1
+lga 1
+lgo 1
+li  42
+li, 7
+li. 3
+lib 3
+lic 5
+lih 1
+lik 13
+lil 6
+lim 4
+lio 1
+lis 2
+lit 3
+liv 1
+liz 2
+li­ 1
+lić 3
+lič 3
+liš 2
+liž 2
+lj  10
+lj. 1
+lja 13
+lje 19
+lji 7
+ljo 2
+ljs 2
+lju 18
+ljš 1
+lke 1
+lki 1
+lma 1
+lms 1
+lna 2
+lne 1
+lni 2
+lno 2
+lo  16
+lo, 4
+lo. 1
+lob 8
+log 1
+lok 1
+lom 2
+lon 2
+los 1
+lot 2
+lov 25
+loz 2
+loč 1
+lož 1
+lsk 2
+lta 3
+lu  2
+luj 1
+luk 1
+lus 1
+lut 2
+luč 1
+lve 1
+m M 1
+m S 1
+m a 1
+m d 1
+m f 1
+m g 1
+m i 11
+m j 6
+m k 5
+m l 2
+m m 2
+m n 4
+m o 2
+m p 7
+m r 1
+m s 11
+m t 2
+m u 1
+m v 4
+m z 4
+m č 1
+m,  12
+m.  2
+ma  10
+ma, 2
+ma. 1
+mag 2
+mah 1
+maj 1
+mak 1
+mal 3
+mam 1
+man 11
+mar 1
+mat 9
+maz 2
+mač 3
+mbe 1
+mbr 2
+me  6
+me, 1
+med 11
+mej 2
+mel 5
+mem 2
+men 16
+mer 5
+mes 6
+met 4
+me  1
+me­ 3
+meč 2
+meš 4
+mi  19
+mi, 7
+mi. 5
+mij 1
+mik 1
+mil 4
+mim 2
+min 3
+mir 1
+mis 7
+miv 1
+mič 1
+miš 5
+mla 10
+mle 1
+mlj 5
+mna 4
+mne 3
+mni 10
+mno 5
+mnu 1
+mo  14
+mo, 1
+mod 2
+mog 4
+moj 4
+mol 4
+mor 1
+mos 35
+mot 2
+mov 2
+moč 8
+moš 3
+mož 5
+mra 3
+mre 1
+mrl 3
+mrt 7
+mrz 1
+msk 3
+mti 1
+mu  16
+mu, 1
+mus 1
+muč 1
+mve 1
+n K 5
+n P 1
+n S 3
+n V 1
+n a 2
+n b 5
+n c 1
+n d 9
+n e 1
+n f 1
+n g 4
+n h 1
+n i 1
+n j 7
+n k 8
+n l 2
+n m 4
+n n 14
+n o 5
+n p 16
+n r 9
+n s 21
+n t 6
+n u 8
+n v 7
+n z 8
+n É 1
+n č 6
+n š 1
+n,  10
+n,« 1
+n-o 1
+n.  2
+na  44
+na, 10
+na. 2
+nad 2
+nag 1
+nah 1
+naj 10
+nak 2
+nal 7
+nam 6
+nan 11
+nao 1
+nap 1
+nar 3
+nas 5
+nat 4
+nav 7
+naz 2
+na  1
+na­ 2
+nač 1
+naš 3
+nbe 1
+nbu 2
+nc. 1
+nca 5
+nce 2
+nch 1
+nci 4
+nco 1
+ncu 6
+nda 4
+nde 1
+ndr 1
+ndv 2
+ndž 1
+ne  22
+ne, 3
+neb 2
+nec 3
+neg 17
+neh 1
+nej 8
+nek 30
+nel 3
+nem 8
+nen 5
+nep 1
+ner 2
+nes 7
+net 1
+neu 1
+nev 9
+nez 3
+ne­ 1
+nga 2
+nge 5
+ni  29
+ni, 8
+ni. 2
+ni: 1
+nib 15
+nic 8
+nih 13
+nij 2
+nik 19
+nil 11
+nim 11
+nin 3
+nir 1
+nis 3
+nit 6
+ni­ 2
+nič 9
+niš 1
+nj  7
+nj, 2
+nja 15
+nje 50
+nji 16
+njo 4
+nju 6
+nka 1
+nke 1
+nkr 3
+nlu 1
+nna 1
+no  50
+no, 7
+no. 5
+no: 1
+nog 1
+nom 7
+nop 1
+nos 9
+not 2
+nov 19
+no­ 2
+noč 5
+nsk 27
+nst 3
+nta 3
+nte 3
+nti 2
+ntu 1
+nu  4
+nu, 1
+nuj 1
+nus 10
+nut 2
+n­j 1
+nča 1
+nči 1
+nčn 3
+nšč 1
+nže 1
+o A 1
+o C 1
+o D 1
+o I 1
+o J 1
+o M 1
+o R 1
+o S 1
+o V 1
+o a 4
+o b 7
+o c 3
+o d 6
+o e 3
+o g 8
+o h 3
+o i 28
+o j 24
+o k 14
+o l 6
+o m 18
+o n 12
+o o 4
+o p 34
+o r 3
+o s 33
+o t 10
+o u 2
+o v 15
+o z 16
+o č 1
+o š 2
+o ž 4
+o,  35
+o.  15
+o.« 1
+o:  1
+o;  1
+ob  1
+oba 2
+obd 2
+obe 4
+obi 11
+obl 6
+obn 4
+obo 5
+obr 7
+obs 1
+obu 1
+obv 1
+obč 2
+ock 2
+od  11
+oda 11
+odb 4
+ode 3
+odg 1
+odi 6
+odj 5
+odk 4
+odl 1
+odn 4
+odo 11
+odp 3
+odr 6
+odu 2
+odv 1
+odš 1
+oet 1
+oez 2
+ofa 1
+ofi 1
+og  4
+oga 2
+oge 1
+ogl 6
+ogo 7
+ogr 3
+ogu 1
+oha 1
+oj  2
+oja 7
+oje 9
+oji 5
+ojn 3
+ojo 2
+ojs 6
+oj­ 1
+ok  2
+oka 4
+oke 4
+oki 1
+okl 2
+okn 1
+oko 11
+oku 1
+ol, 1
+ola 1
+old 2
+ole 7
+olf 1
+olg 1
+oli 12
+olj 13
+oln 2
+olo 4
+olt 1
+om  10
+om, 5
+om. 4
+oma 10
+ome 3
+omi 3
+oml 2
+omn 8
+omo 6
+on  1
+ona 1
+onc 7
+one 3
+oni 1
+onj 3
+ono 5
+ons 2
+onu 1
+onč 4
+oog 1
+opa 6
+ope 1
+opi 6
+opk 1
+opl 4
+opn 1
+opo 4
+opr 1
+ops 1
+or  7
+or, 1
+or: 1
+ora 8
+orc 2
+ord 1
+ore 7
+org 2
+ori 9
+orj 2
+orn 1
+oro 5
+os  1
+osa 4
+ose 3
+osi 2
+osl 5
+osn 2
+oso 2
+osp 3
+ost 65
+osu 2
+osv 1
+ot  23
+ot. 1
+ota 1
+ote 8
+oti 8
+otj 1
+otn 8
+oto 10
+otr 9
+ouc 1
+our 1
+ov  12
+ov, 4
+ov. 4
+ova 36
+ovc 2
+ove 24
+ovi 19
+ovl 1
+ovn 7
+ovo 22
+ovs 1
+ov­ 1
+oza 2
+oze 1
+ozi 1
+ozj 3
+ozl 1
+ozm 1
+ozn 3
+ozo 1
+o – 1
+oč  3
+oč, 1
+oč. 1
+oča 1
+oče 8
+oči 10
+očm 3
+očn 6
+očr 1
+oč­ 1
+oše 2
+ošk 2
+ošn 1
+ošč 2
+ož, 1
+oža 9
+ože 2
+oži 2
+ožj 1
+ožn 2
+ožr 1
+p,  2
+pa  22
+pa, 1
+pa. 1
+pad 3
+pal 3
+pam 1
+pan 2
+pap 1
+par 2
+paz 5
+paš 1
+ped 1
+peg 1
+pek 1
+pel 6
+pep 2
+per 3
+pes 4
+pet 6
+pev 1
+pe­ 1
+peš 1
+pi  1
+pij 1
+pil 1
+pim 2
+pir 1
+pis 9
+pit 3
+pi­ 1
+pku 1
+pla 7
+ple 3
+pli 1
+plj 7
+plo 3
+pne 1
+pni 1
+po  18
+pob 2
+pod 4
+poe 2
+pog 7
+pok 4
+pol 11
+pom 7
+pon 3
+pop 9
+por 8
+pos 13
+pot 12
+pov 6
+poz 2
+po­ 2
+poč 5
+poš 1
+pož 1
+pra 17
+pre 37
+pri 23
+prl 1
+pro 19
+prs 2
+prv 3
+psk 1
+pus 3
+pča 1
+pše 1
+r A 2
+r H 2
+r b 2
+r d 1
+r i 3
+r j 5
+r l 1
+r n 2
+r o 1
+r p 3
+r r 1
+r s 3
+r u 1
+r v 1
+r z 3
+r Č 3
+r š 1
+r,  4
+r.  1
+r:  1
+ra  3
+ra, 6
+ra. 1
+rab 5
+rad 29
+rah 2
+raj 28
+rak 2
+ral 3
+ram 3
+ran 17
+ras 3
+rat 13
+rav 19
+raz 17
+ra­ 2
+rač 4
+raš 1
+raž 2
+rb  1
+rba 2
+rbe 1
+rbs 1
+rca 1
+rce 3
+rci 1
+rcu 1
+rda 2
+rde 2
+rdi 3
+rdn 1
+rdo 1
+rds 1
+re  7
+re, 1
+re. 1
+reb 4
+rec 3
+red 25
+ref 1
+reg 6
+reh 3
+rej 6
+rek 12
+rel 1
+rem 2
+ren 4
+reo 1
+rep 9
+rer 1
+res 5
+ret 2
+rev 3
+rez 5
+re  1
+re­ 4
+reč 2
+reš 1
+rež 1
+rga 2
+rge 2
+rgi 1
+rgo 3
+rhi 3
+ri  11
+rib 1
+ric 2
+rid 2
+rie 2
+rig 1
+rih 3
+rii 1
+rij 5
+rik 2
+ril 18
+rim 4
+rin 7
+rip 3
+rir 4
+ris 10
+rit 5
+riv 3
+ri­ 1
+rić 2
+rič 3
+riž 1
+rja 10
+rje 2
+rju 1
+rk, 1
+rke 2
+rku 1
+rl  3
+rl, 1
+rl. 1
+rle 2
+rli 1
+rme 2
+rn, 1
+rna 3
+rnb 1
+rne 8
+rni 6
+rnj 1
+rno 1
+rns 1
+ro  1
+rob 5
+rod 6
+rog 2
+roj 2
+rok 12
+rom 5
+ron 5
+roo 1
+rop 4
+ros 8
+rot 5
+rou 1
+rov 4
+roz 1
+ro­ 3
+roč 2
+roš 1
+rož 2
+rpe 1
+rpr 1
+rsi 2
+rsk 5
+rst 8
+rt  4
+rti 6
+rtj 2
+rtn 4
+rté 1
+rud 1
+rug 6
+ruh 2
+ruj 1
+rup 2
+rus 1
+ru­ 1
+ruš 4
+rva 2
+rve 1
+rvi 2
+rvo 3
+rxa 1
+rza 1
+rzi 2
+rzy 1
+rče 1
+rše 1
+rši 1
+ršk 2
+ršč 2
+s b 1
+s g 1
+s h 2
+s i 2
+s j 2
+s k 3
+s l 1
+s o 1
+s p 3
+s s 6
+s t 2
+s z 1
+s č 1
+s,  3
+sa  2
+sa, 2
+sa. 1
+sab 1
+saj 1
+sak 5
+sal 3
+sam 11
+san 11
+sap 1
+sar 12
+sat 2
+sa­ 1
+sba 1
+se  29
+se, 1
+se. 1
+seb 2
+sec 2
+sed 14
+sef 1
+seh 1
+sei 22
+sek 1
+sel 6
+sem 6
+sen 5
+sep 1
+set 4
+sež 1
+si  12
+si, 1
+sih 3
+sil 4
+sim 2
+sin 1
+siv 1
+si­ 1
+sič 1
+siš 1
+sk, 1
+ska 3
+ske 28
+ski 20
+sko 19
+skr 2
+sku 1
+sla 12
+sle 5
+sli 8
+slo 7
+sma 1
+sme 4
+smi 2
+smo 2
+smr 6
+sne 4
+sni 8
+snj 3
+sno 4
+so  32
+so. 1
+sob 2
+sod 4
+soj 1
+sol 1
+som 4
+son 1
+sop 1
+sot 2
+sov 1
+spe 3
+spo 7
+spr 6
+sra 1
+srb 1
+src 2
+sre 4
+st  14
+st, 7
+st. 7
+sta 32
+ste 20
+sti 16
+stj 5
+stm 1
+stn 9
+sto 22
+str 21
+stu 8
+stv 7
+su  3
+su. 1
+suh 1
+sul 2
+sum 1
+sup 2
+sur 2
+su­ 1
+sve 14
+svi 3
+svo 15
+sza 1
+sáb 1
+sła 1
+s   3
+t K 1
+t L 1
+t a 2
+t b 4
+t d 3
+t f 1
+t g 2
+t h 1
+t j 4
+t l 3
+t m 4
+t n 3
+t o 2
+t p 7
+t r 3
+t s 3
+t t 1
+t u 2
+t v 6
+t z 4
+t ž 1
+t,  9
+t.  6
+ta  24
+ta, 2
+taa 1
+tac 1
+taf 1
+tai 1
+tak 10
+tal 9
+tan 7
+tar 6
+tas 1
+tat 2
+tav 9
+ta­ 1
+taš 1
+tde 1
+te  9
+te, 1
+teb 3
+tec 1
+ted 2
+teg 5
+tej 4
+tek 5
+tel 16
+tem 18
+ten 2
+teo 1
+ter 20
+tes 1
+tev 5
+tez 1
+te­ 2
+tež 1
+the 1
+ti  34
+ti, 3
+ti. 5
+tic 1
+tih 5
+tij 1
+tik 5
+til 5
+tim 3
+tin 12
+tir 6
+tis 5
+tit 1
+tiv 1
+tič 7
+tja 4
+tje 3
+tjo 6
+tju 1
+tka 1
+tki 1
+tko 2
+tku 1
+tla 1
+tle 1
+tlo 3
+tmi 1
+tna 1
+tne 2
+tni 17
+tnj 1
+tno 10
+to  21
+to, 3
+tod 4
+tok 1
+tol 1
+tom 4
+top 1
+tor 5
+tos 1
+tot 1
+tov 12
+tož 1
+tra 13
+trd 2
+tre 10
+trg 4
+tri 13
+tro 11
+trp 1
+trt 6
+tru 3
+tsp 1
+tu  5
+tu, 2
+tu. 3
+tua 1
+tub 1
+tud 9
+tun 1
+tur 4
+tva 5
+tve 2
+tvo 4
+tés 1
+u B 1
+u H 2
+u S 1
+u d 3
+u g 1
+u h 1
+u i 2
+u j 10
+u k 4
+u l 1
+u m 2
+u o 2
+u p 2
+u r 1
+u s 12
+u t 1
+u v 4
+u z 2
+u » 1
+u š 1
+u ž 1
+u,  10
+u.  1
+u.« 1
+ual 1
+ub  1
+ub, 1
+ube 1
+ubi 5
+ubo 1
+ubr 1
+ubš 1
+uch 1
+uda 3
+ude 2
+udi 16
+udj 1
+udn 3
+udo 4
+uds 1
+uge 2
+ugi 3
+ugo 2
+uh  2
+uha 1
+uhl 1
+uho 2
+uis 1
+uje 3
+ujk 1
+ujn 1
+ujo 1
+uk, 2
+uka 2
+ul  1
+ula 3
+ulo 1
+ult 2
+uma 2
+ume 3
+umi 3
+uml 1
+umn 2
+umr 3
+una 2
+und 1
+une 1
+ung 1
+uni 3
+upa 1
+upl 4
+upo 2
+upr 1
+ur  1
+ura 3
+urb 1
+ure 3
+urj 1
+urn 1
+ur­ 1
+urš 1
+us  7
+us, 3
+usa 1
+use 24
+usi 1
+usk 1
+usl 1
+usn 3
+uso 4
+ust 7
+us  3
+ute 1
+uti 2
+utk 2
+utn 1
+utr 3
+uzr 1
+uč  1
+uče 2
+uči 1
+učj 1
+učn 2
+uš, 1
+uša 3
+uše 3
+uši 3
+ušt 1
+ušč 1
+užn 1
+v B 1
+v N 1
+v S 3
+v d 1
+v g 1
+v h 1
+v i 6
+v j 1
+v k 1
+v l 1
+v m 2
+v n 6
+v o 1
+v p 7
+v r 4
+v s 4
+v t 3
+v v 2
+v z 1
+v č 2
+v ž 1
+v,  8
+v.  1
+va  16
+va, 3
+va. 3
+vad 2
+vah 1
+vaj 3
+vak 1
+val 18
+vam 2
+van 21
+var 6
+vas 1
+vat 1
+va­ 2
+vaš 1
+vbe 1
+vbn 1
+vbo 1
+vca 2
+vce 2
+vda 1
+vdi 1
+vdo 1
+ve  9
+ve, 2
+ve. 1
+ve: 1
+ve; 1
+vec 1
+ved 8
+veg 2
+veh 1
+vek 10
+vel 7
+vem 5
+ven 3
+ver 2
+vet 19
+vez 9
+ve­ 4
+več 7
+vgu 2
+vi  9
+vi, 1
+vi. 1
+vic 2
+vid 3
+vig 1
+vih 4
+vij 2
+vil 10
+vim 2
+vin 7
+vit 5
+vi­ 2
+vić 1
+vič 1
+viš 3
+vja 2
+vji 1
+vke 1
+vkl 3
+vlj 11
+vme 1
+vna 1
+vne 5
+vni 7
+vnj 1
+vno 6
+vo  13
+vo, 4
+vo. 1
+vod 13
+voj 27
+vol 3
+von 1
+vor 10
+vos 1
+vot 1
+voš 2
+vpi 1
+vra 1
+vrb 1
+vre 1
+vri 1
+vrl 3
+vrn 1
+vro 2
+vrs 4
+vrt 1
+vsa 4
+vse 10
+vsk 10
+vso 1
+vst 3
+vu  2
+vzd 1
+vze 1
+vzh 3
+vzn 1
+v – 1
+vča 2
+všt 1
+wa  1
+xa, 1
+yja 1
+z B 3
+z D 1
+z F 1
+z I 1
+z N 2
+z W 1
+z a 2
+z b 2
+z c 1
+z d 1
+z e 1
+z g 2
+z h 1
+z l 5
+z m 2
+z n 5
+z o 2
+z p 1
+z s 1
+z t 2
+z u 2
+z v 6
+z z 3
+z Š 1
+z š 1
+z,  1
+za  16
+za, 1
+zad 5
+zag 4
+zah 1
+zaj 1
+zak 1
+zal 4
+zam 3
+zan 6
+zap 4
+zar 4
+zas 3
+zav 3
+zač 4
+zaš 2
+zbi 2
+zbo 1
+zbr 1
+zd  1
+zda 1
+zde 4
+zdi 2
+zdn 1
+zdr 2
+ze  1
+ze, 1
+zei 1
+zel 4
+zem 1
+zen 3
+ze­ 1
+zgi 1
+zgl 1
+zgo 11
+zgr 8
+zgu 1
+zhl 1
+zho 3
+zi  1
+zij 5
+zik 1
+zil 2
+zim 1
+ziv 2
+zji 3
+zju 1
+zkl 1
+zko 1
+zkr 1
+zla 3
+zle 1
+zli 5
+zlj 1
+zlo 1
+zma 1
+zme 3
+zmi 2
+zmo 2
+zmr 1
+zna 15
+zne 3
+zni 3
+zno 3
+zo  1
+zo, 1
+zof 1
+zom 1
+zov 5
+zpo 1
+zre 2
+zrl 1
+zrn 1
+zso 1
+zum 3
+zur 1
+zve 5
+zvi 1
+zvo 1
+zvr 1
+zyj 1
+zzi 1
+z­n 1
+ –  3
+« j 2
+« s 2
+­ja 1
+­jo 1
+­no 1
+»Le 1
+»Po 1
+»Ro 1
+»Ta 1
+»To 1
+»go 1
+»je 1
+»ka 1
+»po 1
+»si 1
+»Če 1
+Émi 1
+ába 1
+ész 1
+ünc 1
+üng 1
+üre 1
+ürn 1
+ća, 3
+Če  1
+Čed 1
+Čep 1
+Čez 1
+Člo 2
+Čol 3
+Črn 1
+č e 1
+č i 1
+č j 1
+č k 1
+č l 1
+č m 1
+č n 2
+č o 1
+č p 4
+č z 1
+č,  2
+č.  2
+ča  1
+ča, 1
+ča. 1
+čak 2
+čal 3
+čan 4
+čar 2
+čas 8
+čat 1
+čav 1
+če  7
+če. 2
+čeg 1
+ček 2
+čel 2
+čem 3
+čen 8
+čer 1
+čes 1
+čet 9
+čev 4
+či  8
+či. 4
+čib 1
+čic 2
+čig 1
+čil 4
+čim 1
+čin 3
+čis 1
+čit 5
+čiš 1
+čja 1
+čje 1
+čji 1
+čka 1
+čke 1
+čki 1
+člo 7
+čmi 3
+čna 2
+čne 3
+čni 9
+čno 9
+čo  1
+črn 6
+čud 8
+čuj 1
+čun 2
+čut 2
+čvr 1
+č­j 1
+ław 1
+Šir 1
+Špa 1
+Šte 1
+š H 1
+š r 1
+š,  2
+ša  2
+ša. 1
+šal 5
+šan 2
+šav 1
+še  10
+še, 1
+šeg 1
+šej 4
+šem 1
+šen 2
+šer 1
+šes 1
+šev 1
+šeč 2
+ši  6
+ši. 1
+šij 1
+šim 2
+šin 1
+šir 1
+šit 2
+šič 1
+ška 2
+ške 4
+ški 6
+ško 6
+škr 1
+šku 1
+šlj 4
+šlo 2
+šna 1
+šne 1
+šni 2
+šnj 1
+šno 3
+šo  1
+šo, 1
+šot 1
+šti 8
+štr 1
+šča 6
+šče 2
+šči 9
+Že  1
+Živ 1
+ž ž 1
+ž,  1
+ža  2
+ža. 1
+žab 1
+žak 7
+žal 4
+že  4
+žel 1
+žem 1
+žen 13
+žep 1
+žev 2
+ži  1
+žib 2
+žig 1
+žil 2
+živ 7
+žje 1
+žko 1
+žni 4
+žnj 2
+žno 2
+žre 1
+  1 1
+  2 1
+– L 1
+– o 1
+– v 1
